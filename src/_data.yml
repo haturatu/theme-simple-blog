@@ -1,16 +1,11 @@
 lang: en
-
 home:
-  welcome: Hello, I am a person that writes stuff.
-
+  welcome: 'however, i did not 2001: A Space Odyssey.'
 menu_links: []
-extra_head: []
-
-# Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Blog name
-  description: General description of the blog
-  title: "=title"
-  image: "=image"
-  twitter: "@username"
-  lang: en
+  site: Soulminingrig
+  title: =title
+  image: =image
+  twitter: '@comingclean_17'
+  lang: ja
+  generator: false

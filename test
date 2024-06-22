@@ -1,0 +1,3127 @@
+Loading config file [90mfile:///home/haturatu/lumet/mod/_config.ts[39m
+Promise { <pending> }
+{
+  title: "50 ~ 60's DANNER MOUNTAIN TRAIL と、富士山",
+  date: "2021-10-29",
+  tags: [ "50s", "60s", "danner", "ダナー", "ブーツ", "マウンテントレイル", "革靴" ],
+  draft: false,
+  comments: {}
+}
+{
+  title: "3分クッキング、DenoのLume CMSで秒速でブログやサイトを立ち上げる",
+  date: "2024-06-19",
+  categories: [ "pc" ],
+  tags: [ "deno", "rust", "ssg", "雑記" ],
+  coverImage: "Screenshot_20240620_011217.png"
+}
+{
+  title: "P104-100の修理を再度試みて、諦めた",
+  date: "2023-11-18",
+  categories: [ "pc" ],
+  tags: [ "pc", "修理", "雑記", "電子工作" ]
+}
+{
+  title: "電子ゴミのロングのターゲットプライス",
+  date: "2023-02-23",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Open-RC用のMongoDBのStart-Stop-Daemon",
+  date: "2024-04-14",
+  categories: [ "pc" ],
+  tags: [ "mongodb", "pc", "雑記" ]
+}
+{ title: "CANON 80Dの一眼レフで撮影した画像データを楽に送りたい。", date: "2024-04-08" }
+{
+  title: "結局インターネット・ミーム音楽って何だったんだろうか",
+  date: "2023-05-12",
+  categories: [ "音楽" ],
+  tags: [ "音楽" ],
+  coverImage: "nyancat.png"
+}
+{
+  title: "STREET MAGAZINE NO.80 NO.43 1996,1992",
+  date: "2021-10-28",
+  tags: [
+    "1992",
+    "1996",
+    "no43",
+    "no80",
+    "street",
+    "streetmagazine",
+    "ジャングルファティーグ",
+    "ベトナム戦争"
+  ]
+}
+{
+  title: 'ダンジグ、Misfitsの"Plan9" Records名称のヒントが分散型OSの情報にあった。',
+  date: "2023-05-29"
+}
+{
+  title: "MOTHERは米国への憧れを色濃く残す作品だったのだろうか",
+  date: "2023-06-12",
+  tags: [ "ゲーム", "マザー", "米国" ],
+  coverImage: "mother.jpg"
+}
+{
+  title: "ジョニー・マー、リアム・ギャラガーも履いてる”Yogi Footwear”？",
+  date: "2023-04-27",
+  categories: [ "音楽" ],
+  coverImage: "Yogi_New_Site_Banners_for_Launch_OUR_STORY_602_x_401_01_602x.webp"
+}
+{
+  title: "CypherPunkとCME先物,ロングを積んで行こう",
+  date: "2023-01-15",
+  categories: [ "仮想通貨-投資", "投資" ]
+}
+{ title: "一部サイトにキャッシュを入れてみた。※05/18追記", date: "2023-05-17" }
+{ title: "2年間引きこもりして4年間不登校してたときの話", date: "2024-04-01" }
+{
+  title: "Arch/Artix Linuxでログイン画面で固まった時の対処法",
+  date: "2023-05-27",
+  categories: [ "pc" ]
+}
+{
+  title: "50bpの利上げ示唆 イーサリアムショートを開始",
+  date: "2023-02-16",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "ThinkPad X1 Carbon gen1 + Artix Linux(Wayland)でmozcが使えない",
+  date: "2024-06-06"
+}
+{
+  title: "債券王ジェフリー・ガンドラック : 2024年が来るか、米国340億ドルの国家債務が先に来るか皮肉を呟く",
+  date: "2024-01-04",
+  categories: [ "経済" ],
+  tags: [ "ジェフリー・ガンドラック", "債券", "経済" ],
+  coverImage: "Screenshot_20240104_151041.png"
+}
+{
+  title: "DevuanをDaedalusにアップグレードして、PHPもPHP8.2.7に。",
+  date: "2023-08-30",
+  categories: [ "pc" ],
+  tags: [ "devuan", "php", "サーバー", "自宅サーバー" ],
+  coverImage: "devuan.png"
+}
+{
+  title: "Githubに転がってたPassport.jsとMongoDB、Next.jsを使っていたログイン認証を簡単にテストしてみる",
+  date: "2024-04-23",
+  categories: [ "pc" ],
+  tags: [ "mongodb", "nextjs", "pc", "雑記" ]
+}
+{ title: "2023年のドル安相場に賭ける方法", date: "2023-01-25" }
+{
+  title: "決してドル高になっている訳ではない - 世界通貨が安くなり、指標としてスタグフレーションはついに訪れた？",
+  date: "2024-04-27",
+  categories: [ "経済" ],
+  tags: [ "スイスフラン", "ドル円", "日本円", "米国債" ]
+}
+{
+  title: 'ピノキオPを聴きながら読む"いちご100%"は今の時代だからこそ出来る楽しみがあった。',
+  date: "2023-12-17",
+  categories: [ "音楽" ],
+  tags: [ "いちご100", "漫画", "雑記", "音楽" ],
+  coverImage: "GBU1v9gawAIH3Dt.jpeg"
+}
+{
+  title: "Mastodonのスパムアカウント投稿を削除するスクリプト - Delete spam account posts on Mastodon",
+  date: "2024-02-19",
+  categories: [ "pc" ],
+  tags: [ "サーバー", "自宅サーバー", "雑記" ]
+}
+{
+  title: "日銀の歴史的利上げ（金融緩和縮小）と銀行株",
+  date: "2022-12-20",
+  categories: [ "その他", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "デジタル・ゴールドラッシュ - 18~19世紀を繰り返すのか",
+  date: "2023-05-26",
+  categories: [ "pc", "ゴールド", "ドル円", "投資" ],
+  tags: [
+    "amd",     "cwt",
+    "fsp",     "micron",
+    "samsung", "skhynix",
+    "コラム",  "台湾",
+    "米国"
+  ]
+}
+{
+  title: "個人的に感じたMongoDBとその他RDBMSと比較した時のメリットデメリット",
+  date: "2024-04-28",
+  categories: [ "pc" ],
+  tags: [ "mariadb", "mongodb", "pc", "rdbms", "自宅サーバー", "雑記" ]
+}
+{
+  title: "HTTrackでのCLI時の強力にサイトをDumpする為のオプション",
+  date: "2024-03-24",
+  categories: [ "pc" ],
+  tags: [ "httrack", "pc", "雑記" ]
+}
+{ title: "あなたの幸せとはなんですか？-生きている上で重要視するもの", date: "2023-04-06" }
+{
+  title: "【eyes4you.org】Wikipediaのミラーサイトを公開しました。",
+  date: "2023-08-04",
+  categories: [ "pc" ],
+  tags: [ "kiwix", "pc", "wikipedia", "ドメイン", "自宅サーバー" ],
+  coverImage: "doukutu.png"
+}
+{
+  title: "翻訳 Sohn 2022 | John Collison in conversation with Stanley Druckenmiller",
+  date: "2022-06-21"
+}
+{
+  title: "クジラの活動が活発化-ロング追加",
+  date: "2023-02-21",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "世界恐慌はまだ始まったばかり-次の破綻はどこか？-未来予言したBTC@サトシナカモトのメッセージ-OpenAIの開発者サムアルトマンは一体どういう人間？",
+  date: "2023-03-16"
+}
+{
+  title: "国の巨額債務と対外資産から見る日本円の強さとは",
+  date: "2023-04-22",
+  categories: [ "ドル円", "投資" ],
+  tags: [ "ドル円-国の債務", "日本円" ]
+}
+{
+  title: "次のテーマはセキュリティへ向かいビットコイン暴騰へ",
+  date: "2023-04-16",
+  tags: [ "btc", "eth", "セキュリティ", "ビットコイン", "投機" ]
+}
+{
+  title: "ストレージ関連の市場崩壊と助け船は分散型ストレージ - 寿命との対価",
+  date: "2023-04-25",
+  categories: [ "仮想通貨-投資", "投資" ],
+  tags: [ "bitcoin", "ストレージ", "仮想通貨", "分散型" ]
+}
+{
+  title: "キャッシュサーバーを利用してリダイレクトエラーが発生する時の対処法②",
+  date: "2023-07-26",
+  categories: [ "pc" ],
+  tags: [ "nginx", "pc", "サーバー", "リバースプロキシ" ],
+  coverImage: "error.png"
+}
+{
+  title: "アーサーヘイズが語る日本について - 日本人のアニマルスピリットの復活と投機的な未来",
+  date: "2023-09-06",
+  categories: [ "経済" ],
+  tags: [ "bitmex", "アーサーヘイズ", "ビットコイン", "仮想通貨", "経済" ]
+}
+{
+  title: "LIVE AZUMA 2023でSTUTSにdodoが乱入して、電気グループでは生成AIが採用されていた！",
+  date: "2023-10-15",
+  categories: [ "音楽" ],
+  tags: [ "dodo", "stuts", "ライブ", "女王蜂", "雑記", "電気グルーヴ", "音楽", "音楽フェス" ],
+  coverImage: "PXL_20231014_011840796.jpg"
+}
+{
+  title: "a16zのパートナーが日本のオタク文化について語る【アンドリーセン・ホロウィッツ】",
+  date: "2023-08-30",
+  categories: [ "経済" ],
+  tags: [ "a16z", "ピーターティール", "仮想通貨", "経済" ]
+}
+{
+  title: "PHP8.2.1でとりあえずRep2/p2-phpを入れるだけ【5chフロントエンド】",
+  date: "2023-09-04",
+  categories: [ "pc" ],
+  tags: [ "2ch-5ch", "p2-php", "pc", "php", "rep2" ],
+  coverImage: "hahah.png"
+}
+{
+  title: "ゴールドをショート",
+  date: "2023-01-25",
+  categories: [ "ゴールド", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Alpha Illustrated Interviews - トレーダーのインタビュー",
+  date: "2023-02-06",
+  categories: [ "仮想通貨-投資", "投資" ]
+}
+{
+  title: "マイニングに再参入する - 歴史はまだ始まったばかり",
+  date: "2023-05-02",
+  categories: [ "仮想通貨-投資", "投資" ],
+  tags: [ "イーサリアム", "ビットコン", "マイニング", "仮想通貨", "投機", "投資", "自作pc" ],
+  coverImage: "i-img1200x900-1673073807stsxhq16.jpg"
+}
+{ title: "物価高騰の終わりと株式市場の底値はいつなのか考察", date: "2022-06-18" }
+{
+  title: '変数格納したgrepをechoするとき"なしだとワンライナーで出力される',
+  date: "2024-03-24",
+  categories: [ "pc" ],
+  tags: [ "pc", "サーバー", "シェルスクリプト", "自宅サーバー", "雑記" ]
+}
+{
+  title: "damepo.jpを取得しました。その経緯とサイト紹介。",
+  date: "2023-07-09",
+  categories: [ "pc" ],
+  tags: [ "damepo-jp", "pc", "ドメイン" ],
+  coverImage: "damepo.png"
+}
+{
+  title: "狂乱物価が訪れるまでのストーリーを考える",
+  date: "2023-02-16",
+  categories: [ "ゴールド", "その他", "ドル円", "仮想通貨-投資", "投資" ]
+}
+{
+  title: "自宅サーバーのスペックと現在構成を公開",
+  date: "2023-08-09",
+  categories: [ "pc" ],
+  tags: [ "pc", "vps", "サーバー", "自宅サーバー" ],
+  coverImage: "cpu.png"
+}
+{
+  title: "世界混乱と共にハイパーインフレとゴールド上昇と米国テック企業はどうなるのか",
+  date: "2023-04-21",
+  categories: [ "ゴールド", "投資" ],
+  tags: [ "インフレ", "ゴールド", "投機", "経済" ]
+}
+{ title: "パソコンの売上高調べてたら、もはや日本の会社が無かった話", date: "2023-05-04" }
+{
+  title: "YayでのMongoDBのインストールと設定ファイルで一瞬ドツボに入る",
+  date: "2024-04-14",
+  categories: [ "pc" ],
+  tags: [ "mongodb" ]
+}
+{
+  title: "今のビットコインは国債か - 370万円の価値？",
+  date: "2023-04-23",
+  categories: [ "仮想通貨-投資", "投資" ],
+  tags: [ "bitcoin", "ビットコイン", "分散型", "国債", "投機", "投資" ]
+}
+{
+  title: "HTTRACKを使ってサイトを丸ごと保存する方法【保存のお手伝いします】",
+  date: "2023-07-15",
+  categories: [ "pc" ],
+  tags: [ "devuan", "httrack", "linux", "pc", "ウェブスクレイピング" ],
+  coverImage: "httrack.png"
+}
+{
+  title: "お金持ちになるために職業をどう選ぶべきか",
+  date: "2023-05-26",
+  categories: [ "pc", "その他", "投資" ],
+  tags: [ "ボーカロイド", "経済", "音楽" ]
+}
+{
+  title: "グラボのP104-100をパターン修理した",
+  date: "2023-11-18",
+  categories: [ "pc" ],
+  tags: [ "pc", "ジャンク", "修理", "雑記", "電子工作" ],
+  coverImage: "PXL_20231118_183437736.jpg"
+}
+{
+  title: "ゴールドとビットコインの後追い相関性とアルトコインのロングを開始",
+  date: "2023-02-20",
+  categories: [ "ゴールド", "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "痛みを持ってして、日本経済が大きくリバウンドする可能性 - 若者への投資とアニマルスピリットはまるでベルベット・ゴールドマイン",
+  date: "2023-11-06",
+  categories: [ "その他", "投資", "経済" ],
+  tags: [ "投資", "日本", "経済" ]
+}
+{ title: "レイ・ダリオが答えるQ&A", date: "2023-03-16" }
+{ title: "米国の広がる融資サービスと気になるウォレットアドレス", date: "2023-03-04" }
+{
+  title: "MATICのショート指値とBLURのロング",
+  date: "2023-02-18",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Westone Audio (ウェストンオーディオ) UM Pro30 を購入した。",
+  date: "2023-10-22",
+  categories: [ "音楽" ],
+  tags: [ "イヤホン", "雑記", "音楽" ],
+  coverImage: "PXL_20231021_120140574.jpg"
+}
+{
+  title: "NFTの光と闇 - 資金洗浄の代替手段",
+  date: "2023-04-17",
+  categories: [ "仮想通貨-投資", "投資" ],
+  tags: [
+    "bitcoin",
+    "btc",
+    "eth",
+    "nft",
+    "イーサリアム",
+    "ビットコイン",
+    "仮想通貨",
+    "投機",
+    "投資"
+  ]
+}
+{
+  title: "キャッシュサーバーを利用してリダイレクトエラーが発生する時の対処法",
+  date: "2023-07-25",
+  categories: [ "pc" ],
+  tags: [ "freebsd", "nginx", "pc", "サーバー" ],
+  coverImage: "error.png"
+}
+{
+  title: "現在ポジション",
+  date: "2023-02-19",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "【WebP】Hugoを使って写真メインのポートフォリオサイトを作りたい、と美しいサイトについて",
+  date: "2023-06-01",
+  categories: [ "pc", "写真" ],
+  tags: [ "サイト", "写真" ]
+}
+{ title: "マイニング落ちPCパーツが最高に安い。", date: "2023-05-22" }
+{
+  title: "デジタルドル（CBDC）がドルを助ける？暗号技術のTim MayとFTX破綻に学ぶ事こと",
+  date: "2023-02-08",
+  categories: [ "ゴールド", "その他", "ドル円", "仮想通貨-投資", "投資" ],
+  coverImage: "images-2023-02-09T083724.448.jpeg"
+}
+{ title: "Randy Taylor", date: "2022-11-14" }
+{ title: "Pacmanで他システムにも同じソフトをインストールするだけ", date: "2024-01-20" }
+{
+  title: "アイヴァン・ネヴィルのトーキングヘッズカバー",
+  date: "2023-04-25",
+  categories: [ "音楽" ],
+  tags: [ "jazz", "rock", "トーキングヘッズ" ]
+}
+{ title: "峰不二子という女", date: "2023-01-30" }
+{
+  title: "Krautrock - La Düsseldorf は2000年を目指していたが、今は2050年の夢を見ているのだろうか？",
+  date: "2023-08-23",
+  categories: [ "音楽" ],
+  tags: [ "kraftwerk", "la-dusseldorf", "ドイツ音楽", "レコード", "音楽" ],
+  coverImage: "57085394.jpg"
+}
+{
+  title: "2024Q1 : 個人的経済見通しの正答結果と考えのまとめ",
+  date: "2024-04-11",
+  categories: [ "経済" ],
+  tags: [ "インフレ", "ゴールド", "ドル円-国の債務", "ビットコイン", "投機", "経済", "雑記" ]
+}
+{
+  title: "HUGOでサイト構築までできた。とそこからSNSユーザー人口で考えること。",
+  date: "2023-06-02",
+  categories: [ "pc" ],
+  tags: [ "pc", "thinkpad", "分散型" ],
+  coverImage: "Screenshot_20230603_053224.png"
+}
+{
+  title: "WordPressのキャッシュさせるべきページを改めて設定する",
+  date: "2023-08-15",
+  categories: [ "pc" ],
+  tags: [ "nginx", "proxy_cache", "wordpress", "サーバー" ]
+}
+{
+  title: "PHPのアップデートで起動しなくなったNextcloudを無理やりアップデートさせる",
+  date: "2023-08-30",
+  categories: [ "pc" ],
+  tags: [ "nextcloud", "php", "サーバー", "自宅サーバー" ],
+  coverImage: "images.png"
+}
+{
+  title: "米国債 ゼロクーポンという逃避先",
+  date: "2023-02-06",
+  categories: [ "その他", "投資" ]
+}
+{
+  title: "頭脳警察のPANTAさんが亡くなっていた。 - ピストルズよりも早いパンク音楽",
+  date: "2023-10-13",
+  categories: [ "音楽" ],
+  tags: [ "日記", "雑記", "音楽", "頭脳警察" ]
+}
+{
+  title: "強い雇用統計からこれから訪れる失業率の増加とこれからのポジションについて",
+  date: "2023-02-12",
+  categories: [ "その他", "ドル円", "仮想通貨-投資", "投資" ]
+}
+{
+  title: "yt-dlpで音声ファイルだけをffmpegのffprobeで判定し、別ディレクトリに移動させるシェルスクリプト",
+  date: "2024-02-08",
+  categories: [ "pc" ],
+  tags: [ "ffmpeg", "pc", "サーバー", "シェルスクリプト", "自宅サーバー" ],
+  coverImage: "ffprobe.png"
+}
+{
+  title: "MP4とかWEBMの動画ファイルからMP3にサムネイル付きで変換させるシェルスクリプト",
+  date: "2024-02-10",
+  categories: [ "pc" ],
+  tags: [ "ffmpeg", "pc", "サーバー", "シェルスクリプト", "自宅サーバー", "雑記" ],
+  coverImage: "thum.png"
+}
+{
+  title: "Artix Linuxの導入とUNIX哲学とサイト軽量化",
+  date: "2023-04-15",
+  categories: [ "pc" ],
+  tags: [ "artix", "linux", "os", "thinkpad" ]
+}
+{
+  title: "消費者が逼迫する中、クレジットカードや自動車ローンの延滞は新型コロナウイルス感染症以前の水準を超える",
+  date: "2023-08-10",
+  categories: [ "経済" ],
+  tags: [ "アメリカ", "インフレ", "経済" ],
+  coverImage: "4chancome.png"
+}
+{
+  title: "TempleOS - Terry A. Davis 狂気的な神への信仰心とたった2MBだけで3Dゲームも完成させた天才的プログラマーは統合失調症に激しく蝕まれた",
+  date: "2023-07-09",
+  categories: [ "pc" ],
+  tags: [ "pc", "templeos", "terrydavis", "ゲーム" ],
+  coverImage: "templeos.png"
+}
+{
+  title: 'ビットコインは"デジタルゴールド"だ-Google Adsense収益化完了☆',
+  date: "2023-02-14",
+  categories: [ "ゴールド", "その他", "ドル円", "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "NextCloudで音楽の聴き方を変えてみた。",
+  date: "2023-06-22",
+  categories: [ "pc", "音楽" ],
+  tags: [ "nextcloud", "pc", "音楽" ]
+}
+{
+  title: "半年間外に放置した93FW Patagonia Nitro Anorak Jacket",
+  date: "2023-05-19",
+  categories: [ "pc" ],
+  tags: [ "patagonia", "ジャンク", "服" ],
+  coverImage: "MG_2782.jpg"
+}
+{
+  title: 'MADE IN UK "IBM SPACE SERVER 1394099" バックリングスプリング機構 ターミナル キーボード DEADSTOCK',
+  date: "2021-10-24",
+  tags: [ "1394099", "deadstock", "ibm", "uk", "キーボード", "バックリングスプリング機構" ],
+  coverImage: "PXL_20211024_004556466.jpg"
+}
+{
+  title: "今更、涼宮ハルヒの憂鬱を見た",
+  date: "2024-05-12",
+  tags: [ "雑記" ],
+  coverImage: "3a2b1d50fbc97649e68ed60feeccbd90.jpg"
+}
+{
+  title: "馬鹿には馬鹿らしく、後から振り返りやすくしないといけない",
+  date: "2024-04-27",
+  tags: [ "雑記" ]
+}
+{ title: "Chat GPTを使った商品説明が革命すぎる(´・ω・｀)", date: "2023-03-16" }
+{ title: "musicrepairの音楽ファイルの自動タグ付けの精度を上げる。", date: "2024-02-13" }
+{
+  title: "400ETH PUTなるヘッジと面白いブログ保管",
+  date: "2023-01-23",
+  categories: [ "仮想通貨-投資", "投資" ]
+}
+{
+  title: "人のために働ける職業って何があるんだろうか",
+  date: "2023-03-27",
+  categories: [ "reddit" ],
+  tags: [ "reddit", "まとめ" ]
+}
+{
+  title: "X250のSVP解除結果",
+  date: "2023-04-14",
+  categories: [ "pc" ],
+  tags: [ "thinkpad", "x240", "x250", "ジャンク" ]
+}
+{ title: "既存銀行システム崩壊によりビットコイン暴騰-利上げ停止観測も", date: "2023-03-14" }
+{
+  title: "FTX債権者リストがヤバい。GAFAM含む財務省や環境省、金融庁や他、日本の銀行多数。",
+  date: "2023-02-26"
+}
+{
+  title: "中古市場の物価高と市場急落の予想理由-レポ取引",
+  date: "2023-01-31",
+  categories: [ "その他", "投資" ]
+}
+{
+  title: "自分のウェブサイトというものは、引きこもりの延長線上でしかない",
+  date: "2024-04-11",
+  tags: [ "雑記" ]
+}
+{
+  title: "無料でWordPressサイトの運用してみませんか？【damepo.siteが余ったから】",
+  date: "2023-07-20",
+  categories: [ "pc" ],
+  tags: [ "pc", "wordpress", "サーバー", "ブログ" ],
+  coverImage: "wordpress.png"
+}
+{
+  title: "サム・アルトマンのWorld Coinは”ゼロ知識証明”から”人間の証明”に昇華するのか",
+  date: "2023-05-17",
+  categories: [ "仮想通貨-投資", "投資" ],
+  tags: [ "bitcoin", "worldapp", "worldcoin", "サムアルトマン", "ゼロ知識証明" ]
+}
+{
+  title: "軽量でシンプルに自分の欲しいチャートだけを表示させる1btc.loveを公開しました。",
+  date: "2024-02-18",
+  categories: [ "その他", "投資", "経済" ],
+  tags: [ "pc", "サーバー", "投機", "経済", "自宅サーバー" ],
+  coverImage: "1btc.png"
+}
+{
+  title: "NextcloudでRedisを動作させるまでの格闘",
+  date: "2023-07-06",
+  categories: [ "pc" ],
+  tags: [ "nextcloud", "pc", "redis", "キャッシュ", "プロクシ" ]
+}
+{
+  title: "【断捨離促進】LINEで投げるだけAIで商品紹介BOT",
+  date: "2023-03-18",
+  categories: [ "pc" ],
+  tags: [ "ai", "bot", "chatgpt", "line" ]
+}
+{
+  title: "This is a post with mastodon comments",
+  date: "2018-08-23",
+  author: "Óscar Otero",
+  tags: [
+    "Placeholder",
+    "Example",
+    "Lorem ipsum",
+    "JavaScript",
+    "TypeScript"
+  ],
+  comments: { src: "https://mastodon.gal/@misteroom/110810445656343599" },
+  draft: false
+}
+{ title: "無能のログイン機能実装をしたけど", date: "2024-04-21" }
+{
+  title: "オペアンプを2つ購入。",
+  date: "2023-10-19",
+  categories: [ "音楽" ],
+  tags: [ "オペアンプ", "電子工作", "音楽" ],
+  coverImage: "PXL_20231019_073211188.jpg"
+}
+{
+  title: "VIX(恐怖指数)が70まで上昇することに6億円賭けるトレーダー - ビックテックの墜落が大恐慌を招く恐れ",
+  date: "2023-05-06",
+  categories: [ "その他", "仮想通貨-投資", "投資" ],
+  tags: [ "ビットコイン", "投機", "投資", "米国株", "経済" ],
+  coverImage: "N202212307900000_x.jpg"
+}
+{
+  title: "新規投稿を反映させる為、WordPressでのnginxキャッシュをblogと別に設定する",
+  date: "2023-08-15",
+  categories: [ "pc" ],
+  tags: [ "nginx", "wordpress", "キャッシュ", "リバースプロキシ" ]
+}
+{
+  title: "レイ・ダリオ - 国への信頼に関する衝撃的な調査結果",
+  date: "2023-09-06",
+  categories: [ "pc" ],
+  tags: [ "アメリカ", "アンケート", "レイダリオ", "投機", "米国", "経済", "雑記" ]
+}
+{
+  title: "HTTrackのソースコードを改変して限界突破させる（Too many URLs errorを回避）",
+  date: "2024-04-09",
+  categories: [ "pc" ],
+  tags: [ "httrack", "oss", "pc", "ソフトウェア" ]
+}
+{ title: "古着屋からインフラ屋(ぱそこん)になってから半年が経った", date: "2024-06-06" }
+{
+  title: "ThinkPad X1 Carbon Gen1でTLP(Open-RC用)をインストールし適応させる",
+  date: "2024-06-06"
+}
+{
+  title: "1. ThinkPad X60のSVPパスワードロック解除を試みる",
+  date: "2024-04-21",
+  categories: [ "pc" ],
+  tags: [ "thinkpad", "x60" ]
+}
+{
+  title: "Torブラウザを改めて使い始める。-Microsoft はWindowsOSを捨てる可能性から、これからGNU/Linuxに移行",
+  date: "2023-04-07",
+  categories: [ "pc" ]
+}
+{ title: "Slackwareへの興味と極度の面倒くさがり", date: "2023-05-10" }
+{
+  title: "バーゼル4と2022とロックフェラーの死",
+  date: "2022-12-31",
+  categories: [ "ゴールド", "ドル円", "仮想通貨-投資", "投資" ]
+}
+{ title: "サイファーパンク宣言-Eric Hughes", date: "2023-04-07" }
+{
+  title: "Wireguardのクライアントを起動させるとローカルから見つからなくなる時の対処法 with Nextcloud",
+  date: "2024-02-07",
+  categories: [ "pc" ],
+  tags: [ "pc", "vpn", "wireguard", "ネットワーク", "自宅サーバー", "雑記" ],
+  coverImage: "ff-e1707311958782.png"
+}
+{
+  title: "DOGE COINロング(*^^*)",
+  date: "2023-02-04",
+  categories: [ "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{ title: "270円64GBのUSBメモリをテストする", date: "2023-04-29" }
+{
+  title: "死んだドル.SOLANA",
+  date: "2023-01-02",
+  categories: [ "ドル円", "仮想通貨-投資", "投資" ]
+}
+{
+  title: "ベアおじさんとZETA CHAINお触りエアドロ",
+  date: "2023-01-18",
+  categories: [ "仮想通貨-投資", "投資" ]
+}
+{
+  title: "【GOOGLEは】男のロマン的にフォントIBM Plexの導入をした。【必要悪】",
+  date: "2023-05-18",
+  categories: [ "pc" ],
+  tags: [ "css", "ibm", "フォント" ],
+  coverImage: "ibm-plex-images-768x156-1.jpg"
+}
+{
+  title: "金利高にも関わらず、第二インフレを徐々に折り込み始める金融市場",
+  date: "2023-11-02",
+  categories: [ "ゴールド", "仮想通貨-投資", "投資", "経済" ],
+  tags: [ "ゴールド", "ビットコイン", "投機", "経済" ]
+}
+{
+  title: "新エヴァを観直した",
+  date: "2023-06-13",
+  coverImage: "Fyf19goaIAA797m.jpeg"
+}
+{
+  title: "無題",
+  date: "2023-05-05",
+  categories: [ "写真" ],
+  coverImage: "MG_2258-scaled.jpg"
+}
+{
+  title: "Streamlitでかんたんにチャートの比較、画像出力できるものをつくった",
+  date: "2024-06-12",
+  categories: [ "pc" ],
+  tags: [ "fred", "pc", "サーバー", "自宅サーバー", "雑記" ],
+  coverImage: "Screenshot_20240613-050137.png"
+}
+{
+  title: "ドラッケンミラー - 今年後半までにハードランディング、株価急落が訪れる",
+  date: "2023-04-30",
+  categories: [ "その他", "ドル円", "投資" ],
+  tags: [ "bitcoin", "インタビュー", "ドラッケンミラー", "ビットコイン", "投機" ]
+}
+{
+  title: "プラグイン式PC電源のケーブルは本当に互換性が無いのか？検証した。【危険】",
+  date: "2023-08-12",
+  categories: [ "pc" ],
+  tags: [ "gpu", "pc", "グラフィックボード", "人柱", "実験" ],
+  coverImage: "PXL_20230811_123158476.jpg"
+}
+{
+  title: "ドル円",
+  date: "2022-12-28",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "古着屋からインフラ（サーバー）エンジニアへ",
+  date: "2023-10-06",
+  tags: [ "仕事", "雑記" ]
+}
+{
+  title: "Devuan + NextCloudでウェブサーバー構築",
+  date: "2023-06-21",
+  categories: [ "pc" ],
+  tags: [ "devuan", "nextcloud", "pc", "自宅サーバー" ]
+}
+{
+  title: "12/2の雇用統計",
+  date: "2022-12-03",
+  categories: [ "ゴールド", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "NextcloudでSQLiteからMariaDBに移行（変換）する",
+  date: "2024-02-06",
+  categories: [ "pc" ],
+  tags: [ "mariadb", "nextcloud", "sqlite", "自宅サーバー" ]
+}
+{
+  title: "初期不良だったらしい貰ったGalax RTX2070を修理した",
+  date: "2024-01-12",
+  categories: [ "pc" ],
+  tags: [ "nvidia", "pc", "グラフィックボード", "グラボ", "修理", "自作pc", "電子工作" ],
+  coverImage: "PXL_20240108_141208832.jpg"
+}
+{ title: "SSHでGit pushするだけ", date: "2024-05-11" }
+{
+  title: "X250にシーラカンス級OSのSlackwareをインストール",
+  date: "2023-05-14",
+  categories: [ "pc" ],
+  tags: [ "artix", "linux", "pc", "slackware", "thinkpad", "x250", "サーバー" ],
+  coverImage: "maxresdefault.jpg"
+}
+{
+  title: "ギャンブルトレードの手法",
+  date: "2023-01-27",
+  categories: [ "ゴールド", "その他", "ドル円", "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Re : 連続したテキストからYoutube URL抜く正規表現grepメモ そこからyt-dlpする ~?(クエスチョン)はエスケープ出来ない！？の巻~",
+  date: "2024-01-18",
+  categories: [ "pc" ],
+  tags: [ "gnu-linux", "pc", "youtube", "正規表現", "雑記" ]
+}
+{
+  title: "QPUの移行へ進むと同時に暗号化技術への未来-世界はなぜ暗号化を求める？",
+  date: "2023-03-17",
+  categories: [ "pc" ],
+  tags: [ "qpu", "rsa暗号", "ビットコイン", "分散型", "暗号化" ]
+}
+{
+  title: "ゴールドマン・サックス調査へ リーマンショックの再来か",
+  date: "2023-01-20",
+  categories: [ "その他", "投資" ]
+}
+{
+  title: "2024年のドル安へ向けて現状市場をまとめよう。 - 苦しいようにしか見えない米国経済・・・どうなるビットコイン！、止まらない米国カード延滞率",
+  date: "2023-12-17",
+  categories: [ "ゴールド", "ドル円", "仮想通貨-投資", "投資", "経済" ],
+  tags: [ "ドル円-国の債務", "ビットコイン", "仮想通貨", "投機", "投資", "米国債", "経済" ]
+}
+{
+  title: "今まで自分が撮影してきた写真をアーカイブ化 - 世界最後の日々を公開しました。",
+  date: "2023-07-24",
+  categories: [ "写真" ],
+  tags: [ "ウェブサイト", "写真", "雑記" ],
+  coverImage: "picdamepo.jpg"
+}
+{
+  title: "How to install this theme",
+  date: 2022-06-12T00:00:00.000Z,
+  author: "Óscar Otero",
+  tags: [ "Instructions" ]
+}
+{
+  title: "PaxosがBUSDを発行停止、BNBをショート",
+  date: "2023-02-13",
+  categories: [ "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Logitech Trackman Wheel トラックボール - 過去の産物ガジェットは忘れてはいけないのだろうか",
+  date: "2023-07-27",
+  categories: [ "pc" ],
+  tags: [ "logicool", "logitech", "pc", "ガジェット", "トラックボール", "マウス" ],
+  coverImage: "MG_3377.jpg"
+}
+{
+  title: "Artix LinuxでCanonプリンターを使用する",
+  date: "2023-04-17",
+  categories: [ "pc" ],
+  tags: [ "artix", "linux", "os", "thinkpad" ]
+}
+{
+  title: "ViエディタのZZコマンドはインストールしたばかりのGNU/Linux又はBSD機で便利",
+  date: "2024-02-03",
+  categories: [ "pc" ],
+  tags: [ "freebsd", "gnu-linux", "openbsd", "pc", "サーバー", "自宅サーバー", "雑記" ]
+}
+{ title: "LIKE A ROLLING STONE", date: "2023-03-28" }
+{
+  title: "グラフィックボードのファンの回転が悪くなったら自分でお手入れをしよう！",
+  date: "2023-08-12",
+  categories: [ "pc" ],
+  tags: [ "gpu", "pc", "グラフィックボード", "ジャンク", "修理", "分解" ],
+  coverImage: "PXL_20230812_150824789.jpg"
+}
+{
+  title: "GPUとストレージをしこたま買え(^^)皆過去のビットコインを忘れたの？",
+  date: "2023-06-01",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "3DFX Voodoo 5 6000のプロトタイプが143万で落札される",
+  date: "2023-07-25",
+  categories: [ "pc" ],
+  tags: [ "3dfx", "ebay", "pc", "グラボ", "自作pc", "雑記" ]
+}
+{
+  title: "WPテーマが嘘つきで一晩明かした話",
+  date: "2023-03-31",
+  categories: [ "pc" ]
+}
+{
+  title: "xx.darkstar.comみたいにサブドメインで稼働してるSMTPサーバでDKIM認証するならちゃんとopendkim.confにサブドメイン設定しないといけないよ！の巻",
+  date: "2024-02-03",
+  categories: [ "pc" ],
+  tags: [ "dovecot", "opendkim", "postfix", "サーバー", "メールサーバー", "自宅サーバー" ],
+  coverImage: "Screenshot_20240204_033936.png"
+}
+{ title: "Sasaguchi Souon Harmonica ASCII", date: "2023-05-11" }
+{ title: "元FTX勢が作った取引所、BackPackに登録しました。", date: "2024-06-16" }
+{
+  title: "Postfixでメールユーザ以外に送りつけて来るメールを全てブロック",
+  date: "2024-05-08",
+  categories: [ "pc" ],
+  tags: [ "freebsd", "pc", "postfix", "サーバー", "自宅サーバー" ]
+}
+{
+  title: "Kernel PanicでカーネルアップデートできなかったDevuanをKernel6.6*までアップデートする",
+  date: "2024-04-09",
+  categories: [ "pc" ],
+  tags: [ "devuan", "gnu-linux", "pc", "サーバー", "自宅サーバー" ],
+  coverImage: "Screenshot_20240409_202728.png"
+}
+{
+  title: "ThinkPad X230で出来る限りビルドを早くさせたい。",
+  date: "2024-02-23",
+  categories: [ "pc" ],
+  tags: [ "pc", "thinkpad", "x230", "雑記" ]
+}
+{
+  title: "Pythonの標準出力をnohupかつ&amp;でバックグラウンド実行させるとファイルに書き出しされないのでLoguruでログ出力に",
+  date: "2024-04-14"
+}
+{
+  title: "mongodumpとmongorestoreでインポートとエクスポートを行う",
+  date: "2024-05-12",
+  categories: [ "pc" ],
+  tags: [ "mongodb", "pc", "雑記" ]
+}
+{ title: "前にBtrfsでフォーマットしたSSDでどハマリしてる件", date: "2024-01-19" }
+{ title: "無能が答える あなたの好きなモノについて１００の質問", date: "2024-04-14" }
+{
+  title: "OpenBSD7.3でThinkPadのトラックポイントを有効にさせる",
+  date: "2023-09-30",
+  categories: [ "pc" ],
+  tags: [ "openbsd", "os", "pc", "thinkpad" ]
+}
+{
+  title: "ELEGIANT Bluetooth パワーアンプ HY-V9B/V10 解体新書",
+  date: "2023-07-20",
+  categories: [ "pc" ],
+  tags: [ "elegiant", "hy-10v", "オーディオ", "デジタルアンプ", "ブログ" ],
+  coverImage: "MG_3360.jpg"
+}
+{
+  title: "2023",
+  date: "2022-12-26",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Nextcloudでメディアコンテンツに対してのみプロキシキャッシュを有効にさせる",
+  date: "2023-08-14",
+  categories: [ "pc" ],
+  tags: [ "nextcloud", "nginx", "vps", "自宅サーバー" ]
+}
+{
+  title: "【日本で】Moneroノード立ち上げ中",
+  date: "2023-08-22",
+  categories: [ "pc" ],
+  tags: [ "xmr", "サーバー", "ビットコイン", "モネロ", "仮想通貨", "自宅サーバー" ],
+  coverImage: "xmrnode.png"
+}
+{ title: "日本では高齢化がインフレ抑制につながった…アメリカもその道をたどっている", date: "2023-12-11" }
+{
+  title: "FreeBSDでmitmproxyのビルドがコケるのは、シンプルに重すぎたのとCargoを入れていなかったからだった",
+  date: "2024-02-04",
+  categories: [ "pc" ],
+  tags: [ "freebsd", "rust", "vpn", "vps" ]
+}
+{
+  title: "続・RTX2070のGDDRメモリエラーをメモリ電源供給部のショートを解消し修理する",
+  date: "2024-01-21",
+  categories: [ "pc" ],
+  tags: [ "pc", "修理", "自作pc", "雑記", "電子工作" ]
+}
+{
+  title: "テザードルのAUMに対してビットコインは過小評価と今のポジション",
+  date: "2023-02-09",
+  categories: [ "ゴールド", "その他", "ドル円", "仮想通貨-投資", "投資" ]
+}
+{
+  title: "Artix Linuxで起動しなくなってたChromium系ブラウザがGTK4にして、QT_QPA_PLATFORMTHEME=gtkをコメントアウトしたら普通に起動した話",
+  date: "2024-02-23",
+  categories: [ "pc" ],
+  tags: [ "artix", "chromium", "gnu-linux", "pc", "ブラウザ" ]
+}
+{
+  title: "The BoysのNo Moneyが表す経済不況の恐ろしさ",
+  date: "2023-04-21",
+  categories: [ "投資", "音楽" ],
+  tags: [ "パンク", "投機", "経済", "音楽" ]
+}
+{
+  title: "債券王ジェフリーガンドラック氏も米国債から警告する景気後退",
+  date: "2023-03-18",
+  categories: [ "その他", "投資" ],
+  tags: [ "米国債", "経済" ]
+}
+{ title: "High Stakes Capitalから学ぶ成功と幸福とは", date: "2023-02-16" }
+{ title: "lsで出力されるファイルを改行付きで出力してほしい", date: "2024-04-02" }
+{ title: "GlayScaleのビットコイン売りが止まらない", date: "2024-01-22" }
+{
+  title: "無料サーバー、Wkey.meの思い出",
+  date: "2023-05-13",
+  categories: [ "pc" ],
+  tags: [ "サーバー", "黒歴史" ]
+}
+{
+  title: "Good Times Bad Times - Led Zeppelin 翻訳",
+  date: "2024-05-18",
+  categories: [ "音楽" ],
+  tags: [ "led-zeppelin", "歌詞", "翻訳" ]
+}
+{
+  title: "Postfix & Dovecot でメールサーバーで受信が出来ない時に大事なmaster.cfへの理解",
+  date: "2023-09-02",
+  categories: [ "pc" ],
+  tags: [ "dovecot", "freebsd", "postfix", "vps", "メールサーバー" ]
+}
+{ title: "-備忘録- アラメダリサーチをリサーチ。", date: "2021-11-11" }
+{
+  title: "僕が自己破産を考えるまで(´・ω・｀)",
+  date: "2023-03-13",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "ボルシチ。付け合せにペンネ",
+  date: "2023-02-07",
+  categories: [ "reddit", "料理" ]
+}
+{
+  title: "伝説の投機家ジェシー・リバモアが愛したオールドファッションを飲んだ",
+  date: "2023-10-30",
+  categories: [ "料理" ],
+  tags: [ "お酒", "雑記", "飲み屋", "飲んだくれ" ]
+}
+{ title: "日本vs世界の文化。", date: "2023-02-16" }
+{
+  title: "コレってやっぱヤバくない？",
+  date: "2023-01-28",
+  categories: [ "その他", "投資" ]
+}
+{
+  title: "Artix Linuxを載せたThinkPad X230でThinkFanを有効にさせる",
+  date: "2024-02-23",
+  categories: [ "pc" ],
+  tags: [ "artix", "gnu-linux", "pc", "thinkpad", "x230" ]
+}
+{ title: "ASCIIまとめ", date: "2024-03-20", tags: [ "雑記" ] }
+{
+  title: "サーバー構築/Slackware Debian OpenBSD or ...?",
+  date: "2023-05-13",
+  categories: [ "pc" ],
+  tags: [
+    "debian",
+    "openbsd",
+    "slackware",
+    "thinkpad",
+    "x220",
+    "x260",
+    "サーバー"
+  ],
+  coverImage: "MG_2668.jpg"
+}
+{
+  title: "グラボ修理日記",
+  date: "2023-06-17",
+  categories: [ "pc" ],
+  coverImage: "PXL_20230612_152611278.jpg"
+}
+{
+  title: "自宅鯖(Devuan + Apache)+WireGuard+VPS(FreeBSD + NGINX)でリバースプロキシを行う備忘録",
+  date: "2023-07-06",
+  categories: [ "pc" ],
+  tags: [ "apache2", "devuan", "nginx", "pc", "vps", "wireguard", "自宅サーバー" ],
+  coverImage: "FzwZOZbaQAAEGS3.jpeg"
+}
+{
+  title: "Devuanにnvccを導入してNVENCを有効にしてハードウェアエンコードを使えるようにする",
+  date: "2024-06-12",
+  categories: [ "pc" ],
+  tags: [ "ffmpeg", "nextcloud", "pc", "サーバー", "自宅サーバー" ]
+}
+{
+  title: "LPIC 101に合格した！",
+  date: "2024-01-28",
+  categories: [ "pc" ],
+  tags: [ "gnu-linux", "pc", "雑記" ],
+  coverImage: "PXL_20240128_0309485442.jpg"
+}
+{
+  title: "Xeon V5機でTHP(Transparent Huge Page)をオフにする",
+  date: "2024-03-16",
+  categories: [ "pc" ],
+  tags: [ "pc", "自宅サーバー", "雑記" ]
+}
+{ title: "レイ・ダリオ-世界全体のビッグサイクルについてと長期の米国投資への警告", date: "2023-03-16" }
+{
+  title: "Is char Nice ? : C言語で問題のあるChar型でインクリメントされないコード？",
+  date: "2024-06-14",
+  categories: [ "pc" ],
+  tags: [ "c言語", "pc", "雑記" ]
+}
+{ title: "AIについて思うこと", date: "2023-06-06" }
+{
+  title: "ThinkPad X260にOpenBSD 7.3をインストール",
+  date: "2023-09-30",
+  categories: [ "pc" ],
+  tags: [ "openbsd", "pc", "thinkpad", "unix" ],
+  coverImage: "cc56e4424a27130d.jpg"
+}
+{
+  title: "サイファーパンクスメーリングリスト : 今日の市場では、ドットコムブームのような興奮が復活しています。キャシー・ウッドがヘンリー・ブロジェットとジャック・グルブマンの代わりを務めており、ナスダックはナスダックを演じています。",
+  date: "2024-04-05"
+}
+{
+  title: "ThinkPad X250にArtix Linuxをインストール - 皆さんのデスクトップ環境の拘りは？",
+  date: "2023-07-23",
+  categories: [ "pc" ],
+  tags: [ "artix", "gnu-linux", "linux", "pc", "thinkpad", "x250" ],
+  coverImage: "PXL_20230722_221721537.jpg"
+}
+{
+  title: "ジャンクのBOSE 101MMを修理、とサクッとレビュー",
+  date: "2024-05-06",
+  tags: [ "bose", "オーディオ", "スピーカー", "修理", "雑記", "音楽" ]
+}
+{
+  title: "ThinkPad X240~X280 のSVPロック解除の備忘録",
+  date: "2023-04-09",
+  categories: [ "pc" ],
+  tags: [ "thinkpad", "x240", "x250", "ジャンク" ]
+}
+{
+  title: "Bad AppleのAI生成MVが凄い。",
+  date: "2023-05-16",
+  categories: [ "音楽" ],
+  tags: [ "音楽-ai" ]
+}
+{
+  title: "GW最終日の喫茶店と千葉のGoogleデータセンター",
+  date: "2024-05-06",
+  categories: [ "写真" ],
+  tags: [ "写真", "雑記" ]
+}
+{
+  title: "自分の思い出の写真家・エリオットアーウィットが亡くなってしまっていたので思い出を書きましょう。",
+  date: "2024-02-04"
+}
+{
+  title: "Googleの財務諸表をChatGPTに学習させて色々聞いてみた - 最後には陰謀論的な回答も",
+  date: "2023-04-27",
+  categories: [ "投資" ],
+  tags: [ "chatgpt", "google", "投機" ]
+}
+{
+  title: "レンタルサーバーレベルのブロッキングは想像以上にあるかも知れない事と完全可視化出来ない検閲",
+  date: "2023-07-28",
+  categories: [ "pc" ],
+  tags: [ "pc", "レンタルサーバー", "自宅サーバー" ]
+}
+{
+  title: "備忘録-PINEコード",
+  date: "2022-11-06",
+  categories: [ "仮想通貨-投資", "投資" ]
+}
+{
+  title: "Artix Linuxで起動しないVivaldiをFlatpakから起動し回避する【Chromium系ブラウザ】",
+  date: "2023-11-27",
+  categories: [ "pc" ],
+  tags: [ "gnu-linux", "pc", "ブラウザ" ]
+}
+{
+  title: "GNU/Linuxで起動時に動かすスクリプトは/etc/rc.localに記述しよう！",
+  date: "2024-02-06",
+  categories: [ "pc" ],
+  tags: [ "gnu-linux", "シェル", "スクリプト", "自宅サーバー" ]
+}
+{ title: "レイ・ダリオ-シリコンバレー銀行の状況について思うこと", date: "2023-03-27" }
+{
+  title: "Yamaha EP-E50A Bluetoothイヤホンの断線修理",
+  date: "2023-10-19",
+  categories: [ "音楽" ],
+  tags: [ "ハンダ", "修理", "雑記", "電子工作", "音楽" ],
+  coverImage: "PXL_20231018_130114070.jpg"
+}
+{
+  title: "今の自宅PC作業環境について",
+  date: "2024-03-24",
+  categories: [ "pc" ],
+  tags: [ "pc", "雑記" ]
+}
+{
+  title: "秒速で建てるDLNAメディアサーバー【MiniDLNA】",
+  date: "2024-02-10",
+  categories: [ "pc" ],
+  tags: [ "pc", "サーバー", "自宅サーバー", "雑記" ],
+  coverImage: "minidlna.png"
+}
+{
+  title: "Python : error: externally-managed-environment",
+  date: "2024-05-12",
+  categories: [ "pc" ],
+  tags: [ "pc", "python", "雑記" ]
+}
+{
+  title: "【Stable Diffusion】AI画像生成はシラフで見れるサイケデリック空間【画像色々付き】",
+  date: "2023-05-31",
+  categories: [ "pc", "音楽" ],
+  tags: [ "ai", "stable-diffusion", "サイケ", "画像生成", "音楽" ],
+  coverImage: "1685462128174-e1685509674160.jpg"
+}
+{
+  title: "VultrとConoHaでのSpeedTest結果 ベンチマーク速度比較",
+  date: "2023-07-23",
+  categories: [ "pc" ],
+  tags: [ "conoha", "pc", "vpn", "vps", "vultr", "自宅サーバー" ]
+}
+{ title: "備忘録2022/10/20", date: "2022-10-20" }
+{ title: "2017年頃のビットコインマイニングとその時とこれからの商品価格のベア的思考", date: "2023-01-27" }
+{
+  title: "P104-100を2枚刺しで死亡",
+  date: "2023-05-08",
+  coverImage: "PXL_20230505_152346555-scaled.jpg"
+}
+{
+  title: "Supervisorを使って、Systemd FreeなMastodonインスタンスを立ち上げる",
+  date: "2023-08-20",
+  categories: [ "pc" ],
+  tags: [ "sns", "マストドン", "自宅サーバー" ]
+}
+{ title: "Spred Firefox", date: "2023-03-02" }
+{
+  title: "冬超え",
+  date: "2024-04-27",
+  tags: [ "雑記" ],
+  coverImage: "500x500.jpg"
+}
+{
+  title: "さて、消費社会に埋もれた名作キーボードを紹介しましょう。 ~NEC SG-26800-2VC~ミネベアミツミ製スイッチキーボード",
+  date: "2023-08-09",
+  categories: [ "pc" ],
+  tags: [ "nec", "nmb", "キーボード", "ミツミミネベア", "レビュー" ],
+  coverImage: "MG_3565.jpg"
+}
+{
+  title: "ロシアのフィッシング詐欺のIPアドレスが32bit空間を超える",
+  date: "2023-06-10",
+  categories: [ "pc" ]
+}
+{ title: "東大ブロックチェーン講座10回目を受けた : Solidity開発の概要", date: "2024-06-11" }
+{
+  title: "遊びの仮想neofetch",
+  date: "2023-09-10",
+  categories: [ "pc" ],
+  tags: [ "gnu-linux", "meme", "neofetch", "pc", "コマンド", "初音ミク", "重音テト" ]
+}
+{
+  title: "翻訳 Sohn 2022 | Patrick Collison in conversation with Sam Bankman-Fried",
+  date: "2022-06-21"
+}
+{
+  title: "ViMusicを日本語化apk",
+  date: "2023-09-12",
+  categories: [ "pc", "音楽" ],
+  tags: [ "android", "androidstudio", "apk", "アプリ", "音楽" ]
+}
+{
+  title: "Bob Dylan - Like a Rolling Stone",
+  date: "2024-05-06",
+  categories: [ "音楽" ],
+  tags: [ "雑記", "音楽" ]
+}
+{
+  title: "なぜチャートを見るのか",
+  date: "2022-09-04",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "Money - Pink Floyd 歌詞翻訳 インフレと資本社会の影を落とす",
+  date: "2024-05-18",
+  categories: [ "経済", "音楽" ],
+  tags: [ "pink-floyd", "歌詞", "歌詞翻訳", "音楽" ]
+}
+{ title: "Stripe.jsの遅延読み込みをさせたい", date: "2023-05-20" }
+{
+  title: "ANENG AN8008 マルチメーター を注文した。",
+  date: "2023-10-22",
+  categories: [ "pc" ],
+  tags: [ "pc", "修理", "雑記", "電子工作" ]
+}
+{
+  title: "アーサー・ヘイズ - 銀行救済を民間企業が行った事により国の信用破綻が加速する",
+  date: "2023-05-03",
+  categories: [ "その他", "ドル円", "仮想通貨-投資", "投資" ],
+  tags: [ "ビットコイン", "仮想通貨", "分散型", "投機", "投資", "経済" ]
+}
+{
+  title: "そろそろ本気で人生にむきあわにゃいとヤバくにゃい？というスレを立ててから4年経った",
+  date: "2023-02-15",
+  categories: [ "reddit" ]
+}
+{
+  title: "ちょっとしたViMusic日本語化を変更と、Brotliはストリーミングに適している？",
+  date: "2023-09-15",
+  categories: [ "pc" ],
+  tags: [ "nextcloud", "vimusic", "アプリ" ]
+}
+{
+  title: "FXやめ^_^とJCBデビットとゴールドカードを作る",
+  date: "2023-02-02",
+  categories: [ "その他", "仮想通貨-投資", "投資" ],
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "KingSpec 中華SSD 解体",
+  date: "2023-05-28",
+  categories: [ "pc" ],
+  tags: [ "intel", "pc", "ssd" ],
+  coverImage: "PXL_20230527_153452131.jpg"
+}
+{
+  title: "マイニングを再開した【驫麤】",
+  date: "2023-08-12",
+  categories: [ "pc" ],
+  tags: [ "gpu", "グラフィックボード", "マイニング", "仮想通貨" ],
+  coverImage: "PXL_20230811_125155576.jpg"
+}
+{
+  title: 'SlackwareのTシャツが気になった - ARM CPUで稼働する"Slackware ARM"',
+  date: "2023-05-16",
+  categories: [ "pc" ],
+  tags: [ "pc", "slackware", "tシャツ", "服" ],
+  coverImage: "Screenshot_20230516_140948.png"
+}
+{
+  title: "続・Btrfsの怪",
+  date: "2024-01-20",
+  tags: [ "pc", "ssd", "自作pc", "雑記" ],
+  coverImage: "PXL_20240119_170803576.jpg"
+}
+{
+  title: "炭鉱のカナリア-2年以内に利下げをする。ロング中止、急速に伸びるクレジット負債",
+  date: "2023-01-17",
+  categories: [ "その他", "仮想通貨-投資", "投資" ]
+}
+{
+  title: "比較 : RUST、C言語とシェルスクリプトからbase64のランダム値を出力した時のベンチマーク",
+  date: "2024-04-10",
+  categories: [ "pc" ],
+  tags: [ "c言語", "pc", "rust", "シェルスクリプト", "ベンチマーク", "雑記" ]
+}
+{
+  title: "無料のCDDB、FreeDBが閉鎖していたのでMusicRepairでSpotify APIを使いタグを自動取得していく。",
+  date: "2024-02-12",
+  categories: [ "pc", "音楽" ],
+  tags: [ "pc", "サーバー", "自宅サーバー", "雑記", "音楽" ],
+  coverImage: "music.png"
+}
+{
+  title: "連続したテキストからYoutube URL抜くだけでの正規表現grepメモ そこからyt-dlpする",
+  date: "2024-01-16"
+}
+{ title: "クリプトアナーキー宣言-Timothy C. May", date: "2023-04-07" }
+{
+  title: '"洞窟物語"開発元のPINK HEAVENが楽しかった。',
+  date: "2023-07-17",
+  categories: [ "pc" ],
+  tags: [ "ゲーム", "洞窟物語", "開発室ピクセル" ],
+  coverImage: "2048-1024.jpg"
+}
+{
+  title: "NIKE AMBIENT",
+  date: "2022-02-13",
+  tags: [ "1999", "nike", "広告" ]
+}
+{
+  title: "Nginxにて自動的にHTTPS経由で取得させ標準化",
+  date: "2023-07-07",
+  categories: [ "pc" ],
+  tags: [ "https", "nginx", "pc", "vps", "自宅サーバー" ]
+}
+{
+  title: "【両建て】低リスクで$OMGを保有して$BOBAを貰う【不労所得】",
+  date: "2021-11-06",
+  tags: [
+    "boba",
+    "crypto",
+    "fx",
+    "gmo",
+    "omg",
+    "エアドロップ",
+    "バイナンス",
+    "仮想通貨",
+    "暗号資産"
+  ]
+}
+{
+  title: "LINEでそこそこ音楽の翻訳してくれるAI",
+  date: "2023-03-21",
+  categories: [ "pc", "音楽" ],
+  tags: [ "ai", "chatgpt", "line", "音楽" ]
+}
+{
+  title: "1987年以来初めてレコードの売り上げがCDを上回った - アナログ文化は残るというパラダイム",
+  date: "2023-04-24",
+  categories: [ "その他", "投資", "音楽" ],
+  tags: [ "cd", "サブスクリプション", "ビンテージ", "レコード", "音楽" ]
+}
+{
+  title: "The Specials Rat Raceの考察",
+  date: "2023-04-09",
+  categories: [ "音楽" ],
+  tags: [ "thespecials", "音楽" ]
+}
+{
+  title: "CUDA out of memory. GPUメモリ不足で止まる時の対処法",
+  date: "2023-06-13",
+  categories: [ "pc" ],
+  tags: [ "ai", "gpu", "stable-diffusion", "グラボ" ]
+}
+{
+  title: "ETHのショートポジション",
+  date: "2023-02-17",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+{
+  title: "2022-06-15 トレード日記",
+  date: "2022-06-15",
+  draft: true,
+  tags: [],
+  comments: {}
+}
+🔥 /styles.css <- [90m/styles.css[39m
+🔥 /404.html <- [90m/404.md[39m
+🔥 /posts/50-60s-danner-mountain-trail-and-mt-fuji/ <- [90m/posts/50-60s-danner-mountain-trail-and-mt-fuji.md[39m
+🔥 /posts/launch-a-blog-or-website-in-seconds-with-denos-lume-cms/ <- [90m/posts/launch-a-blog-or-website-in-seconds-with-denos-lume-cms.md[39m
+🔥 /posts/i-tried-to-repair-p104-100-again-and-gave-up./ <- [90m/posts/I tried to repair p104-100 again and gave up..md[39m
+🔥 /posts/target-price-for-e-waste-long/ <- [90m/posts/Target price for e-waste long.md[39m
+🔥 /posts/open-rc-mongodb-start-stop-daemon/ <- [90m/posts/open-rc-mongodb-start-stop-daemon.md[39m
+🔥 /posts/i-was-able-to-easily-send-image-data-taken-with-a-canon-80d-slr-camera./ <- [90m/posts/I was able to easily send image data taken with a Canon-80d SLR camera..md[39m
+🔥 /posts/so-what-exactly-is-internet-meme-music/ <- [90m/posts/So what exactly is internet meme music?.md[39m
+🔥 /posts/street-magazine-no-80-no-43-19961992/ <- [90m/posts/street-magazine-no-80-no-43-19961992.md[39m
+🔥 /posts/danzig-misfits-plan9-records-name-hints-at-distributed-os-information/ <- [90m/posts/Danzig, Misfits' Plan9-Records name hints at distributed OS information.md[39m
+🔥 /posts/mother-was-a-work-that-strongly-reflected-the-longing-for-america./ <- [90m/posts/"Mother" was a work that strongly reflected the longing for America..md[39m
+🔥 /posts/johnny-marr-and-liam-gallagher-also-wear-them./ <- [90m/posts/Johnny Marr and Liam Gallagher also wear them..md[39m
+🔥 /posts/let-s-load-up-on-cypherpunk-and-cme-futures-longs/ <- [90m/posts/Let's load up on cypherpunk and CME futures longs.md[39m
+🔥 /posts/i-tried-putting-cache-on-some-sites./ <- [90m/posts/I tried putting cache on some sites..md[39m
+🔥 /posts/a-story-about-when-i-was-a-recluse-for-two-years-and-didn-t-go-to-school-for-four-years/ <- [90m/posts/A story about when I was a recluse for two years and didn't go to school for four years.md[39m
+🔥 /posts/what-to-do-when-the-login-screen-freezes-on-arch-artix-linux/ <- [90m/posts/What to do when the login screen freezes on arch-artix-linux.md[39m
+🔥 /posts/50bp-interest-rate-hike-hinted-at-start-shorting-ethereum/ <- [90m/posts/50bp interest rate hike hinted at – start shorting Ethereum.md[39m
+🔥 /posts/i-can-t-use-mozc-on-thinkpad-x1-carbon-gen1-artix-linuxwayland/ <- [90m/posts/I can't use mozc on thinkpad-x1-carbon-gen1-artix-linuxwayland.md[39m
+🔥 /posts/bond-king-jeffrey-gundlach-will-2024-come/ <- [90m/posts/Bond King Jeffrey Gundlach - Will 2024 Come?.md[39m
+🔥 /posts/20230830devuan-daedalus-upgrade/ <- [90m/posts/20230830devuan-daedalus-upgrade.md[39m
+🔥 /posts/i-made-a-simple-example-using-passport-js-mongodb-and-next-js-that-i-found-on-github./ <- [90m/posts/I made a simple example using passport-js, mongodb, and next-js that I found on github..md[39m
+🔥 /posts/how-to-bet-on-a-weak-dollar-in-2023/ <- [90m/posts/How to bet on a weak dollar in 2023.md[39m
+🔥 /posts/the-dollar-is-not-getting-stronger-a-global-currency/ <- [90m/posts/The dollar is not getting stronger - a global currency.md[39m
+🔥 /posts/100-strawberries-to-read-while-listening-to-pinocchio-p/ <- [90m/posts/100-strawberries-to-read-while-listening-to-pinocchio-p.md[39m
+🔥 /posts/delete-spam-account-posts-on-mastodon/ <- [90m/posts/delete-spam-account-posts-on-mastodon.md[39m
+🔥 /posts/bank-of-japan-s-historic-interest-rate-hike-reduction-of-monetary-easing-and-bank-stocks/ <- [90m/posts/Bank of Japan's historic interest rate hike (reduction of monetary easing) and bank stocks.md[39m
+🔥 /posts/the-digital-gold-rush-the-1810s-repeated/ <- [90m/posts/The Digital Gold Rush: The 1810s Repeated.md[39m
+🔥 /posts/comparing-mongodb-to-other-rdbms-from-a-personal-perspective/ <- [90m/posts/comparing-mongodb-to-other-rdbms-from-a-personal-perspective.md[39m
+🔥 /posts/options-for-powerful-site-dumping-when-using-cli-with-httrack/ <- [90m/posts/options-for-powerful-site-dumping-when-using-cli-with-httrack.md[39m
+🔥 /posts/what-is-your-happiness-what-is-important-in-life/ <- [90m/posts/What is your happiness? - What is important in life?.md[39m
+🔥 /posts/eyes4you-org-a-wikipedia-mirror-site-has-been-released./ <- [90m/posts/[eyes4you-org] A Wikipedia mirror site has been released..md[39m
+🔥 /posts/fanyi-sohn-2022-john-collison-in-conversation-with-stanley-druckenmiller/ <- [90m/posts/翻訳-sohn-2022-john-collison-in-conversation-with-stanley-druckenmiller.md[39m
+🔥 /posts/whale-activity-on-the-rise-long-added/ <- [90m/posts/Whale activity on the rise - Long added.md[39m
+🔥 /posts/the-great-depression-has-only-just-beginned-where-s-the-next-bust/ <- [90m/posts/The Great Depression Has Only Just Beginned - Where's the Next Bust?.md[39m
+🔥 /posts/the-strength-of-the-japanese-yen-as-seen-from-the-country-s-huge-debt-and-external-assets/ <- [90m/posts/The strength of the Japanese yen as seen from the country's huge debt and external assets.md[39m
+🔥 /posts/the-next-topic-is-security-and-bitcoin/ <- [90m/posts/The next topic is security and Bitcoin.md[39m
+🔥 /posts/storage-market-collapses-and-decentralized-storage-comes-to-the-rescue/ <- [90m/posts/Storage market collapses and decentralized storage comes to the rescue.md[39m
+🔥 /posts/redirect-error-2-using-cache-server/ <- [90m/posts/Redirect error 2 using cache server.md[39m
+🔥 /posts/20230907arthur-hayes-kite-or-board/ <- [90m/posts/20230907arthur-hayes-kite-or-board.md[39m
+🔥 /posts/dodo-intruded-into-stuts-at-live-azuma-2023-and-generated-ai-in-the-electric-group/ <- [90m/posts/dodo-intruded-into-stuts-at-live-azuma-2023-and-generated-ai-in-the-electric-group.md[39m
+🔥 /posts/20230830a16z-partner-otaku-love/ <- [90m/posts/20230830a16z-partner-otaku-love.md[39m
+🔥 /posts/20230905php8-2-1-p2-php/ <- [90m/posts/20230905php8-2-1-p2-php.md[39m
+🔥 /posts/short-gold/ <- [90m/posts/Short Gold.md[39m
+🔥 /posts/alpha-illustrated-interviews-trader-interviews/ <- [90m/posts/alpha-illustrated-interviews - Trader interviews.md[39m
+🔥 /posts/re-entering-mining/ <- [90m/posts/Re-entering mining.md[39m
+🔥 /posts/when-will-the-price-surge-end-and-the-stock-market-bottom/ <- [90m/posts/When will the price surge end and the stock market bottom?.md[39m
+🔥 /posts/one-liner-when-echo-hidden-variable-grep/ <- [90m/posts/one-liner-when-echo-hidden-variable-grep.md[39m
+🔥 /posts/we-have-acquired-damepo-jp.here-is-the-background-and-site-introduction./ <- [90m/posts/We have acquired damepo-jp. Here is the background and site introduction..md[39m
+🔥 /posts/thinking-about-the-story-leading-up-to-the-price-surge/ <- [90m/posts/Thinking about the story leading up to the price surge.md[39m
+🔥 /posts/home-server-specs-and-current-configuration-published/ <- [90m/posts/Home server specs and current configuration published.md[39m
+🔥 /posts/hyperinflation-and-gold-price-rise-as-world-turmoil-continues/ <- [90m/posts/Hyperinflation and gold price rise as world turmoil continues.md[39m
+🔥 /posts/when-i-looked-into-the-sales-figures-for-pcs-i-found-that-japanese-companies/ <- [90m/posts/When I looked into the sales figures for PCs, I found that Japanese companies.md[39m
+🔥 /posts/yay-mongodb-install-and-config-failed/ <- [90m/posts/yay-mongodb-install-and-config-failed.md[39m
+🔥 /posts/is-bitcoin-currently-worth-as-much-as-a-government-bond-or-3.7-million-yen/ <- [90m/posts/Is Bitcoin currently worth as much as a government bond or -3.7 million yen?.md[39m
+🔥 /posts/how-to-save-an-entire-site-using-httrack/ <- [90m/posts/How to save an entire site using httrack.md[39m
+🔥 /posts/how-to-choose-a-career-to-become-rich/ <- [90m/posts/How to choose a career to become rich.md[39m
+🔥 /posts/i-repaired-the-pattern-of-the-graphics-board-p104-100/ <- [90m/posts/I repaired the pattern of the graphics board p104-100.md[39m
+🔥 /posts/gold-and-bitcoin-trailing-correlation/ <- [90m/posts/Gold and Bitcoin trailing correlation.md[39m
+🔥 /posts/despite-the-pain-there-is-a-possibility-that-the-japanese-economy-will-rebound-significantly-investment-in-young-people-and-animal-spirits-are-like-velvet-goldmine/ <- [90m/posts/despite-the-pain-there-is-a-possibility-that-the-japanese-economy-will-rebound-significantly-investment-in-young-people-and-animal-spirits-are-like-velvet-goldmine.md[39m
+🔥 /posts/ray-dalio-answers-questions/ <- [90m/posts/Ray Dalio answers questions.md[39m
+🔥 /posts/the-growing-number-of-lending-services-in-the-us-and-wallets-of-interest/ <- [90m/posts/The growing number of lending services in the US and wallets of interest.md[39m
+🔥 /posts/matic-short-limit/ <- [90m/posts/matic short limit.md[39m
+🔥 /posts/i-purchased-westone-audio-um-pro30/ <- [90m/posts/i-purchased-westone-audio-um-pro30.md[39m
+🔥 /posts/the-light-and-dark-side-of-nfts-alternatives-to-money-laundering/ <- [90m/posts/The Light and Dark Side of NFTs - Alternatives to Money Laundering.md[39m
+🔥 /posts/redirect-error-using-cache-server/ <- [90m/posts/Redirect error using cache server.md[39m
+🔥 /posts/current-position/ <- [90m/posts/Current Position.md[39m
+🔥 /posts/webp-photo-focused-portfolio-site-using-hugo/ <- [90m/posts/[webp] Photo-focused portfolio site using hugo.md[39m
+🔥 /posts/mined-pc-parts-are-extremely-cheap./ <- [90m/posts/Mined PC parts are extremely cheap..md[39m
+🔥 /posts/will-a-digital-dollar-help-the-dollar-what-can-we-learn-from-the-collapse-of-ftx/ <- [90m/posts/Will a digital dollar help the dollar? What can we learn from the collapse of FTX?.md[39m
+🔥 /posts/randy-taylor/ <- [90m/posts/randy-taylor.md[39m
+🔥 /posts/just-install-the-same-software-on-pacman-or-other-systems/ <- [90m/posts/just-install-the-same-software-on-pacman-or-other-systems.md[39m
+🔥 /posts/ivan-neville-s-talking-heads-cover/ <- [90m/posts/Ivan Neville's Talking Heads cover.md[39m
+🔥 /posts/a-woman-called-fujiko-mine/ <- [90m/posts/A Woman Called Fujiko Mine.md[39m
+🔥 /posts/krautrock-la-dusseldorf-see-the-future/ <- [90m/posts/krautrock-la-dusseldorf-see-the-future.md[39m
+🔥 /posts/2024q1-personal-economic-outlook-correct-answer-results-and-thoughts-summary/ <- [90m/posts/2024q1-Personal economic outlook correct answer results and thoughts summary.md[39m
+🔥 /posts/i-was-able-to-build-a-website-with-hugo.and-from-there-i-became-a-sns-user./ <- [90m/posts/I was able to build a website with Hugo. And from there, I became a SNS user..md[39m
+🔥 /posts/set-nginx-cache-in-wordpress/ <- [90m/posts/set-nginx-cache-in-wordpress.md[39m
+🔥 /posts/20230831nextcloud-update/ <- [90m/posts/20230831nextcloud-update.md[39m
+🔥 /posts/u.s.treasury-bonds-a-safe-haven-with-zero-coupons/ <- [90m/posts/U.S. Treasury Bonds - A safe haven with zero coupons.md[39m
+🔥 /posts/the-day-brain-police-panta-died/ <- [90m/posts/the-day-brain-police-panta-died.md[39m
+🔥 /posts/strong-employment-data-points-to-rising-unemployment/ <- [90m/posts/Strong employment data points to rising unemployment.md[39m
+🔥 /posts/yt-dlp-mv-audio-or-video-ffmpeg-ffprobe/ <- [90m/posts/yt-dlp-mv-audio-or-video-ffmpeg-ffprobe.md[39m
+🔥 /posts/video-convert-to-mp3-with-thumbnail-jpg/ <- [90m/posts/video-convert-to-mp3-with-thumbnail-jpg.md[39m
+🔥 /posts/introducing-artix-linux-unix-philosophy-and-site-lightweighting/ <- [90m/posts/Introducing artix-linux, UNIX philosophy, and site lightweighting.md[39m
+🔥 /posts/as-consumers-tighten-their-belts-credit-cards-and-car/ <- [90m/posts/As consumers tighten their belts, credit cards and car.md[39m
+🔥 /posts/templeos-terry-a-davis-crazy-faith-in-god-and-only-2mb-for-3d-games/ <- [90m/posts/templeos-terry-a-davis-crazy-faith-in-god-and-only-2mb-for-3d-games.md[39m
+🔥 /posts/bitcoin-is-digital-gold/ <- [90m/posts/Bitcoin is digital gold.md[39m
+🔥 /posts/i-changed-the-way-i-listen-to-music-with-nextcloud./ <- [90m/posts/I changed the way I listen to music with nextcloud..md[39m
+🔥 /posts/patagonia-nitro-anorak-jacket-left-outside-for-half-a-year/ <- [90m/posts/Patagonia nitro anorak jacket left outside for half a year.md[39m
+🔥 /posts/made-in-uk-ibm-space-server-1394099/ <- [90m/posts/made-in-uk-ibm-space-server-1394099.md[39m
+🔥 /posts/i-just-watched-the-melancholy-of-haruhi-suzumiya/ <- [90m/posts/I just watched The Melancholy of Haruhi Suzumiya.md[39m
+🔥 /posts/be-foolish-to-fools-and-make-it-easier-to-look-back-on-it-later./ <- [90m/posts/Be foolish to fools, and make it easier to look back on it later..md[39m
+🔥 /posts/product-description-using-chat-gpt-is-revolutionary./ <- [90m/posts/Product description using chat-gpt is revolutionary..md[39m
+🔥 /posts/musicrepair-autotag-add/ <- [90m/posts/musicrepair-autotag-add.md[39m
+🔥 /posts/400eth-put-hedge/ <- [90m/posts/400eth-put hedge.md[39m
+🔥 /posts/what-kind-of-jobs-are-there-that-allow-you-to-work-for-others/ <- [90m/posts/What kind of jobs are there that allow you to work for others?.md[39m
+🔥 /posts/x250-svp-release-result/ <- [90m/posts/x250 svp release result.md[39m
+🔥 /posts/bitcoin-surges-as-existing-banking-system-collapses/ <- [90m/posts/Bitcoin surges as existing banking system collapses.md[39m
+🔥 /posts/the-ftx-creditor-list-is-crazy.the-ministry-of-finance-and-the-ministry-of-the-environment-including-gafam/ <- [90m/posts/The FTX creditor list is crazy. The Ministry of Finance and the Ministry of the Environment, including GAFAM,.md[39m
+🔥 /posts/reasons-for-rising-prices-in-the-second-hand-market-and-the-expected-sudden-fall-in-the-market-repo-transactions/ <- [90m/posts/Reasons for rising prices in the second-hand market and the expected sudden fall in the market - Repo transactions.md[39m
+🔥 /posts/oreha-hikikomori/ <- [90m/posts/oreha-hikikomori.md[39m
+🔥 /posts/would-you-like-to-operate-a-wordpress-site-damepo-site-is-left-over/ <- [90m/posts/Would you like to operate a WordPress site? [damepo-site is left over.md[39m
+🔥 /posts/sam-altman-s-world-coin-starts-with-zero-knowledge-proofs/ <- [90m/posts/Sam Altman's world-coin starts with zero-knowledge proofs.md[39m
+🔥 /posts/1btc-love-give-me-chart/ <- [90m/posts/1btc-love-give-me-chart.md[39m
+🔥 /posts/the-struggle-to-get-redis-to-work-on-nextcloud/ <- [90m/posts/The struggle to get redis to work on nextcloud.md[39m
+🔥 /posts/promoting-decluttering-just-send-a-message-on-line-and-we-ll-introduce-you-to-a-product-using-ai./ <- [90m/posts/[Promoting decluttering] Just send a message on LINE and we'll introduce you to a product using AI..md[39m
+🔥 /posts/firstpost/ <- [90m/posts/firstpost.md[39m
+🔥 /posts/i-implemented-a-useless-login-function/ <- [90m/posts/I implemented a useless login function.md[39m
+🔥 /posts/purchase-an-operational-amplifier/ <- [90m/posts/purchase-an-operational-amplifier.md[39m
+🔥 /posts/betting-6-million-on-the-vix-fear-index-rising-to-70-bit/ <- [90m/posts/Betting $6 million on the VIX fear index rising to 70 - BIT.md[39m
+🔥 /posts/reflect-nginx-cache-on-new-post/ <- [90m/posts/reflect-nginx-cache-on-new-post.md[39m
+🔥 /posts/20230907shocking-survey-results-the-state-of-trust-in-the-system/ <- [90m/posts/20230907shocking-survey-results-the-state-of-trust-in-the-system.md[39m
+🔥 /posts/httrack-mod-too-many-urls-bypass/ <- [90m/posts/httrack-mod-too-many-urls-bypass.md[39m
+🔥 /posts/its-been-half-a-year-since-we-changed-from-a-second-hand-clothing-store-to-an-infrastructure-store/ <- [90m/posts/its-been-half-a-year-since-we-changed-from-a-second-hand-clothing-store-to-an-infrastructure-store.md[39m
+🔥 /posts/install-and-adapt-tlp-for-open-rc-on-thinkpad-x1-carbon-gen1/ <- [90m/posts/install-and-adapt-tlp-for-open-rc-on-thinkpad-x1-carbon-gen1.md[39m
+🔥 /posts/1-try-to-unlock-the-svp-password-of-the-thinkpad-x60/ <- [90m/posts/1-Try to unlock the SVP password of the ThinkPad X60.md[39m
+🔥 /posts/start-using-the-tor-browser-again./ <- [90m/posts/Start using the Tor browser again..md[39m
+🔥 /posts/extremely-lazy/ <- [90m/posts/Extremely lazy.md[39m
+🔥 /posts/basel-iv-2022-and-the-death-of-rockefeller/ <- [90m/posts/Basel IV, 2022, and the Death of Rockefeller.md[39m
+🔥 /posts/cypherpunk-manifesto-eric-hughes/ <- [90m/posts/Cypherpunk Manifesto - Eric Hughes.md[39m
+🔥 /posts/wireguard-cant-local-net-with-nextcloud/ <- [90m/posts/wireguard-cant-local-net-with-nextcloud.md[39m
+🔥 /posts/doge-coin-long/ <- [90m/posts/doge-coin long.md[39m
+🔥 /posts/testing-a-270-yen-64gb-usb-memory/ <- [90m/posts/Testing a 270 yen 64GB USB memory.md[39m
+🔥 /posts/dead-dollar-solana/ <- [90m/posts/Dead Dollar - Solana.md[39m
+🔥 /posts/uncle-bear/ <- [90m/posts/Uncle Bear.md[39m
+🔥 /posts/google-introduced-ibm-plex-as-a-man-s-romantic-idea./ <- [90m/posts/[Google] introduced IBM-Plex as a man's romantic idea..md[39m
+🔥 /posts/financial-markets-gradually-begin-to-absorb-the-second-inflation-neither-prepared-nor-cautious/ <- [90m/posts/financial-markets-gradually-begin-to-absorb-the-second-inflation-neither-prepared-nor-cautious.md[39m
+🔥 /posts/easily-compare-charts-and-output-images-with-streamlit/ <- [90m/posts/Easily compare charts and output images with streamlit.md[39m
+🔥 /posts/druckenmiller-hard-landing-by-later-this-year/ <- [90m/posts/Druckenmiller - Hard Landing by later this year.md[39m
+🔥 /posts/plug-in-pc-power-cables-are-really-incompatible/ <- [90m/posts/Plug-in PC power cables are really incompatible.md[39m
+🔥 /posts/usdjpy/ <- [90m/posts/usdjpy.md[39m
+🔥 /posts/thrift-store-to-server-engineer/ <- [90m/posts/thrift-store-to-server-engineer.md[39m
+🔥 /posts/build-a-web-server-with-devuan-nextcloud/ <- [90m/posts/Build a web server with devuan-nextcloud.md[39m
+🔥 /posts/employment-statistics-for-december-2/ <- [90m/posts/Employment Statistics for December 2.md[39m
+🔥 /posts/nextcloud-sqlite-to-mariadb-convert/ <- [90m/posts/nextcloud-sqlite-to-mariadb-convert.md[39m
+🔥 /posts/i-repaired-the-galax-rtx-2070-that-i-received-which-seemed-to-have-had-an-initial-defect/ <- [90m/posts/i-repaired-the-galax-rtx-2070-that-i-received-which-seemed-to-have-had-an-initial-defect.md[39m
+🔥 /posts/just-git-push-via-ssh/ <- [90m/posts/Just git-push via ssh.md[39m
+🔥 /posts/installing-slackware-a-coelacanth-class-os-on-the-x250/ <- [90m/posts/Installing Slackware, a Coelacanth-class OS, on the X250.md[39m
+🔥 /posts/gambling-trading-techniques/ <- [90m/posts/Gambling trading techniques.md[39m
+🔥 /posts/re-extract-youtube-url-from-continuous-text-with-regular-expression-grep-memo/ <- [90m/posts/re - Extract youtube-url from continuous text with regular expression grep memo -.md[39m
+🔥 /posts/qpu-transition-and-the-future-of-encryption-technology-world/ <- [90m/posts/QPU transition and the future of encryption technology - World.md[39m
+🔥 /posts/goldman-sachs-to-be-investigated-lehman-shock/ <- [90m/posts/Goldman Sachs to be investigated - Lehman Shock.md[39m
+🔥 /posts/2024-dollar-decline-us-economy-bitcoin-credit-card-defaults/ <- [90m/posts/2024-dollar-decline-us-economy-bitcoin-credit-card-defaults.md[39m
+🔥 /posts/archive-the-photos-you-ve-taken-so-far/ <- [90m/posts/Archive the photos you've taken so far.md[39m
+🔥 /posts/instructions/ <- [90m/posts/instructions.md[39m
+🔥 /posts/paxos-stops-issuing-busd-shorts-bnb/ <- [90m/posts/Paxos stops issuing busd, shorts bnb.md[39m
+🔥 /posts/logitech-trackman-wheel-trackball-gadgets-of-the-past/ <- [90m/posts/logitech-trackman-wheel-trackball-gadgets of the past.md[39m
+🔥 /posts/using-canon-printer-on-artix-linux/ <- [90m/posts/Using canon printer on artix-linux.md[39m
+🔥 /posts/vi-zz-love/ <- [90m/posts/vi-zz-love.md[39m
+🔥 /posts/like-a-rolling-stone/ <- [90m/posts/like-a-rolling-stone.md[39m
+🔥 /posts/the-graphics-card-fan-is-spinning-slowly/ <- [90m/posts/The graphics card fan is spinning slowly.md[39m
+🔥 /posts/buy-a-lot-of-gpu-and-storage.everyone-is-old-bitcoin./ <- [90m/posts/Buy a lot of gpu and storage. Everyone is old bitcoin..md[39m
+🔥 /posts/3dfx-voodoo-5-6000-prototype-sold-for-1.43-million-yen/ <- [90m/posts/3dfx-voodoo-5-6000 prototype sold for 1.43 million yen.md[39m
+🔥 /posts/the-story-of-how-the-wp-theme-lied-and-stayed-up-all-night/ <- [90m/posts/The story of how the wp theme lied and stayed up all night.md[39m
+🔥 /posts/subdomain-smtp-opendkim-conf/ <- [90m/posts/subdomain-smtp-opendkim-conf.md[39m
+🔥 /posts/sasaguchi-souon-harmonica-ascii/ <- [90m/posts/sasaguchi-souon-harmonica-ascii.md[39m
+🔥 /posts/i-have-registered-with-backpack-an-exchange-created-by-former-ftx-traders./ <- [90m/posts/I have registered with Backpack, an exchange created by former FTX traders..md[39m
+🔥 /posts/how-to-use-postfix-to-block-emails-sent-to-users-other-than-the-email-user/ <- [90m/posts/How to use Postfix to block emails sent to users other than the email user.md[39m
+🔥 /posts/update-devuan-to-kernel6-6-which-could-not-be-updated-due-to-kernel-panic/ <- [90m/posts/update-devuan-to-kernel6-6-which-could-not-be-updated-due-to-kernel-panic.md[39m
+🔥 /posts/how-to-fast-makepkg-on-thinkpad-x230/ <- [90m/posts/how-to-fast-makepkg-on-thinkpad-x230.md[39m
+🔥 /posts/python-logging-use-loguru/ <- [90m/posts/python-logging-use-loguru.md[39m
+🔥 /posts/how-to-use-mongodump-mongorestore/ <- [90m/posts/how-to-use-mongodump-mongorestore.md[39m
+🔥 /posts/i-m-stuck-with-an-ssd-i-previously-formatted-with-btrfs/ <- [90m/posts/I'm stuck with an SSD I previously formatted with btrfs.md[39m
+🔥 /posts/incompetent-answers-10-things-you-like/ <- [90m/posts/Incompetent answers - 10 things you like.md[39m
+🔥 /posts/openbsd7-3thinkpad-trackpoint/ <- [90m/posts/openbsd7-3thinkpad-trackpoint.md[39m
+🔥 /posts/elegiant-bluetooth-power-amplifier-hy-v9b-v10-disassembly-book/ <- [90m/posts/elegiant-bluetooth-power-amplifier-hy-v9b-v10-disassembly-book.md[39m
+🔥 /posts/2023-2/ <- [90m/posts/2023-2.md[39m
+🔥 /posts/nextcloud-proxy-cache/ <- [90m/posts/nextcloud-proxy-cache.md[39m
+🔥 /posts/xmr-japan-node/ <- [90m/posts/xmr-japan-node.md[39m
+🔥 /posts/in-japan-aging-has-helped-to-curb-inflation./ <- [90m/posts/In Japan, aging has helped to curb inflation..md[39m
+🔥 /posts/the-reason-why-mitmproxy-fails-to-build-on-freebsd-is-that-it-is-simply-too-heavy./ <- [90m/posts/The reason why mitmproxy fails to build on freebsd is that it is simply too heavy..md[39m
+🔥 /posts/continued-repair-rtx2070-gddr-memory-error-by-eliminating-short-circuit-in-memory-power-supply-section/ <- [90m/posts/continued-repair-rtx2070-gddr-memory-error-by-eliminating-short-circuit-in-memory-power-supply-section.md[39m
+🔥 /posts/bitcoin-is-undervalued-compared-to-tether-dollar-aum/ <- [90m/posts/Bitcoin is undervalued compared to Tether dollar aum.md[39m
+🔥 /posts/i-changed-the-chromium-browser-that-was-not-working-on-artix-linux-to-gtk4./ <- [90m/posts/I changed the chromium browser that was not working on artix-linux to gtk4..md[39m
+🔥 /posts/the-boys-no-money-represents-the-horror-of-the-economic-recession/ <- [90m/posts/The Boys' "No Money" represents the horror of the economic recession.md[39m
+🔥 /posts/bond-king-jeffrey-gundlach-also-warned-against-u.s.treasury-bonds/ <- [90m/posts/Bond king Jeffrey Gundlach also warned against U.S. Treasury bonds.md[39m
+🔥 /posts/what-success-and-happiness-can-be-learned-from-high-stakes-capital/ <- [90m/posts/What success and happiness can be learned from high-stakes-capital.md[39m
+🔥 /posts/i-want-the-files-output-by-ls-to-be-output-with-line-breaks./ <- [90m/posts/I want the files output by ls to be output with line breaks..md[39m
+🔥 /posts/grayscale-s-bitcoin-selling-continues/ <- [90m/posts/Grayscale's Bitcoin selling continues.md[39m
+🔥 /posts/memories-of-the-free-server-wkey-me/ <- [90m/posts/Memories of the free server, wkey-me.md[39m
+🔥 /posts/good-times-bad-times-led-zeppelin-translation/ <- [90m/posts/good-times-bad-times-led-zeppelin-translation.md[39m
+🔥 /posts/20230902postfix-dovecot-mail-mastarcf/ <- [90m/posts/20230902postfix-dovecot-mail-mastarcf.md[39m
+🔥 /posts/memo-research-alameda-research./ <- [90m/posts/Memo - Research Alameda Research..md[39m
+🔥 /posts/until-i-considered-filing-for-bankruptcy.../ <- [90m/posts/Until I considered filing for bankruptcy....md[39m
+🔥 /posts/borsch-with-penne-pasta/ <- [90m/posts/Borsch_with_penne pasta.md[39m
+🔥 /posts/legendary-speculator-jesse-livermore-drank-his-beloved-old-fashioned/ <- [90m/posts/legendary-speculator-jesse-livermore-drank-his-beloved-old-fashioned.md[39m
+🔥 /posts/japanese-vs-world-culture./ <- [90m/posts/Japanese vs World Culture..md[39m
+🔥 /posts/isn-t-this-really-dangerous/ <- [90m/posts/Isn't this really dangerous?.md[39m
+🔥 /posts/artix-linux-thinkpad-x230-thinkfan/ <- [90m/posts/artix-linux-thinkpad-x230-thinkfan.md[39m
+🔥 /posts/ascii-summary/ <- [90m/posts/ASCII Summary.md[39m
+🔥 /posts/server-construction-slackware-debian-openbsd-or-and-hey-tohoku-gakuin/ <- [90m/posts/Server construction - slackware-debian-openbsd-or-And, hey, Tohoku Gakuin.md[39m
+🔥 /posts/graphics-board-repair-diary/ <- [90m/posts/Graphics board repair diary.md[39m
+🔥 /posts/homeserverproxy/ <- [90m/posts/homeserverproxy.md[39m
+🔥 /posts/install-nvcc-in-devuan-and-enable-nvenc-to-use-hardware-encoding/ <- [90m/posts/install-nvcc-in-devuan-and-enable-nvenc-to-use-hardware-encoding.md[39m
+🔥 /posts/i-passed-lpic-101/ <- [90m/posts/I passed lpic-101!.md[39m
+🔥 /posts/xeon-v5-thp-off/ <- [90m/posts/xeon-v5-thp-off.md[39m
+🔥 /posts/ray-dalio-the-big-cycle-of-the-world/ <- [90m/posts/Ray Dalio - The Big Cycle of the World.md[39m
+🔥 /posts/i-rewatched-the-new-eva./ <- [90m/posts/I rewatched the new Eva..md[39m
+🔥 /posts/untitled/ <- [90m/posts/untitled.md[39m
+🔥 /posts/is-char-nice-code-that-does-not-increment-with-problematic-char-type/ <- [90m/posts/is-char-nice-code-that-does-not-increment-with-problematic-char-type.md[39m
+🔥 /posts/thoughts-on-ai/ <- [90m/posts/Thoughts on AI.md[39m
+🔥 /posts/thinkpad-x260openbsd-73install/ <- [90m/posts/thinkpad-x260openbsd-73install.md[39m
+🔥 /posts/theres-a-revival-of-the-dotcom-esque-froth-in-todays-markets-cathie-wood-is-standing-in-for-henry-blodget-and-jack-grubman-nasdaq-is-playing-nasdaq-jinrinoshi/ <- [90m/posts/theres-a-revival-of-the-dotcom-esque-froth-in-todays-markets-cathie-wood-is-standing-in-for-henry-blodget-and-jack-grubman-nasdaq-is-playing-nasdaq-今日の市.md[39m
+🔥 /posts/installing-artix-linux-on-thinkpad-x250-your-desktop-environment/ <- [90m/posts/Installing artix-linux on thinkpad-x250 - Your desktop environment.md[39m
+🔥 /posts/repairing-junk-bose-101mm-and-a-quick-review/ <- [90m/posts/repairing-junk-bose-101mm-and-a-quick-review.md[39m
+🔥 /posts/memo-on-unlocking-svp-for-thinkpad-x240x280/ <- [90m/posts/Memo on unlocking SVP for thinkpad-x240x280.md[39m
+🔥 /posts/bad-apple-s-ai-generated-music-video-is-amazing./ <- [90m/posts/Bad-apple's AI-generated music video is amazing..md[39m
+🔥 /posts/2024-gw-weekend/ <- [90m/posts/2024-gw-weekend.md[39m
+🔥 /posts/elliott-erwitt-photographer-of-my-memories/ <- [90m/posts/Elliott Erwitt, photographer of my memories.md[39m
+🔥 /posts/i-tried-to-learn-google-s-financial-statements-using-chatgpt-and-asked-various-questions-the-best/ <- [90m/posts/I tried to learn Google's financial statements using chatgpt and asked various questions - the best.md[39m
+🔥 /posts/blocking-at-the-rental-server-level-is-beyond-imagination./ <- [90m/posts/Blocking at the rental server level is beyond imagination..md[39m
+🔥 /posts/memo-pine-code/ <- [90m/posts/Memo - Pine Code.md[39m
+🔥 /posts/how-to-avoid-vivaldi-not-starting-on-artix-linux-by-starting-it-from-flatpak-chromium-based/ <- [90m/posts/How to avoid Vivaldi not starting on artix-linux by starting it from flatpak [Chromium-based.md[39m
+🔥 /posts/gnu-linux-startup-etc-rc-local/ <- [90m/posts/gnu-linux-startup-etc-rc-local.md[39m
+🔥 /posts/ray-dalio-the-state-of-silicon-valley-banks/ <- [90m/posts/Ray Dalio - The State of Silicon Valley Banks.md[39m
+🔥 /posts/yamaha-ep-e50a-bluetooth-repair/ <- [90m/posts/yamaha-ep-e50a-bluetooth-repair.md[39m
+🔥 /posts/about-my-current-home-pc-work-env/ <- [90m/posts/about-my-current-home-pc-work-env.md[39m
+🔥 /posts/server-install-minidlna/ <- [90m/posts/server-install-minidlna.md[39m
+🔥 /posts/python-error-externally-managed-environment/ <- [90m/posts/python-error-externally-managed-environment.md[39m
+🔥 /posts/ai-image-generation-creates-a-psychedelic-space-that-can-be-viewed-sober/ <- [90m/posts/AI image generation creates a psychedelic space that can be viewed sober.md[39m
+🔥 /posts/speedtest-results-for-vultr-and-conoha-benchmark-speed-comparison/ <- [90m/posts/Speedtest results for vultr and conoha - benchmark speed comparison.md[39m
+🔥 /posts/memorandum-2022-10-20/ <- [90m/posts/Memorandum 2022-10-20.md[39m
+🔥 /posts/bitcoin-mining-around-2017-and-then/ <- [90m/posts/Bitcoin mining around 2017 and then.md[39m
+🔥 /posts/p104-100-died-from-stab-wounds/ <- [90m/posts/p104-100 died from stab wounds.md[39m
+🔥 /posts/launch-a-systemd-free-mastodon-instance-using-supervisor/ <- [90m/posts/Launch a systemd-free mastodon instance using supervisor.md[39m
+🔥 /posts/spred-firefox/ <- [90m/posts/spred-firefox.md[39m
+🔥 /posts/beyond-winter/ <- [90m/posts/beyond-winter.md[39m
+🔥 /posts/now-let-me-introduce-some-classic-keyboards-that-have-been-lost-in-our-consumer-society./ <- [90m/posts/Now, let me introduce some classic keyboards that have been lost in our consumer society..md[39m
+🔥 /posts/russian-phishing-ip-addresses-use-32-bit-space/ <- [90m/posts/Russian phishing IP addresses use 32-bit space.md[39m
+🔥 /posts/10th-tokyo-university-blockchain-course-solidity-development/ <- [90m/posts/10th Tokyo University Blockchain Course - Solidity Development.md[39m
+🔥 /posts/play-virtual-neofetch/ <- [90m/posts/Play Virtual Neofetch.md[39m
+🔥 /posts/fanyi-sohn-2022-patrick-collison-in-conversation-with-sam-bankman-fried/ <- [90m/posts/翻訳-sohn-2022-patrick-collison-in-conversation-with-sam-bankman-fried.md[39m
+🔥 /posts/vimusic-japanese-version-apk/ <- [90m/posts/vimusic Japanese version apk.md[39m
+🔥 /posts/bob-dylan-like-a-rolling-stone/ <- [90m/posts/bob-dylan-like-a-rolling-stone.md[39m
+🔥 /posts/why-look-at-charts/ <- [90m/posts/Why look at charts?.md[39m
+🔥 /posts/money-pink-floyd-lyrics-translation-inflation-and-capitalism-cast-a-shadow-on-society/ <- [90m/posts/Money Pink Floyd - Lyrics Translation - Inflation and capitalism cast a shadow on society.md[39m
+🔥 /posts/i-want-to-lazy-load-stripe-js/ <- [90m/posts/I want to lazy load stripe-js.md[39m
+🔥 /posts/i-ordered-aneng-an8008/ <- [90m/posts/i-ordered-aneng-an8008.md[39m
+🔥 /posts/arthur-hayes-private-companies-bailed-out-banks/ <- [90m/posts/Arthur Hayes - Private companies bailed out banks.md[39m
+🔥 /posts/it-s-about-time-i-got-serious-about-life./ <- [90m/posts/It's about time I got serious about life..md[39m
+🔥 /posts/a-small-change-to-the-japanese-version-of-vimusic-and-brotli-streaming/ <- [90m/posts/A small change to the Japanese version of vimusic, and brotli streaming.md[39m
+🔥 /posts/quit-fx-for-now-and-get-a-jcb-debit-and-gold-card/ <- [90m/posts/Quit FX for now and get a JCB debit and gold card.md[39m
+🔥 /posts/kingspec-china-ssd-disintegration/ <- [90m/posts/kingspec-china ssd-disintegration.md[39m
+🔥 /posts/mining-resumed-kumo/ <- [90m/posts/Mining resumed [Kumo].md[39m
+🔥 /posts/i-was-interested-in-the-slackware-t-shirt-slackware-arm-which-runs-on-arm-cpu/ <- [90m/posts/I was interested in the slackware t-shirt - slackware-arm, which runs on arm-cpu.md[39m
+🔥 /posts/the-mystery-of-btrfs-continues/ <- [90m/posts/The mystery of btrfs continues.md[39m
+🔥 /posts/canary-in-the-coal-mine-interest-rates-will-be-cut-within-2-years.long/ <- [90m/posts/Canary in the coal mine - interest rates will be cut within 2 years. Long.md[39m
+🔥 /posts/random-base64-rust-vs-clang-vs-shellscript-benchmack/ <- [90m/posts/random-base64-rust-vs-clang-vs-shellscript-benchmack.md[39m
+🔥 /posts/musicrepair-spotifyapi-tag-auto-collection/ <- [90m/posts/musicrepair-spotifyapi-tag-auto-collection.md[39m
+🔥 /posts/regular-expression-grep-to-extract-youtube-url-from-continuous-text/ <- [90m/posts/Regular expression grep to extract youtube-url from continuous text.md[39m
+🔥 /posts/crypto-anarchy-manifesto-timothy-c-may/ <- [90m/posts/Crypto Anarchy Manifesto - Timothy C May.md[39m
+🔥 /posts/i-had-fun-with-pink-heaven-the-developer-of-cave-story./ <- [90m/posts/I had fun with pink-heaven, the developer of Cave Story..md[39m
+🔥 /posts/nike-ambient/ <- [90m/posts/nike-ambient.md[39m
+🔥 /posts/automatically-retrieve-and-standardize-via-https-using-nginx/ <- [90m/posts/Automatically retrieve and standardize via https using nginx.md[39m
+🔥 /posts/low-risk-how-to-hold-omg-and-get-boba/ <- [90m/posts/[Low-risk] How to hold OMG and get BOBA [.md[39m
+🔥 /posts/ai-that-can-translate-music-pretty-well-on-line/ <- [90m/posts/AI that can translate music pretty well on LINE.md[39m
+🔥 /posts/record-sales-surpass-cd-sales-for-the-first-time-since-1987/ <- [90m/posts/Record sales surpass CD sales for the first time since 1987.md[39m
+🔥 /posts/consideration-of-the-specials-rat-race/ <- [90m/posts/Consideration of the-specials-rat-race.md[39m
+🔥 /posts/cuda-out-of-memory-gpuwhat-to-do-when-it-stops-due-to-lack-of-memory/ <- [90m/posts/cuda-out-of-memory-gpuWhat to do when it stops due to lack of memory.md[39m
+🔥 /posts/short-position-in-eth/ <- [90m/posts/Short position in eth.md[39m
+🔥 /posts/trade-diary/ <- [90m/posts/2022-06-15-Trade Diary.md[39m
+🔥 / <- [90m/index.vto[39m
+🔥 /contact/ <- [90m/pages/contact.md[39m
+🔥 /archive/ <- [90m/archive[0].page.js[39m
+🔥 /archive/2/ <- [90m/archive[1].page.js[39m
+🔥 /archive/3/ <- [90m/archive[2].page.js[39m
+🔥 /archive/4/ <- [90m/archive[3].page.js[39m
+🔥 /archive/5/ <- [90m/archive[4].page.js[39m
+🔥 /archive/6/ <- [90m/archive[5].page.js[39m
+🔥 /archive/7/ <- [90m/archive[6].page.js[39m
+🔥 /archive/8/ <- [90m/archive[7].page.js[39m
+🔥 /archive/9/ <- [90m/archive[8].page.js[39m
+🔥 /archive/10/ <- [90m/archive[9].page.js[39m
+🔥 /archive/11/ <- [90m/archive[10].page.js[39m
+🔥 /archive/12/ <- [90m/archive[11].page.js[39m
+🔥 /archive/13/ <- [90m/archive[12].page.js[39m
+🔥 /archive/14/ <- [90m/archive[13].page.js[39m
+🔥 /archive/15/ <- [90m/archive[14].page.js[39m
+🔥 /archive/16/ <- [90m/archive[15].page.js[39m
+🔥 /archive/17/ <- [90m/archive[16].page.js[39m
+🔥 /archive/18/ <- [90m/archive[17].page.js[39m
+🔥 /archive/19/ <- [90m/archive[18].page.js[39m
+🔥 /archive/20/ <- [90m/archive[19].page.js[39m
+🔥 /archive/21/ <- [90m/archive[20].page.js[39m
+🔥 /archive/22/ <- [90m/archive[21].page.js[39m
+🔥 /archive/23/ <- [90m/archive[22].page.js[39m
+🔥 /archive/24/ <- [90m/archive[23].page.js[39m
+🔥 /archive/25/ <- [90m/archive[24].page.js[39m
+🔥 /archive/26/ <- [90m/archive[25].page.js[39m
+🔥 /archive/placeholder/ <- [90m/archive_result[0].page.js[39m
+🔥 /archive/example/ <- [90m/archive_result[1].page.js[39m
+🔥 /archive/lorem-ipsum/ <- [90m/archive_result[2].page.js[39m
+🔥 /archive/javascript/ <- [90m/archive_result[3].page.js[39m
+🔥 /archive/typescript/ <- [90m/archive_result[4].page.js[39m
+🔥 /archive/1394099/ <- [90m/archive_result[5].page.js[39m
+🔥 /archive/uk/ <- [90m/archive_result[8].page.js[39m
+🔥 /archive/ki-ho-to/ <- [90m/archive_result[9].page.js[39m
+🔥 /archive/hatukurinkusuhurinkujigou/ <- [90m/archive_result[10].page.js[39m
+🔥 /archive/1992/ <- [90m/archive_result[11].page.js[39m
+🔥 /archive/1996/ <- [90m/archive_result[12].page.js[39m
+🔥 /archive/no43/ <- [90m/archive_result[13].page.js[39m
+🔥 /archive/no80/ <- [90m/archive_result[14].page.js[39m
+🔥 /archive/street/ <- [90m/archive_result[15].page.js[39m
+🔥 /archive/streetmagazine/ <- [90m/archive_result[16].page.js[39m
+🔥 /archive/siyankuruhuatei-ku/ <- [90m/archive_result[17].page.js[39m
+🔥 /archive/hetonamuzhanzheng/ <- [90m/archive_result[18].page.js[39m
+🔥 /archive/50s/ <- [90m/archive_result[19].page.js[39m
+🔥 /archive/60s/ <- [90m/archive_result[20].page.js[39m
+🔥 /archive/danner/ <- [90m/archive_result[21].page.js[39m
+🔥 /archive/tana/ <- [90m/archive_result[22].page.js[39m
+🔥 /archive/hu-tu/ <- [90m/archive_result[23].page.js[39m
+🔥 /archive/mauntentoreiru/ <- [90m/archive_result[24].page.js[39m
+🔥 /archive/gexue/ <- [90m/archive_result[25].page.js[39m
+🔥 /archive/boba/ <- [90m/archive_result[26].page.js[39m
+🔥 /archive/crypto/ <- [90m/archive_result[27].page.js[39m
+🔥 /archive/fx/ <- [90m/archive_result[28].page.js[39m
+🔥 /archive/gmo/ <- [90m/archive_result[29].page.js[39m
+🔥 /archive/omg/ <- [90m/archive_result[30].page.js[39m
+🔥 /archive/eatorotuhu/ <- [90m/archive_result[31].page.js[39m
+🔥 /archive/hainansu/ <- [90m/archive_result[32].page.js[39m
+🔥 /archive/jiaxiangtonghuo/ <- [90m/archive_result[33].page.js[39m
+🔥 /archive/anhaozichan/ <- [90m/archive_result[34].page.js[39m
+🔥 /archive/1999/ <- [90m/archive_result[35].page.js[39m
+🔥 /archive/nike/ <- [90m/archive_result[36].page.js[39m
+🔥 /archive/guanggao/ <- [90m/archive_result[37].page.js[39m
+🔥 /archive/instructions/ <- [90m/archive_result[38].page.js[39m
+🔥 /archive/qpu/ <- [90m/archive_result[39].page.js[39m
+🔥 /archive/rsaanhao/ <- [90m/archive_result[40].page.js[39m
+🔥 /archive/hitutokoin/ <- [90m/archive_result[41].page.js[39m
+🔥 /archive/fensanxing/ <- [90m/archive_result[42].page.js[39m
+🔥 /archive/anhaohua/ <- [90m/archive_result[43].page.js[39m
+🔥 /archive/ai/ <- [90m/archive_result[44].page.js[39m
+🔥 /archive/bot/ <- [90m/archive_result[45].page.js[39m
+🔥 /archive/chatgpt/ <- [90m/archive_result[46].page.js[39m
+🔥 /archive/line/ <- [90m/archive_result[47].page.js[39m
+🔥 /archive/miguozhai/ <- [90m/archive_result[48].page.js[39m
+🔥 /archive/jingji/ <- [90m/archive_result[49].page.js[39m
+🔥 /archive/yinle/ <- [90m/archive_result[50].page.js[39m
+🔥 /archive/reddit/ <- [90m/archive_result[51].page.js[39m
+🔥 /archive/matome/ <- [90m/archive_result[52].page.js[39m
+🔥 /archive/thinkpad/ <- [90m/archive_result[53].page.js[39m
+🔥 /archive/x240/ <- [90m/archive_result[54].page.js[39m
+🔥 /archive/x250/ <- [90m/archive_result[55].page.js[39m
+🔥 /archive/siyanku/ <- [90m/archive_result[56].page.js[39m
+🔥 /archive/thespecials/ <- [90m/archive_result[57].page.js[39m
+🔥 /archive/artix/ <- [90m/archive_result[58].page.js[39m
+🔥 /archive/linux/ <- [90m/archive_result[59].page.js[39m
+🔥 /archive/os/ <- [90m/archive_result[60].page.js[39m
+🔥 /archive/btc/ <- [90m/archive_result[61].page.js[39m
+🔥 /archive/eth/ <- [90m/archive_result[62].page.js[39m
+🔥 /archive/sekiyuritei/ <- [90m/archive_result[63].page.js[39m
+🔥 /archive/touji/ <- [90m/archive_result[64].page.js[39m
+🔥 /archive/bitcoin/ <- [90m/archive_result[65].page.js[39m
+🔥 /archive/nft/ <- [90m/archive_result[66].page.js[39m
+🔥 /archive/i-sariamu/ <- [90m/archive_result[67].page.js[39m
+🔥 /archive/touzi/ <- [90m/archive_result[68].page.js[39m
+🔥 /archive/inhure/ <- [90m/archive_result[69].page.js[39m
+🔥 /archive/ko-ruto/ <- [90m/archive_result[70].page.js[39m
+🔥 /archive/hanku/ <- [90m/archive_result[71].page.js[39m
+🔥 /archive/toruyuan-guonozhaiwu/ <- [90m/archive_result[72].page.js[39m
+🔥 /archive/ribenyuan/ <- [90m/archive_result[73].page.js[39m
+🔥 /archive/guozhai/ <- [90m/archive_result[74].page.js[39m
+🔥 /archive/cd/ <- [90m/archive_result[75].page.js[39m
+🔥 /archive/sahusukurihusiyon/ <- [90m/archive_result[76].page.js[39m
+🔥 /archive/hinte-si/ <- [90m/archive_result[77].page.js[39m
+🔥 /archive/deadstock/ <- [90m/archive_result[6].page.js[39m
+🔥 /archive/ibm/ <- [90m/archive_result[7].page.js[39m
+🔥 /archive/reko-to/ <- [90m/archive_result[78].page.js[39m
+🔥 /archive/sutore-si/ <- [90m/archive_result[79].page.js[39m
+🔥 /archive/jazz/ <- [90m/archive_result[80].page.js[39m
+🔥 /archive/rock/ <- [90m/archive_result[81].page.js[39m
+🔥 /archive/to-kinkuhetusu/ <- [90m/archive_result[82].page.js[39m
+🔥 /archive/google/ <- [90m/archive_result[83].page.js[39m
+🔥 /archive/intahiyu/ <- [90m/archive_result[84].page.js[39m
+🔥 /archive/toratukenmira/ <- [90m/archive_result[85].page.js[39m
+🔥 /archive/hitutokon/ <- [90m/archive_result[86].page.js[39m
+🔥 /archive/maininku/ <- [90m/archive_result[87].page.js[39m
+🔥 /archive/zizuopc/ <- [90m/archive_result[88].page.js[39m
+🔥 /archive/miguozhu/ <- [90m/archive_result[89].page.js[39m
+🔥 /archive/sa-ha/ <- [90m/archive_result[90].page.js[39m
+🔥 /archive/heilishi/ <- [90m/archive_result[91].page.js[39m
+🔥 /archive/debian/ <- [90m/archive_result[92].page.js[39m
+🔥 /archive/openbsd/ <- [90m/archive_result[93].page.js[39m
+🔥 /archive/slackware/ <- [90m/archive_result[94].page.js[39m
+🔥 /archive/x220/ <- [90m/archive_result[95].page.js[39m
+🔥 /archive/x260/ <- [90m/archive_result[96].page.js[39m
+🔥 /archive/pc/ <- [90m/archive_result[97].page.js[39m
+🔥 /archive/yinle-ai/ <- [90m/archive_result[98].page.js[39m
+🔥 /archive/tsiyatu/ <- [90m/archive_result[99].page.js[39m
+🔥 /archive/fu/ <- [90m/archive_result[100].page.js[39m
+🔥 /archive/worldapp/ <- [90m/archive_result[101].page.js[39m
+🔥 /archive/worldcoin/ <- [90m/archive_result[102].page.js[39m
+🔥 /archive/samuarutoman/ <- [90m/archive_result[103].page.js[39m
+🔥 /archive/serozhishizhengming/ <- [90m/archive_result[104].page.js[39m
+🔥 /archive/css/ <- [90m/archive_result[105].page.js[39m
+🔥 /archive/huonto/ <- [90m/archive_result[106].page.js[39m
+🔥 /archive/patagonia/ <- [90m/archive_result[107].page.js[39m
+🔥 /archive/amd/ <- [90m/archive_result[108].page.js[39m
+🔥 /archive/cwt/ <- [90m/archive_result[109].page.js[39m
+🔥 /archive/fsp/ <- [90m/archive_result[110].page.js[39m
+🔥 /archive/micron/ <- [90m/archive_result[111].page.js[39m
+🔥 /archive/samsung/ <- [90m/archive_result[112].page.js[39m
+🔥 /archive/skhynix/ <- [90m/archive_result[113].page.js[39m
+🔥 /archive/koramu/ <- [90m/archive_result[114].page.js[39m
+🔥 /archive/taiwan/ <- [90m/archive_result[115].page.js[39m
+🔥 /archive/miguo/ <- [90m/archive_result[116].page.js[39m
+🔥 /archive/ho-karoito/ <- [90m/archive_result[117].page.js[39m
+🔥 /archive/intel/ <- [90m/archive_result[118].page.js[39m
+🔥 /archive/ssd/ <- [90m/archive_result[119].page.js[39m
+🔥 /archive/stable-diffusion/ <- [90m/archive_result[120].page.js[39m
+🔥 /archive/saike/ <- [90m/archive_result[121].page.js[39m
+🔥 /archive/huaxiangshengcheng/ <- [90m/archive_result[122].page.js[39m
+🔥 /archive/saito/ <- [90m/archive_result[123].page.js[39m
+🔥 /archive/xiezhen/ <- [90m/archive_result[124].page.js[39m
+🔥 /archive/ke-mu/ <- [90m/archive_result[125].page.js[39m
+🔥 /archive/masa/ <- [90m/archive_result[126].page.js[39m
+🔥 /archive/gpu/ <- [90m/archive_result[127].page.js[39m
+🔥 /archive/kuraho/ <- [90m/archive_result[128].page.js[39m
+🔥 /archive/devuan/ <- [90m/archive_result[129].page.js[39m
+🔥 /archive/nextcloud/ <- [90m/archive_result[130].page.js[39m
+🔥 /archive/zizhaisa-ha/ <- [90m/archive_result[131].page.js[39m
+🔥 /archive/redis/ <- [90m/archive_result[132].page.js[39m
+🔥 /archive/kiyatusiyu/ <- [90m/archive_result[133].page.js[39m
+🔥 /archive/hurokusi/ <- [90m/archive_result[134].page.js[39m
+🔥 /archive/apache2/ <- [90m/archive_result[135].page.js[39m
+🔥 /archive/nginx/ <- [90m/archive_result[136].page.js[39m
+🔥 /archive/vps/ <- [90m/archive_result[137].page.js[39m
+🔥 /archive/wireguard/ <- [90m/archive_result[138].page.js[39m
+🔥 /archive/https/ <- [90m/archive_result[139].page.js[39m
+🔥 /archive/damepo-jp/ <- [90m/archive_result[140].page.js[39m
+🔥 /archive/tomein/ <- [90m/archive_result[141].page.js[39m
+🔥 /archive/templeos/ <- [90m/archive_result[142].page.js[39m
+🔥 /archive/terrydavis/ <- [90m/archive_result[143].page.js[39m
+🔥 /archive/httrack/ <- [90m/archive_result[144].page.js[39m
+🔥 /archive/uehusukureihinku/ <- [90m/archive_result[145].page.js[39m
+🔥 /archive/dongkuwuyu/ <- [90m/archive_result[146].page.js[39m
+🔥 /archive/kaifashihikuseru/ <- [90m/archive_result[147].page.js[39m
+🔥 /archive/wordpress/ <- [90m/archive_result[148].page.js[39m
+🔥 /archive/huroku/ <- [90m/archive_result[149].page.js[39m
+🔥 /archive/elegiant/ <- [90m/archive_result[150].page.js[39m
+🔥 /archive/hy-10v/ <- [90m/archive_result[151].page.js[39m
+🔥 /archive/o-teio/ <- [90m/archive_result[152].page.js[39m
+🔥 /archive/tesitaruanhu/ <- [90m/archive_result[153].page.js[39m
+🔥 /archive/gnu-linux/ <- [90m/archive_result[154].page.js[39m
+🔥 /archive/conoha/ <- [90m/archive_result[155].page.js[39m
+🔥 /archive/vpn/ <- [90m/archive_result[156].page.js[39m
+🔥 /archive/vultr/ <- [90m/archive_result[157].page.js[39m
+🔥 /archive/uehusaito/ <- [90m/archive_result[158].page.js[39m
+🔥 /archive/zaji/ <- [90m/archive_result[159].page.js[39m
+🔥 /archive/freebsd/ <- [90m/archive_result[160].page.js[39m
+🔥 /archive/3dfx/ <- [90m/archive_result[161].page.js[39m
+🔥 /archive/ebay/ <- [90m/archive_result[162].page.js[39m
+🔥 /archive/riha-suhurokisi/ <- [90m/archive_result[163].page.js[39m
+🔥 /archive/logicool/ <- [90m/archive_result[164].page.js[39m
+🔥 /archive/logitech/ <- [90m/archive_result[165].page.js[39m
+🔥 /archive/kasietuto/ <- [90m/archive_result[166].page.js[39m
+🔥 /archive/toratukuho-ru/ <- [90m/archive_result[167].page.js[39m
+🔥 /archive/mausu/ <- [90m/archive_result[168].page.js[39m
+🔥 /archive/rentarusa-ha/ <- [90m/archive_result[169].page.js[39m
+🔥 /archive/kiwix/ <- [90m/archive_result[170].page.js[39m
+🔥 /archive/wikipedia/ <- [90m/archive_result[171].page.js[39m
+🔥 /archive/nec/ <- [90m/archive_result[172].page.js[39m
+🔥 /archive/nmb/ <- [90m/archive_result[173].page.js[39m
+🔥 /archive/mitumiminehea/ <- [90m/archive_result[174].page.js[39m
+🔥 /archive/rehiyu/ <- [90m/archive_result[175].page.js[39m
+🔥 /archive/amerika/ <- [90m/archive_result[176].page.js[39m
+🔥 /archive/kurahuitukuho-to/ <- [90m/archive_result[177].page.js[39m
+🔥 /archive/renzhu/ <- [90m/archive_result[178].page.js[39m
+🔥 /archive/shiyan/ <- [90m/archive_result[179].page.js[39m
+🔥 /archive/xiuli/ <- [90m/archive_result[180].page.js[39m
+🔥 /archive/fenjie/ <- [90m/archive_result[181].page.js[39m
+🔥 /archive/proxy-cache/ <- [90m/archive_result[182].page.js[39m
+🔥 /archive/sns/ <- [90m/archive_result[183].page.js[39m
+🔥 /archive/masutoton/ <- [90m/archive_result[184].page.js[39m
+🔥 /archive/xmr/ <- [90m/archive_result[185].page.js[39m
+🔥 /archive/monero/ <- [90m/archive_result[186].page.js[39m
+🔥 /archive/kraftwerk/ <- [90m/archive_result[187].page.js[39m
+🔥 /archive/la-dusseldorf/ <- [90m/archive_result[188].page.js[39m
+🔥 /archive/toituyinle/ <- [90m/archive_result[189].page.js[39m
+🔥 /archive/php/ <- [90m/archive_result[190].page.js[39m
+🔥 /archive/a16z/ <- [90m/archive_result[191].page.js[39m
+🔥 /archive/hi-ta-tei-ru/ <- [90m/archive_result[192].page.js[39m
+🔥 /archive/dovecot/ <- [90m/archive_result[193].page.js[39m
+🔥 /archive/postfix/ <- [90m/archive_result[194].page.js[39m
+🔥 /archive/me-rusa-ha/ <- [90m/archive_result[195].page.js[39m
+🔥 /archive/2ch-5ch/ <- [90m/archive_result[196].page.js[39m
+🔥 /archive/p2-php/ <- [90m/archive_result[197].page.js[39m
+🔥 /archive/rep2/ <- [90m/archive_result[198].page.js[39m
+🔥 /archive/bitmex/ <- [90m/archive_result[199].page.js[39m
+🔥 /archive/a-sa-heisu/ <- [90m/archive_result[200].page.js[39m
+🔥 /archive/anke-to/ <- [90m/archive_result[201].page.js[39m
+🔥 /archive/reitario/ <- [90m/archive_result[202].page.js[39m
+🔥 /archive/meme/ <- [90m/archive_result[203].page.js[39m
+🔥 /archive/neofetch/ <- [90m/archive_result[204].page.js[39m
+🔥 /archive/komanto/ <- [90m/archive_result[205].page.js[39m
+🔥 /archive/chuyinmiku/ <- [90m/archive_result[206].page.js[39m
+🔥 /archive/zhongyinteto/ <- [90m/archive_result[207].page.js[39m
+🔥 /archive/android/ <- [90m/archive_result[208].page.js[39m
+🔥 /archive/androidstudio/ <- [90m/archive_result[209].page.js[39m
+🔥 /archive/apk/ <- [90m/archive_result[210].page.js[39m
+🔥 /archive/ahuri/ <- [90m/archive_result[211].page.js[39m
+🔥 /archive/vimusic/ <- [90m/archive_result[212].page.js[39m
+🔥 /archive/unix/ <- [90m/archive_result[213].page.js[39m
+🔥 /archive/shishi/ <- [90m/archive_result[214].page.js[39m
+🔥 /archive/riji/ <- [90m/archive_result[215].page.js[39m
+🔥 /archive/tounoyjingcha/ <- [90m/archive_result[216].page.js[39m
+🔥 /archive/dodo/ <- [90m/archive_result[217].page.js[39m
+🔥 /archive/stuts/ <- [90m/archive_result[218].page.js[39m
+🔥 /archive/raihu/ <- [90m/archive_result[219].page.js[39m
+🔥 /archive/nuwangfeng/ <- [90m/archive_result[220].page.js[39m
+🔥 /archive/dianqikuru-u/ <- [90m/archive_result[221].page.js[39m
+🔥 /archive/yinlehuesu/ <- [90m/archive_result[222].page.js[39m
+🔥 /archive/oheanhu/ <- [90m/archive_result[223].page.js[39m
+🔥 /archive/dianzigongzuo/ <- [90m/archive_result[224].page.js[39m
+🔥 /archive/hanta/ <- [90m/archive_result[225].page.js[39m
+🔥 /archive/iyahon/ <- [90m/archive_result[226].page.js[39m
+🔥 /archive/ojiu/ <- [90m/archive_result[227].page.js[39m
+🔥 /archive/yinmiwu/ <- [90m/archive_result[228].page.js[39m
+🔥 /archive/yinntakure/ <- [90m/archive_result[229].page.js[39m
+🔥 /archive/riben/ <- [90m/archive_result[230].page.js[39m
+🔥 /archive/hurausa/ <- [90m/archive_result[231].page.js[39m
+🔥 /archive/itiko100/ <- [90m/archive_result[232].page.js[39m
+🔥 /archive/manhua/ <- [90m/archive_result[233].page.js[39m
+🔥 /archive/siehuri-kantoratuku/ <- [90m/archive_result[234].page.js[39m
+🔥 /archive/zhaiquan/ <- [90m/archive_result[235].page.js[39m
+🔥 /archive/nvidia/ <- [90m/archive_result[236].page.js[39m
+🔥 /archive/youtube/ <- [90m/archive_result[237].page.js[39m
+🔥 /archive/rust/ <- [90m/archive_result[240].page.js[39m
+🔥 /archive/mariadb/ <- [90m/archive_result[241].page.js[39m
+🔥 /archive/sqlite/ <- [90m/archive_result[242].page.js[39m
+🔥 /archive/sieru/ <- [90m/archive_result[243].page.js[39m
+🔥 /archive/sukurihuto/ <- [90m/archive_result[244].page.js[39m
+🔥 /archive/netutowa-ku/ <- [90m/archive_result[245].page.js[39m
+🔥 /archive/ffmpeg/ <- [90m/archive_result[246].page.js[39m
+🔥 /archive/sierusukurihuto/ <- [90m/archive_result[247].page.js[39m
+🔥 /archive/x230/ <- [90m/archive_result[248].page.js[39m
+🔥 /archive/chromium/ <- [90m/archive_result[249].page.js[39m
+🔥 /archive/oss/ <- [90m/archive_result[250].page.js[39m
+🔥 /archive/sohutouea/ <- [90m/archive_result[251].page.js[39m
+🔥 /archive/cyanyu/ <- [90m/archive_result[252].page.js[39m
+🔥 /archive/hentima-ku/ <- [90m/archive_result[253].page.js[39m
+🔥 /archive/mongodb/ <- [90m/archive_result[254].page.js[39m
+🔥 /archive/x60/ <- [90m/archive_result[255].page.js[39m
+🔥 /archive/nextjs/ <- [90m/archive_result[256].page.js[39m
+🔥 /archive/suisuhuran/ <- [90m/archive_result[257].page.js[39m
+🔥 /archive/toruyuan/ <- [90m/archive_result[258].page.js[39m
+🔥 /archive/rdbms/ <- [90m/archive_result[259].page.js[39m
+🔥 /archive/bose/ <- [90m/archive_result[260].page.js[39m
+🔥 /archive/suhi-ka/ <- [90m/archive_result[261].page.js[39m
+🔥 /archive/python/ <- [90m/archive_result[262].page.js[39m
+🔥 /archive/led-zeppelin/ <- [90m/archive_result[263].page.js[39m
+🔥 /archive/geci/ <- [90m/archive_result[264].page.js[39m
+🔥 /archive/fanyi/ <- [90m/archive_result[265].page.js[39m
+🔥 /archive/pink-floyd/ <- [90m/archive_result[266].page.js[39m
+🔥 /archive/gecifanyi/ <- [90m/archive_result[267].page.js[39m
+🔥 /archive/fred/ <- [90m/archive_result[268].page.js[39m
+🔥 /archive/deno/ <- [90m/archive_result[269].page.js[39m
+🔥 /archive/ssg/ <- [90m/archive_result[270].page.js[39m
+🔥 /author/oscar-otero/ <- [90m/archive_result[271].page.js[39m
+🔥 /pagefind/pagefind.en_267f3de9b2.pf_meta <- [90m(generated)[39m
+🔥 /pagefind/wasm.en.pagefind <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_77946bf.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7086f5b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b882ce9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_54eb3e8.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_792ea64.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_eb05df5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_52755d1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_47b4fb4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_85b4d29.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_9972b04.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_9137723.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e2dd47f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4e8ab08.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d45445f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c7438fe.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1de911b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2b71571.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5b668b1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3bc4667.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f8d5b1a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6225b7f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_55ebd1b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a427ffe.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_86b5771.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_947e73c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5fe2c07.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_cfe7781.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7643371.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f7991a3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_10b9e75.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_0f89e79.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ceecd12.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5b9c04f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8c5423e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d2ff376.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7cf65f9.pf_fragment <- [90m(generated)[39m
+🔥 /archive/zhengguibiaoxian/ <- [90m/archive_result[238].page.js[39m
+🔥 /archive/opendkim/ <- [90m/archive_result[239].page.js[39m
+🔥 /pagefind/fragment/en_ebec4f6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_81aa42e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_194676a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_786fa8f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2a8c1b5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_14f27da.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_24e0657.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_34d77c1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b20d7c4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8e14b3e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_eac4a0e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_742ffa5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_cfe3fdc.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e2b8d51.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_896e9a5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_789ada1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b1ea5e3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_761d615.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_48ff3d6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a4e94b6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_569e61b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f32c84c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b897d5d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6a2627c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2517f48.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fbce1cc.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_90b6856.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c71e9e2.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a65431a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7361478.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_83138bb.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_619d197.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d1a931a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_64c8c4e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2725af4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4f5e989.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1158483.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d98f657.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_139c1dc.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5624530.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_45990ee.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_84dffa3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f3b3bd2.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7f39e5f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1696251.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fb83a32.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_aafdb86.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e330712.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_753cd81.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fbeb8e3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_69787ce.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_744bcaa.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7dbdf95.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_eb7fafa.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_88df9b9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a0773ff.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_45f4637.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_48cd2fa.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_bce9abf.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2f2f1f7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_63b0423.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_28c14c7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_22dabbc.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_557c302.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e9d1983.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_15f336a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_145d2f2.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c53776d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8a84e97.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_9dddcd7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3d4cda1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a44ccc6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8a9ec2e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_32d97b3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3662b6a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2711d3d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6be9216.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5b7ef81.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e7f16da.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a3d158f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_92e313a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ae7ea0c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_272afc6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6114575.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_128b4f9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_651f76e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_aeb86b4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7c23b12.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1d2842b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5b52618.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7c27751.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a8ac4d5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8674fe9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b6835f2.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_184b892.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_aaaaf4c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_bc2ceca.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a3d1030.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_cdd9939.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a54ee39.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_324ca2a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_311f76c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_bdc3f86.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b742c44.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fbf79c6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e092501.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c767fde.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_762f59d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_86c28da.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a768723.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_868a5ee.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_26b1e26.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a3c390f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_329d2c2.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5a48172.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_34d01be.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3e1e3b4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6071b29.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fad94c9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f08fc99.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6cddd7f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4ea3c56.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c57e36a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4828cfe.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d892223.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1a52d84.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_944df59.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_53ab7f3.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f98031d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_be99a1b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_39adf69.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_97ad356.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c6d9e3a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_22bddf7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_93b0161.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_47cf2f6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d9bbfc5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8dfd2ce.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_89dc651.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7d4279d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4d2c9ad.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_dcf8bf7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_81cf7f8.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_55b8752.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ec13f4b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_47a3bbd.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_abfcced.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ed20d18.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ee1c9d4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_48894cd.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_227ed1f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d025372.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_207a931.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a93efa9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8c598fb.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_eefdbc1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7a84263.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_263ffe7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3a3c6cd.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_247add6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f278d73.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_27f9d4d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d96d6df.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_68d3652.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f0f3eee.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_11d376a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c5c166b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5a824e7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_206c4d6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_aa3ad74.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6df5266.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_52f1994.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_12765e0.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1c3fc27.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1d7548d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1b4c187.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_42ed3a5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_b5f33c7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8223206.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_61aa62c.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a2452f9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5ba0b66.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_f698bbf.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_69c2105.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_fd5e418.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d972ed6.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8fe76da.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_dac8249.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6d32a0e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_781dfba.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d686642.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_864aa19.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_9b836eb.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_eef836a.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_ec37818.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_1835bc9.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_a6eeb37.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4ea5d19.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_abc9282.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3225f01.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_71c576d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2e3930b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6e5b6ed.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c7c5f7d.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4d3edbd.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4c0b427.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_6e92f27.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_8bbe9e4.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_90b2d7f.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_3eea63e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7c19845.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_409b665.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_31c3288.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_e4c513b.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_da8d66e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_d0bed46.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_266e883.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_2a81105.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_5e3ddf5.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_c4f53c7.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_4298559.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_9cef3f1.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_125675e.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_79cfb44.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/fragment/en_7471688.pf_fragment <- [90m(generated)[39m
+🔥 /pagefind/index/en_9855dcf.pf_index <- [90m(generated)[39m
+🔥 /pagefind/index/en_9660cac.pf_index <- [90m(generated)[39m
+🔥 /pagefind/index/en_574d3c9.pf_index <- [90m(generated)[39m
+🔥 /pagefind/index/en_51784d5.pf_index <- [90m(generated)[39m
+🔥 /pagefind/index/en_3e4d47a.pf_index <- [90m(generated)[39m
+🔥 /pagefind/filter/en_5dcdcaa.pf_filter <- [90m(generated)[39m
+🔥 /pagefind/pagefind.js <- [90m(generated)[39m
+🔥 /pagefind/pagefind-highlight.js <- [90m(generated)[39m
+🔥 /pagefind/pagefind-ui.js <- [90m(generated)[39m
+🔥 /pagefind/pagefind-ui.css <- [90m(generated)[39m
+🔥 /pagefind/pagefind-modular-ui.js <- [90m(generated)[39m
+🔥 /pagefind/pagefind-modular-ui.css <- [90m(generated)[39m
+🔥 /pagefind/wasm.unknown.pagefind <- [90m(generated)[39m
+🔥 /pagefind/pagefind-entry.json <- [90m(generated)[39m
+🔥 /sitemap.xml <- [90m(generated)[39m
+🔥 /robots.txt <- [90m(generated)[39m
+🔥 /feed.xml <- [90m(generated)[39m
+🔥 /feed.json <- [90m(generated)[39m
+🔥 /uploads/ibm-plex-images-768x156-1.jpg <- [90m/uploads/ibm-plex-images-768x156-1.jpg[39m
+🔥 /uploads/btcccccc-1024x632.png <- [90m/uploads/btcccccc-1024x632.png[39m
+🔥 /uploads/gas-1024x628.png <- [90m/uploads/gas-1024x628.png[39m
+🔥 /uploads/1500x500.jpeg <- [90m/uploads/1500x500.jpeg[39m
+🔥 /uploads/3078_2023-05-26_11-47-08.png <- [90m/uploads/3078_2023-05-26_11-47-08.png[39m
+🔥 /uploads/PXL_20211024_004748856-768x1024.jpg <- [90m/uploads/PXL_20211024_004748856-768x1024.jpg[39m
+🔥 /uploads/conoha-1.png <- [90m/uploads/conoha-1.png[39m
+🔥 /uploads/MG_0021.jpg <- [90m/uploads/MG_0021.jpg[39m
+🔥 /uploads/Screenshot_20230130-210732-1.png <- [90m/uploads/Screenshot_20230130-210732-1.png[39m
+🔥 /uploads/F-3sz-aUAAGcvo-ascii-art-832x1024.png <- [90m/uploads/F-3sz-aUAAGcvo-ascii-art-832x1024.png[39m
+🔥 /uploads/a.png <- [90m/uploads/a.png[39m
+🔥 /uploads/snap.png <- [90m/uploads/snap.png[39m
+🔥 /uploads/VGkKYv8p.png <- [90m/uploads/VGkKYv8p.png[39m
+🔥 /uploads/torrrr-1024x472.png <- [90m/uploads/torrrr-1024x472.png[39m
+🔥 /uploads/BTCUSD_2023-02-20_12-18-41.png <- [90m/uploads/BTCUSD_2023-02-20_12-18-41.png[39m
+🔥 /uploads/ukkk.png <- [90m/uploads/ukkk.png[39m
+🔥 /uploads/PXL_20210731_003551411-576x1024.jpg <- [90m/uploads/PXL_20210731_003551411-576x1024.jpg[39m
+🔥 /uploads/MG_2782.jpg <- [90m/uploads/MG_2782.jpg[39m
+🔥 /uploads/PXL_20240505_181710669-768x1024.jpg <- [90m/uploads/PXL_20240505_181710669-768x1024.jpg[39m
+🔥 /uploads/us02-1024x486.png <- [90m/uploads/us02-1024x486.png[39m
+🔥 /uploads/MG_2775-1024x1024.jpg <- [90m/uploads/MG_2775-1024x1024.jpg[39m
+🔥 /uploads/us02y.png <- [90m/uploads/us02y.png[39m
+🔥 /uploads/Screenshot_20230125-190922-687x1024.jpg <- [90m/uploads/Screenshot_20230125-190922-687x1024.jpg[39m
+🔥 /uploads/pictures_768x512_ouuobJRaOb.jpeg <- [90m/uploads/pictures_768x512_ouuobJRaOb.jpeg[39m
+🔥 /uploads/DJI_2023-04-21_16-04-00.png <- [90m/uploads/DJI_2023-04-21_16-04-00.png[39m
+🔥 /uploads/xem.png <- [90m/uploads/xem.png[39m
+🔥 /uploads/5350e457.jpg <- [90m/uploads/5350e457.jpg[39m
+🔥 /uploads/DJI_2023-04-21_16-02-44.png <- [90m/uploads/DJI_2023-04-21_16-02-44.png[39m
+🔥 /uploads/usdept-1024x474.png <- [90m/uploads/usdept-1024x474.png[39m
+🔥 /uploads/uuum.png <- [90m/uploads/uuum.png[39m
+🔥 /uploads/PXL_20231021_120140574.jpg <- [90m/uploads/PXL_20231021_120140574.jpg[39m
+🔥 /uploads/PXL_20230613_033643814.jpg <- [90m/uploads/PXL_20230613_033643814.jpg[39m
+🔥 /uploads/N202212307900000_x.jpg <- [90m/uploads/N202212307900000_x.jpg[39m
+🔥 /uploads/PXL_20211024_004816755-768x1024.jpg <- [90m/uploads/PXL_20211024_004816755-768x1024.jpg[39m
+🔥 /uploads/Screenshot_20240620_003458.png <- [90m/uploads/Screenshot_20240620_003458.png[39m
+🔥 /uploads/ukkk-1-1.png <- [90m/uploads/ukkk-1-1.png[39m
+🔥 /uploads/00124-3951556207.jpg <- [90m/uploads/00124-3951556207.jpg[39m
+🔥 /uploads/a3d7555b4a1037bd.jpg <- [90m/uploads/a3d7555b4a1037bd.jpg[39m
+🔥 /uploads/spoti.png <- [90m/uploads/spoti.png[39m
+🔥 /uploads/INTC_2023-05-26_10-22-07.png <- [90m/uploads/INTC_2023-05-26_10-22-07.png[39m
+🔥 /uploads/awifiewhfe.png <- [90m/uploads/awifiewhfe.png[39m
+🔥 /uploads/MG_9972-scaled.jpg <- [90m/uploads/MG_9972-scaled.jpg[39m
+🔥 /uploads/tokyosta.png <- [90m/uploads/tokyosta.png[39m
+🔥 /uploads/81GSl4K17jL._AC_SL1500_.jpg <- [90m/uploads/81GSl4K17jL._AC_SL1500_.jpg[39m
+🔥 /uploads/PXL_20231018_130114070-768x1024.jpg <- [90m/uploads/PXL_20231018_130114070-768x1024.jpg[39m
+🔥 /uploads/eva2.jpg <- [90m/uploads/eva2.jpg[39m
+🔥 /uploads/F-3sz-aUAAGcvo-ascii-art.png <- [90m/uploads/F-3sz-aUAAGcvo-ascii-art.png[39m
+🔥 /uploads/PXL_20240421_120216190-768x1024.jpg <- [90m/uploads/PXL_20240421_120216190-768x1024.jpg[39m
+🔥 /uploads/vultr.png <- [90m/uploads/vultr.png[39m
+🔥 /uploads/PXL_20230527_153452131-768x1024.jpg <- [90m/uploads/PXL_20230527_153452131-768x1024.jpg[39m
+🔥 /uploads/images-1.jpeg <- [90m/uploads/images-1.jpeg[39m
+🔥 /uploads/1btc.png <- [90m/uploads/1btc.png[39m
+🔥 /uploads/MG_3568.jpg <- [90m/uploads/MG_3568.jpg[39m
+🔥 /uploads/ダウンロード.jpg <- [90m/uploads/ダウンロード.jpg[39m
+🔥 /uploads/207-ascii-art.png <- [90m/uploads/207-ascii-art.png[39m
+🔥 /uploads/us02.png <- [90m/uploads/us02.png[39m
+🔥 /uploads/SOLUSD_2023-02-20_12-24-53.png <- [90m/uploads/SOLUSD_2023-02-20_12-24-53.png[39m
+🔥 /uploads/medd.png <- [90m/uploads/medd.png[39m
+🔥 /uploads/sp500.png <- [90m/uploads/sp500.png[39m
+🔥 /uploads/PXL_20240108_141208832.jpg <- [90m/uploads/PXL_20240108_141208832.jpg[39m
+🔥 /uploads/PXL_20240128_0309485442-1024x431.jpg <- [90m/uploads/PXL_20240128_0309485442-1024x431.jpg[39m
+🔥 /uploads/ffprobe.png <- [90m/uploads/ffprobe.png[39m
+🔥 /uploads/KEVKFysV-1024x476.png <- [90m/uploads/KEVKFysV-1024x476.png[39m
+🔥 /uploads/PXL_20230428_124639326-768x1024.jpg <- [90m/uploads/PXL_20230428_124639326-768x1024.jpg[39m
+🔥 /uploads/MG_3360.jpg <- [90m/uploads/MG_3360.jpg[39m
+🔥 /uploads/1682731323773.png <- [90m/uploads/1682731323773.png[39m
+🔥 /uploads/Screenshot_20240427_200819.png <- [90m/uploads/Screenshot_20240427_200819.png[39m
+🔥 /uploads/NVDA_2023-05-06_18-18-23.png <- [90m/uploads/NVDA_2023-05-06_18-18-23.png[39m
+🔥 /uploads/PXL_20211024_004610090-768x1024.jpg <- [90m/uploads/PXL_20211024_004610090-768x1024.jpg[39m
+🔥 /uploads/PXL_20231019_073211188.jpg <- [90m/uploads/PXL_20231019_073211188.jpg[39m
+🔥 /uploads/tab-l-on.png <- [90m/uploads/tab-l-on.png[39m
+🔥 /uploads/PXL_20211024_004628904-768x1024.jpg <- [90m/uploads/PXL_20211024_004628904-768x1024.jpg[39m
+🔥 /uploads/PXL_20231018_130114070.jpg <- [90m/uploads/PXL_20231018_130114070.jpg[39m
+🔥 /uploads/mika-ascii-art.png <- [90m/uploads/mika-ascii-art.png[39m
+🔥 /uploads/MG_3376.jpg <- [90m/uploads/MG_3376.jpg[39m
+🔥 /uploads/google-1024x122.png <- [90m/uploads/google-1024x122.png[39m
+🔥 /uploads/Screenshot_20240620_003557.png <- [90m/uploads/Screenshot_20240620_003557.png[39m
+🔥 /uploads/search2.png <- [90m/uploads/search2.png[39m
+🔥 /uploads/PXL_20231118_183441780-768x1024.jpg <- [90m/uploads/PXL_20231118_183441780-768x1024.jpg[39m
+🔥 /uploads/110x32_get.png <- [90m/uploads/110x32_get.png[39m
+🔥 /uploads/PXL_20211024_004659903.jpg <- [90m/uploads/PXL_20211024_004659903.jpg[39m
+🔥 /uploads/images-2024-04-01T183535.917.jpeg <- [90m/uploads/images-2024-04-01T183535.917.jpeg[39m
+🔥 /uploads/fredgraph-1.png <- [90m/uploads/fredgraph-1.png[39m
+🔥 /uploads/ethhhhrrr-1024x508.png <- [90m/uploads/ethhhhrrr-1024x508.png[39m
+🔥 /uploads/Screenshot_20230124-060842-694x1024.png <- [90m/uploads/Screenshot_20230124-060842-694x1024.png[39m
+🔥 /uploads/httrack.png <- [90m/uploads/httrack.png[39m
+🔥 /uploads/GV-NP104D5X-4G_1000x750a-620x466-1.jpg <- [90m/uploads/GV-NP104D5X-4G_1000x750a-620x466-1.jpg[39m
+🔥 /uploads/PXL_20231117_210025816-768x1024.jpg <- [90m/uploads/PXL_20231117_210025816-768x1024.jpg[39m
+🔥 /uploads/2d5a0187c65eb864-1.jpg <- [90m/uploads/2d5a0187c65eb864-1.jpg[39m
+🔥 /uploads/Y9yo3Q2W-1024x476.png <- [90m/uploads/Y9yo3Q2W-1024x476.png[39m
+🔥 /uploads/teto.png <- [90m/uploads/teto.png[39m
+🔥 /uploads/PXL_20230414_023031656-scaled.jpg <- [90m/uploads/PXL_20230414_023031656-scaled.jpg[39m
+🔥 /uploads/5a7a819e09f468905a94563478c36f3e.jpg <- [90m/uploads/5a7a819e09f468905a94563478c36f3e.jpg[39m
+🔥 /uploads/cmeeeeeeee.png <- [90m/uploads/cmeeeeeeee.png[39m
+🔥 /uploads/img389-rotated.jpg <- [90m/uploads/img389-rotated.jpg[39m
+🔥 /uploads/buttonbg.png <- [90m/uploads/buttonbg.png[39m
+🔥 /uploads/PXL_20240421_112240992-768x1024.jpg <- [90m/uploads/PXL_20240421_112240992-768x1024.jpg[39m
+🔥 /uploads/PXL_20230811_175858953-768x1024.jpg <- [90m/uploads/PXL_20230811_175858953-768x1024.jpg[39m
+🔥 /uploads/alameda5.png <- [90m/uploads/alameda5.png[39m
+🔥 /uploads/ginnang.png <- [90m/uploads/ginnang.png[39m
+🔥 /uploads/sub.png <- [90m/uploads/sub.png[39m
+🔥 /uploads/F-4TwdeXgAAVu3r-ascii-art.png <- [90m/uploads/F-4TwdeXgAAVu3r-ascii-art.png[39m
+🔥 /uploads/exness.png <- [90m/uploads/exness.png[39m
+🔥 /uploads/2021-06-11T000000Z_111540923_RC2GYN9U4WT4_RTRMADP_3_EL-SALVADOR-BUKELE_1_-1024x576.jpg <- [90m/uploads/2021-06-11T000000Z_111540923_RC2GYN9U4WT4_RTRMADP_3_EL-SALVADOR-BUKELE_1_-1024x576.jpg[39m
+🔥 /uploads/Screenshot_20221203-013451.jpg <- [90m/uploads/Screenshot_20221203-013451.jpg[39m
+🔥 /uploads/PXL_20230811_125155576.jpg <- [90m/uploads/PXL_20230811_125155576.jpg[39m
+🔥 /uploads/moe-1024x101.png <- [90m/uploads/moe-1024x101.png[39m
+🔥 /uploads/title-1624670215150.jpeg <- [90m/uploads/title-1624670215150.jpeg[39m
+🔥 /uploads/161013-bob-dylan-sunglasses-1104a-ascii-art-1.png <- [90m/uploads/161013-bob-dylan-sunglasses-1104a-ascii-art-1.png[39m
+🔥 /uploads/Screenshot_20230205-024705.png <- [90m/uploads/Screenshot_20230205-024705.png[39m
+🔥 /uploads/dame.png <- [90m/uploads/dame.png[39m
+🔥 /uploads/MG_2777-1024x1024.jpg <- [90m/uploads/MG_2777-1024x1024.jpg[39m
+🔥 /uploads/alameda.png <- [90m/uploads/alameda.png[39m
+🔥 /uploads/Screenshot_20240408_214910.png <- [90m/uploads/Screenshot_20240408_214910.png[39m
+🔥 /uploads/BTCUSD_2023-05-06_15-46-13.png <- [90m/uploads/BTCUSD_2023-05-06_15-46-13.png[39m
+🔥 /uploads/MG_0054-1-scaled.jpg <- [90m/uploads/MG_0054-1-scaled.jpg[39m
+🔥 /uploads/PXL_20230612_152331436.jpg <- [90m/uploads/PXL_20230612_152331436.jpg[39m
+🔥 /uploads/200x32_all_purp.png <- [90m/uploads/200x32_all_purp.png[39m
+🔥 /uploads/MG_2258-1-683x1024.jpg <- [90m/uploads/MG_2258-1-683x1024.jpg[39m
+🔥 /uploads/MG_3364-1.jpg <- [90m/uploads/MG_3364-1.jpg[39m
+🔥 /uploads/images.png <- [90m/uploads/images.png[39m
+🔥 /uploads/2750f1.jpg <- [90m/uploads/2750f1.jpg[39m
+🔥 /uploads/PXL_20240119_170803576.jpg <- [90m/uploads/PXL_20240119_170803576.jpg[39m
+🔥 /uploads/damepo.png <- [90m/uploads/damepo.png[39m
+🔥 /uploads/sbi.png <- [90m/uploads/sbi.png[39m
+🔥 /uploads/asdfdsfd.jpg <- [90m/uploads/asdfdsfd.jpg[39m
+🔥 /uploads/ss.png <- [90m/uploads/ss.png[39m
+🔥 /uploads/MG_9997-1024x683.jpg <- [90m/uploads/MG_9997-1024x683.jpg[39m
+🔥 /uploads/CrystalDiskMark_20230527002706.png <- [90m/uploads/CrystalDiskMark_20230527002706.png[39m
+🔥 /uploads/Screenshot_20230204.png <- [90m/uploads/Screenshot_20230204.png[39m
+🔥 /uploads/Screenshot_20221220-172716.png <- [90m/uploads/Screenshot_20221220-172716.png[39m
+🔥 /uploads/PXL_20240121_091054003-768x1024.jpg <- [90m/uploads/PXL_20240121_091054003-768x1024.jpg[39m
+🔥 /uploads/xaujpy-1024x526.png <- [90m/uploads/xaujpy-1024x526.png[39m
+🔥 /uploads/170px-Terry_Davis_2000_cropped.jpg <- [90m/uploads/170px-Terry_Davis_2000_cropped.jpg[39m
+🔥 /uploads/125x125.png <- [90m/uploads/125x125.png[39m
+🔥 /uploads/PXL_20211028_232835027.jpg <- [90m/uploads/PXL_20211028_232835027.jpg[39m
+🔥 /uploads/a3d7555b4a1037bd-768x1024.jpg <- [90m/uploads/a3d7555b4a1037bd-768x1024.jpg[39m
+🔥 /uploads/rakuten-1024x141.png <- [90m/uploads/rakuten-1024x141.png[39m
+🔥 /uploads/diagonallines.png <- [90m/uploads/diagonallines.png[39m
+🔥 /uploads/cc56e4424a27130d.jpg <- [90m/uploads/cc56e4424a27130d.jpg[39m
+🔥 /uploads/Screenshot_20221220-170704-512x1024.png <- [90m/uploads/Screenshot_20221220-170704-512x1024.png[39m
+🔥 /uploads/moviedrama-2020-02-07_09-09-01_569126.jpg <- [90m/uploads/moviedrama-2020-02-07_09-09-01_569126.jpg[39m
+🔥 /uploads/Screenshot_20230418_233814.jpg <- [90m/uploads/Screenshot_20230418_233814.jpg[39m
+🔥 /uploads/XAUUSD_2023-02-20_12-19-03.png <- [90m/uploads/XAUUSD_2023-02-20_12-19-03.png[39m
+🔥 /uploads/Screenshot_20230117-145412.png <- [90m/uploads/Screenshot_20230117-145412.png[39m
+🔥 /uploads/407.jpg <- [90m/uploads/407.jpg[39m
+🔥 /uploads/Screenshot_20230102-205715.png <- [90m/uploads/Screenshot_20230102-205715.png[39m
+🔥 /uploads/ig-1024x26.png <- [90m/uploads/ig-1024x26.png[39m
+🔥 /uploads/pic_hall_visitor_areamap01.jpg <- [90m/uploads/pic_hall_visitor_areamap01.jpg[39m
+🔥 /uploads/80x15_square_yellow.png <- [90m/uploads/80x15_square_yellow.png[39m
+🔥 /uploads/Screenshot_20230207-054209.png <- [90m/uploads/Screenshot_20230207-054209.png[39m
+🔥 /uploads/Screenshot_20230516_140948-1024x446.png <- [90m/uploads/Screenshot_20230516_140948-1024x446.png[39m
+🔥 /uploads/twitter.png <- [90m/uploads/twitter.png[39m
+🔥 /uploads/Y9yo3Q2W.png <- [90m/uploads/Y9yo3Q2W.png[39m
+🔥 /uploads/MG_3380.jpg <- [90m/uploads/MG_3380.jpg[39m
+🔥 /uploads/00062-1885100540.jpg <- [90m/uploads/00062-1885100540.jpg[39m
+🔥 /uploads/2048-1024.jpg <- [90m/uploads/2048-1024.jpg[39m
+🔥 /uploads/PXL_20231014_011840796.jpg <- [90m/uploads/PXL_20231014_011840796.jpg[39m
+🔥 /uploads/Screenshot_20230124-060842.png <- [90m/uploads/Screenshot_20230124-060842.png[39m
+🔥 /uploads/xaujpy.png <- [90m/uploads/xaujpy.png[39m
+🔥 /uploads/7.png <- [90m/uploads/7.png[39m
+🔥 /uploads/japan.png <- [90m/uploads/japan.png[39m
+🔥 /uploads/music.png <- [90m/uploads/music.png[39m
+🔥 /uploads/20230610_103006.png <- [90m/uploads/20230610_103006.png[39m
+🔥 /uploads/torwiki.png <- [90m/uploads/torwiki.png[39m
+🔥 /uploads/MG_2778.jpg <- [90m/uploads/MG_2778.jpg[39m
+🔥 /uploads/2d5a0187c65eb864-1-573x1024.jpg <- [90m/uploads/2d5a0187c65eb864-1-573x1024.jpg[39m
+🔥 /uploads/MG_2668.jpg <- [90m/uploads/MG_2668.jpg[39m
+🔥 /uploads/662e7d8f-684x1024.jpg <- [90m/uploads/662e7d8f-684x1024.jpg[39m
+🔥 /uploads/MG_2772.jpg <- [90m/uploads/MG_2772.jpg[39m
+🔥 /uploads/PXL_20231014_011840796-768x1024.jpg <- [90m/uploads/PXL_20231014_011840796-768x1024.jpg[39m
+🔥 /uploads/MG_0032.jpg <- [90m/uploads/MG_0032.jpg[39m
+🔥 /uploads/utw_promo.png <- [90m/uploads/utw_promo.png[39m
+🔥 /uploads/200x32_all_green.png <- [90m/uploads/200x32_all_green.png[39m
+🔥 /uploads/KEVKFysV.png <- [90m/uploads/KEVKFysV.png[39m
+🔥 /uploads/2222.jpg <- [90m/uploads/2222.jpg[39m
+🔥 /uploads/eva-724x1024.jpg <- [90m/uploads/eva-724x1024.jpg[39m
+🔥 /uploads/d10908-422-06d51490e75dade6a535-0.png <- [90m/uploads/d10908-422-06d51490e75dade6a535-0.png[39m
+🔥 /uploads/fredgraph-3.png <- [90m/uploads/fredgraph-3.png[39m
+🔥 /uploads/Screenshot_20240408_214249.png <- [90m/uploads/Screenshot_20240408_214249.png[39m
+🔥 /uploads/PXL_20210731_003551411.jpg <- [90m/uploads/PXL_20210731_003551411.jpg[39m
+🔥 /uploads/1685427361191.jpg <- [90m/uploads/1685427361191.jpg[39m
+🔥 /uploads/PXL_20211028_232802343-768x1024.jpg <- [90m/uploads/PXL_20211028_232802343-768x1024.jpg[39m
+🔥 /uploads/200x32_all_blue.png <- [90m/uploads/200x32_all_blue.png[39m
+🔥 /uploads/kokusai.png <- [90m/uploads/kokusai.png[39m
+🔥 /uploads/unnamed-file.png <- [90m/uploads/unnamed-file.png[39m
+🔥 /uploads/Screenshot_20221220-171210.png <- [90m/uploads/Screenshot_20221220-171210.png[39m
+🔥 /uploads/Screenshot_20240613-050137.png <- [90m/uploads/Screenshot_20240613-050137.png[39m
+🔥 /uploads/FmX2BfQWYAI_62S.jpg <- [90m/uploads/FmX2BfQWYAI_62S.jpg[39m
+🔥 /uploads/google.png <- [90m/uploads/google.png[39m
+🔥 /uploads/img388-723x1024.jpg <- [90m/uploads/img388-723x1024.jpg[39m
+🔥 /uploads/templeos.png <- [90m/uploads/templeos.png[39m
+🔥 /uploads/71ma78OeRRL._UF10001000_QL80_-ascii-art.png <- [90m/uploads/71ma78OeRRL._UF10001000_QL80_-ascii-art.png[39m
+🔥 /uploads/SOLUSD_2023-02-20_12-24-53-1024x405.png <- [90m/uploads/SOLUSD_2023-02-20_12-24-53-1024x405.png[39m
+🔥 /uploads/PXL_20240128_0309485442.jpg <- [90m/uploads/PXL_20240128_0309485442.jpg[39m
+🔥 /uploads/PXL_20230616_165314274.jpg <- [90m/uploads/PXL_20230616_165314274.jpg[39m
+🔥 /uploads/Screenshot_20230416_105437-1024x576.png <- [90m/uploads/Screenshot_20230416_105437-1024x576.png[39m
+🔥 /uploads/Screenshot_20240620_004116.png <- [90m/uploads/Screenshot_20240620_004116.png[39m
+🔥 /uploads/templeos-1024x594.png <- [90m/uploads/templeos-1024x594.png[39m
+🔥 /uploads/enix.png <- [90m/uploads/enix.png[39m
+🔥 /uploads/Screenshot_20240427_200735.png <- [90m/uploads/Screenshot_20240427_200735.png[39m
+🔥 /uploads/exness-1024x302.png <- [90m/uploads/exness-1024x302.png[39m
+🔥 /uploads/kanto.png <- [90m/uploads/kanto.png[39m
+🔥 /uploads/Screenshot_20230205-024705-617x1024.png <- [90m/uploads/Screenshot_20230205-024705-617x1024.png[39m
+🔥 /uploads/PXL_20230722_221721537.jpg <- [90m/uploads/PXL_20230722_221721537.jpg[39m
+🔥 /uploads/MG_3564.jpg <- [90m/uploads/MG_3564.jpg[39m
+🔥 /uploads/bitcointaget-1024x276.png <- [90m/uploads/bitcointaget-1024x276.png[39m
+🔥 /uploads/BTCUSD_2023-05-06_15-46-13-1024x427.png <- [90m/uploads/BTCUSD_2023-05-06_15-46-13-1024x427.png[39m
+🔥 /uploads/120x240_orange.png <- [90m/uploads/120x240_orange.png[39m
+🔥 /uploads/jnSO6hm3.png <- [90m/uploads/jnSO6hm3.png[39m
+🔥 /uploads/PXL_20230504_112937040.jpg <- [90m/uploads/PXL_20230504_112937040.jpg[39m
+🔥 /uploads/kmpV19vg-1024x476.png <- [90m/uploads/kmpV19vg-1024x476.png[39m
+🔥 /uploads/MG_3375.jpg <- [90m/uploads/MG_3375.jpg[39m
+🔥 /uploads/jp10y-1024x486.png <- [90m/uploads/jp10y-1024x486.png[39m
+🔥 /uploads/ETHHH.png <- [90m/uploads/ETHHH.png[39m
+🔥 /uploads/3a2b1d50fbc97649e68ed60feeccbd90.jpg <- [90m/uploads/3a2b1d50fbc97649e68ed60feeccbd90.jpg[39m
+🔥 /uploads/images-ascii-art.jpg <- [90m/uploads/images-ascii-art.jpg[39m
+🔥 /uploads/662e7d8f.jpg <- [90m/uploads/662e7d8f.jpg[39m
+🔥 /uploads/372feaa547281e60.png <- [90m/uploads/372feaa547281e60.png[39m
+🔥 /uploads/MG_0014.jpg <- [90m/uploads/MG_0014.jpg[39m
+🔥 /uploads/us10y1-1024x486.png <- [90m/uploads/us10y1-1024x486.png[39m
+🔥 /uploads/110x32_best_purp.png <- [90m/uploads/110x32_best_purp.png[39m
+🔥 /uploads/AAPL_2023-05-06_18-16-33-1024x478.png <- [90m/uploads/AAPL_2023-05-06_18-16-33-1024x478.png[39m
+🔥 /uploads/MG_2773.jpg <- [90m/uploads/MG_2773.jpg[39m
+🔥 /uploads/kinyutho.png <- [90m/uploads/kinyutho.png[39m
+🔥 /uploads/96x31_blue.png <- [90m/uploads/96x31_blue.png[39m
+🔥 /uploads/20240112-00010000-amweb-000-1-view.jpg <- [90m/uploads/20240112-00010000-amweb-000-1-view.jpg[39m
+🔥 /uploads/mm210323_nano4.jpg <- [90m/uploads/mm210323_nano4.jpg[39m
+🔥 /uploads/Fye22gwacAAGxB3.jpg <- [90m/uploads/Fye22gwacAAGxB3.jpg[39m
+🔥 /uploads/alameda4.png <- [90m/uploads/alameda4.png[39m
+🔥 /uploads/firefoxlogo.png <- [90m/uploads/firefoxlogo.png[39m
+🔥 /uploads/PXL_20230811_123158476.jpg <- [90m/uploads/PXL_20230811_123158476.jpg[39m
+🔥 /uploads/dold.png <- [90m/uploads/dold.png[39m
+🔥 /uploads/PXL_20230509_043939515-scaled.jpg <- [90m/uploads/PXL_20230509_043939515-scaled.jpg[39m
+🔥 /uploads/FNqJU0bX0AEVbIV.jpeg <- [90m/uploads/FNqJU0bX0AEVbIV.jpeg[39m
+🔥 /uploads/markup_1000037715-1024x218.jpg <- [90m/uploads/markup_1000037715-1024x218.jpg[39m
+🔥 /uploads/Screenshot_20240409_202728.png <- [90m/uploads/Screenshot_20240409_202728.png[39m
+🔥 /uploads/cme.png <- [90m/uploads/cme.png[39m
+🔥 /uploads/MG_9984-scaled.jpg <- [90m/uploads/MG_9984-scaled.jpg[39m
+🔥 /uploads/1685462128174.jpg <- [90m/uploads/1685462128174.jpg[39m
+🔥 /uploads/gmt.png <- [90m/uploads/gmt.png[39m
+🔥 /uploads/52d8c4ec0334aed4.jpg <- [90m/uploads/52d8c4ec0334aed4.jpg[39m
+🔥 /uploads/MG_2669-rotated.jpg <- [90m/uploads/MG_2669-rotated.jpg[39m
+🔥 /uploads/PXL_20230527_153452131.jpg <- [90m/uploads/PXL_20230527_153452131.jpg[39m
+🔥 /uploads/chfjpy.png <- [90m/uploads/chfjpy.png[39m
+🔥 /uploads/i-img1200x900-1673073807stsxhq16.jpg <- [90m/uploads/i-img1200x900-1673073807stsxhq16.jpg[39m
+🔥 /uploads/PXL_20240505_181850030-768x1024.jpg <- [90m/uploads/PXL_20240505_181850030-768x1024.jpg[39m
+🔥 /uploads/1685462145965.jpg <- [90m/uploads/1685462145965.jpg[39m
+🔥 /uploads/MSFT_2023-05-06_18-38-10-1024x427.png <- [90m/uploads/MSFT_2023-05-06_18-38-10-1024x427.png[39m
+🔥 /uploads/refe.png <- [90m/uploads/refe.png[39m
+🔥 /uploads/img388.jpg <- [90m/uploads/img388.jpg[39m
+🔥 /uploads/moe.png <- [90m/uploads/moe.png[39m
+🔥 /uploads/PXL_20230812_150824789.jpg <- [90m/uploads/PXL_20230812_150824789.jpg[39m
+🔥 /uploads/Screenshot_20230216-233947.png <- [90m/uploads/Screenshot_20230216-233947.png[39m
+🔥 /uploads/9398826f4c1b3caf.jpg <- [90m/uploads/9398826f4c1b3caf.jpg[39m
+🔥 /uploads/MG_2773-1024x1024.jpg <- [90m/uploads/MG_2773-1024x1024.jpg[39m
+🔥 /uploads/MG_0054-3-scaled.jpg <- [90m/uploads/MG_0054-3-scaled.jpg[39m
+🔥 /uploads/4chancome-1024x412.png <- [90m/uploads/4chancome-1024x412.png[39m
+🔥 /uploads/MG_3385.jpg <- [90m/uploads/MG_3385.jpg[39m
+🔥 /uploads/Screenshot_20240620_003638.png <- [90m/uploads/Screenshot_20240620_003638.png[39m
+🔥 /uploads/PXL_20230811_202136033.jpg <- [90m/uploads/PXL_20230811_202136033.jpg[39m
+🔥 /uploads/1000017030-511x1024.jpg <- [90m/uploads/1000017030-511x1024.jpg[39m
+🔥 /uploads/200x32_best_green.png <- [90m/uploads/200x32_best_green.png[39m
+🔥 /uploads/img387-1-scaled.jpg <- [90m/uploads/img387-1-scaled.jpg[39m
+🔥 /uploads/doge.png <- [90m/uploads/doge.png[39m
+🔥 /uploads/MG_2283-rotated.jpg <- [90m/uploads/MG_2283-rotated.jpg[39m
+🔥 /uploads/日米英の失業率.png <- [90m/uploads/日米英の失業率.png[39m
+🔥 /uploads/imgrc0129407212.jpg <- [90m/uploads/imgrc0129407212.jpg[39m
+🔥 /uploads/RRP-1024x529.png <- [90m/uploads/RRP-1024x529.png[39m
+🔥 /uploads/MG_2552-rotated.jpg <- [90m/uploads/MG_2552-rotated.jpg[39m
+🔥 /uploads/3917f6d3eb68c0f7.png <- [90m/uploads/3917f6d3eb68c0f7.png[39m
+🔥 /uploads/20230131_202440-1024x567.jpg <- [90m/uploads/20230131_202440-1024x567.jpg[39m
+🔥 /uploads/57085394.jpg <- [90m/uploads/57085394.jpg[39m
+🔥 /uploads/5.png <- [90m/uploads/5.png[39m
+🔥 /uploads/ukkk-1.png <- [90m/uploads/ukkk-1.png[39m
+🔥 /uploads/Yamaha-EP-E50A.png <- [90m/uploads/Yamaha-EP-E50A.png[39m
+🔥 /uploads/eva4-724x1024.jpg <- [90m/uploads/eva4-724x1024.jpg[39m
+🔥 /uploads/aihonyaku.png <- [90m/uploads/aihonyaku.png[39m
+🔥 /uploads/FtpFFQ4aAAAIXox.jpg <- [90m/uploads/FtpFFQ4aAAAIXox.jpg[39m
+🔥 /uploads/PXL_20231018_132804971-1024x768.jpg <- [90m/uploads/PXL_20231018_132804971-1024x768.jpg[39m
+🔥 /uploads/fredgraph.png <- [90m/uploads/fredgraph.png[39m
+🔥 /uploads/Screenshot_20230117-145412-614x1024.png <- [90m/uploads/Screenshot_20230117-145412-614x1024.png[39m
+🔥 /uploads/maxresdefault-1-1024x576.jpg <- [90m/uploads/maxresdefault-1-1024x576.jpg[39m
+🔥 /uploads/PXL_20211024_004628904.jpg <- [90m/uploads/PXL_20211024_004628904.jpg[39m
+🔥 /uploads/PXL_20231018_124323515-768x1024.jpg <- [90m/uploads/PXL_20231018_124323515-768x1024.jpg[39m
+🔥 /uploads/MG_0024-scaled.jpg <- [90m/uploads/MG_0024-scaled.jpg[39m
+🔥 /uploads/200x32_best_blue.png <- [90m/uploads/200x32_best_blue.png[39m
+🔥 /uploads/MG_0046.jpg <- [90m/uploads/MG_0046.jpg[39m
+🔥 /uploads/MG_0031.jpg <- [90m/uploads/MG_0031.jpg[39m
+🔥 /uploads/xau-1024x523.png <- [90m/uploads/xau-1024x523.png[39m
+🔥 /uploads/00066-450081922.jpg <- [90m/uploads/00066-450081922.jpg[39m
+🔥 /uploads/1.png <- [90m/uploads/1.png[39m
+🔥 /uploads/bitcointaget.png <- [90m/uploads/bitcointaget.png[39m
+🔥 /uploads/fredgraph-3-1024x405.png <- [90m/uploads/fredgraph-3-1024x405.png[39m
+🔥 /uploads/dfgdgfhh.png <- [90m/uploads/dfgdgfhh.png[39m
+🔥 /uploads/phpini.png <- [90m/uploads/phpini.png[39m
+🔥 /uploads/gffgdfgd.png <- [90m/uploads/gffgdfgd.png[39m
+🔥 /uploads/nyancat.png <- [90m/uploads/nyancat.png[39m
+🔥 /uploads/PXL_20211024_004610090.jpg <- [90m/uploads/PXL_20211024_004610090.jpg[39m
+🔥 /uploads/keith-flint-the-prodigy-firestarter-MV-billboard-1548-ascii-art.jpg <- [90m/uploads/keith-flint-the-prodigy-firestarter-MV-billboard-1548-ascii-art.jpg[39m
+🔥 /uploads/1676766406822.jpg <- [90m/uploads/1676766406822.jpg[39m
+🔥 /uploads/Screenshot_20221220-171210-512x1024.png <- [90m/uploads/Screenshot_20221220-171210-512x1024.png[39m
+🔥 /uploads/468x60.png <- [90m/uploads/468x60.png[39m
+🔥 /uploads/1000017031.png <- [90m/uploads/1000017031.png[39m
+🔥 /uploads/bllllll.png <- [90m/uploads/bllllll.png[39m
+🔥 /uploads/wordpress.png <- [90m/uploads/wordpress.png[39m
+🔥 /uploads/PXL_20211024_004727301.jpg <- [90m/uploads/PXL_20211024_004727301.jpg[39m
+🔥 /uploads/Screenshot_20230516_141156-1024x391.png <- [90m/uploads/Screenshot_20230516_141156-1024x391.png[39m
+🔥 /uploads/PXL_20230811_121409178.jpg <- [90m/uploads/PXL_20230811_121409178.jpg[39m
+🔥 /uploads/68994e83.jpg <- [90m/uploads/68994e83.jpg[39m
+🔥 /uploads/freebsd.png <- [90m/uploads/freebsd.png[39m
+🔥 /uploads/NI225_2023-02-20_22-58-25-1.png <- [90m/uploads/NI225_2023-02-20_22-58-25-1.png[39m
+🔥 /uploads/patrick-volkerding-c0dc9149-f782-414b-8c76-be7ebba4cf9-resize-750.jpeg <- [90m/uploads/patrick-volkerding-c0dc9149-f782-414b-8c76-be7ebba4cf9-resize-750.jpeg[39m
+🔥 /uploads/6188d6e22a87d-ascii-art.png <- [90m/uploads/6188d6e22a87d-ascii-art.png[39m
+🔥 /uploads/Screenshot_20230429-103217.png <- [90m/uploads/Screenshot_20230429-103217.png[39m
+🔥 /uploads/Screenshot_20221203-013451-716x1024.jpg <- [90m/uploads/Screenshot_20221203-013451-716x1024.jpg[39m
+🔥 /uploads/PXL_20230612_154827248.jpg <- [90m/uploads/PXL_20230612_154827248.jpg[39m
+🔥 /uploads/dxy.png <- [90m/uploads/dxy.png[39m
+🔥 /uploads/minidlna.png <- [90m/uploads/minidlna.png[39m
+🔥 /uploads/PXL_20230509_043939515-768x1024.jpg <- [90m/uploads/PXL_20230509_043939515-768x1024.jpg[39m
+🔥 /uploads/PXL_20211028_232852064-768x1024.jpg <- [90m/uploads/PXL_20211028_232852064-768x1024.jpg[39m
+🔥 /uploads/osaka.png <- [90m/uploads/osaka.png[39m
+🔥 /uploads/GB9tCOuaEAAjZoz-ascii-art-741x1024.jpg <- [90m/uploads/GB9tCOuaEAAjZoz-ascii-art-741x1024.jpg[39m
+🔥 /uploads/PXL_20240120_163052742-768x1024.jpg <- [90m/uploads/PXL_20240120_163052742-768x1024.jpg[39m
+🔥 /uploads/sp5000.png <- [90m/uploads/sp5000.png[39m
+🔥 /uploads/pce.png <- [90m/uploads/pce.png[39m
+🔥 /uploads/torrrr.png <- [90m/uploads/torrrr.png[39m
+🔥 /uploads/Screenshot_20240620_003705.png <- [90m/uploads/Screenshot_20240620_003705.png[39m
+🔥 /uploads/images-11.png <- [90m/uploads/images-11.png[39m
+🔥 /uploads/PXL_20230811_175858953.jpg <- [90m/uploads/PXL_20230811_175858953.jpg[39m
+🔥 /uploads/bbqGiGeu.png <- [90m/uploads/bbqGiGeu.png[39m
+🔥 /uploads/Screenshot_20240128-122819.png <- [90m/uploads/Screenshot_20240128-122819.png[39m
+🔥 /uploads/200x32_all_orange.png <- [90m/uploads/200x32_all_orange.png[39m
+🔥 /uploads/Screenshot_20221231-234601.png <- [90m/uploads/Screenshot_20221231-234601.png[39m
+🔥 /uploads/FyfzTGQakAANuk2.jpeg <- [90m/uploads/FyfzTGQakAANuk2.jpeg[39m
+🔥 /uploads/1685464454619.jpg <- [90m/uploads/1685464454619.jpg[39m
+🔥 /uploads/H4evCoP.jpg <- [90m/uploads/H4evCoP.jpg[39m
+🔥 /uploads/sbi-1024x128.png <- [90m/uploads/sbi-1024x128.png[39m
+🔥 /uploads/PXL_20240108_082420543.jpg <- [90m/uploads/PXL_20240108_082420543.jpg[39m
+🔥 /uploads/sams.png <- [90m/uploads/sams.png[39m
+🔥 /uploads/PXL_20230505_160604182-768x1024.jpg <- [90m/uploads/PXL_20230505_160604182-768x1024.jpg[39m
+🔥 /uploads/eva4.jpg <- [90m/uploads/eva4.jpg[39m
+🔥 /uploads/img389-744x1024.jpg <- [90m/uploads/img389-744x1024.jpg[39m
+🔥 /uploads/login-bg.png <- [90m/uploads/login-bg.png[39m
+🔥 /uploads/F-ZtucQa4AAA8bf-ascii-art.jpg <- [90m/uploads/F-ZtucQa4AAA8bf-ascii-art.jpg[39m
+🔥 /uploads/969-1024.jpg <- [90m/uploads/969-1024.jpg[39m
+🔥 /uploads/AMD_2023-05-26_10-23-41.png <- [90m/uploads/AMD_2023-05-26_10-23-41.png[39m
+🔥 /uploads/MG_2783-1024x1024.jpg <- [90m/uploads/MG_2783-1024x1024.jpg[39m
+🔥 /uploads/PXL_20230722_221721537-768x1024.jpg <- [90m/uploads/PXL_20230722_221721537-768x1024.jpg[39m
+🔥 /uploads/vultr-1.png <- [90m/uploads/vultr-1.png[39m
+🔥 /uploads/PXL_20240121_102115187-768x1024.jpg <- [90m/uploads/PXL_20240121_102115187-768x1024.jpg[39m
+🔥 /uploads/PXL_20230626_035830472-edited.jpg <- [90m/uploads/PXL_20230626_035830472-edited.jpg[39m
+🔥 /uploads/00080-1022126358.jpg <- [90m/uploads/00080-1022126358.jpg[39m
+🔥 /uploads/PXL_20211028_232852064.jpg <- [90m/uploads/PXL_20211028_232852064.jpg[39m
+🔥 /uploads/MG_2772-1024x1024.jpg <- [90m/uploads/MG_2772-1024x1024.jpg[39m
+🔥 /uploads/20210203_838a4a.jpg <- [90m/uploads/20210203_838a4a.jpg[39m
+🔥 /uploads/MemoryDiskPriceGraph-2022Nov.jpg <- [90m/uploads/MemoryDiskPriceGraph-2022Nov.jpg[39m
+🔥 /uploads/765-1024.png <- [90m/uploads/765-1024.png[39m
+🔥 /uploads/MG_0028.jpg <- [90m/uploads/MG_0028.jpg[39m
+🔥 /uploads/PXL_20240119_170803576-768x1024.jpg <- [90m/uploads/PXL_20240119_170803576-768x1024.jpg[39m
+🔥 /uploads/Screenshot_20231118-061251.png <- [90m/uploads/Screenshot_20231118-061251.png[39m
+🔥 /uploads/cache.png <- [90m/uploads/cache.png[39m
+🔥 /uploads/20171116_aebb0c.jpg <- [90m/uploads/20171116_aebb0c.jpg[39m
+🔥 /uploads/us10.png <- [90m/uploads/us10.png[39m
+🔥 /uploads/PXL_20230505_152346555-scaled.jpg <- [90m/uploads/PXL_20230505_152346555-scaled.jpg[39m
+🔥 /uploads/ig.png <- [90m/uploads/ig.png[39m
+🔥 /uploads/images-ascii-art-1024x1015.jpg <- [90m/uploads/images-ascii-art-1024x1015.jpg[39m
+🔥 /uploads/kanto-1024x92.png <- [90m/uploads/kanto-1024x92.png[39m
+🔥 /uploads/PXL_20231018_133744230-768x1024.jpg <- [90m/uploads/PXL_20231018_133744230-768x1024.jpg[39m
+🔥 /uploads/MG_2781-1024x1024.jpg <- [90m/uploads/MG_2781-1024x1024.jpg[39m
+🔥 /uploads/Screenshot_20240128-123713-1024x592.png <- [90m/uploads/Screenshot_20240128-123713-1024x592.png[39m
+🔥 /uploads/PXL_20211024_004727301-768x1024.jpg <- [90m/uploads/PXL_20211024_004727301-768x1024.jpg[39m
+🔥 /uploads/ftxxx-1024x530.png <- [90m/uploads/ftxxx-1024x530.png[39m
+🔥 /uploads/us10y1.png <- [90m/uploads/us10y1.png[39m
+🔥 /uploads/3.png <- [90m/uploads/3.png[39m
+🔥 /uploads/l_yu_orb-1024x732.jpg <- [90m/uploads/l_yu_orb-1024x732.jpg[39m
+🔥 /uploads/2021-06-11T000000Z_111540923_RC2GYN9U4WT4_RTRMADP_3_EL-SALVADOR-BUKELE_1_.jpg <- [90m/uploads/2021-06-11T000000Z_111540923_RC2GYN9U4WT4_RTRMADP_3_EL-SALVADOR-BUKELE_1_.jpg[39m
+🔥 /uploads/sdfgdfg.png <- [90m/uploads/sdfgdfg.png[39m
+🔥 /uploads/PXL_20240108_142441482-768x1024.jpg <- [90m/uploads/PXL_20240108_142441482-768x1024.jpg[39m
+🔥 /uploads/FrZbwd3XsAI4cxA.jpg <- [90m/uploads/FrZbwd3XsAI4cxA.jpg[39m
+🔥 /uploads/amp.png <- [90m/uploads/amp.png[39m
+🔥 /uploads/Screenshot_20230102-205723.png <- [90m/uploads/Screenshot_20230102-205723.png[39m
+🔥 /uploads/2d5a0187c65eb864.jpg <- [90m/uploads/2d5a0187c65eb864.jpg[39m
+🔥 /uploads/住宅ローン-1024x468.png <- [90m/uploads/住宅ローン-1024x468.png[39m
+🔥 /uploads/ethhhh.png <- [90m/uploads/ethhhh.png[39m
+🔥 /uploads/Fo68-jXaAAEVSSY-1024x577.jpg <- [90m/uploads/Fo68-jXaAAEVSSY-1024x577.jpg[39m
+🔥 /uploads/00038-1148285762.jpg <- [90m/uploads/00038-1148285762.jpg[39m
+🔥 /uploads/PXL_20240121_092432027-768x1024.jpg <- [90m/uploads/PXL_20240121_092432027-768x1024.jpg[39m
+🔥 /uploads/US02Y_2023-03-16_20-30-30-1024x450.png <- [90m/uploads/US02Y_2023-03-16_20-30-30-1024x450.png[39m
+🔥 /uploads/PXL_20240421_122436812-768x1024.jpg <- [90m/uploads/PXL_20240421_122436812-768x1024.jpg[39m
+🔥 /uploads/PXL_20230612_153552994.jpg <- [90m/uploads/PXL_20230612_153552994.jpg[39m
+🔥 /uploads/PXL_20211024_004735508-768x1024.jpg <- [90m/uploads/PXL_20211024_004735508-768x1024.jpg[39m
+🔥 /uploads/MG_2273-rotated.jpg <- [90m/uploads/MG_2273-rotated.jpg[39m
+🔥 /uploads/US10Y_2023-04-22_15-39-34.png <- [90m/uploads/US10Y_2023-04-22_15-39-34.png[39m
+🔥 /uploads/00078-1022126356.jpg <- [90m/uploads/00078-1022126356.jpg[39m
+🔥 /uploads/gn-20220423-04.png <- [90m/uploads/gn-20220423-04.png[39m
+🔥 /uploads/ooo.png <- [90m/uploads/ooo.png[39m
+🔥 /uploads/INTC_2023-05-06_18-19-22.png <- [90m/uploads/INTC_2023-05-06_18-19-22.png[39m
+🔥 /uploads/ea79b3c1e5b3bf53-768x1024.jpg <- [90m/uploads/ea79b3c1e5b3bf53-768x1024.jpg[39m
+🔥 /uploads/住宅ローン.png <- [90m/uploads/住宅ローン.png[39m
+🔥 /uploads/MG_2780.jpg <- [90m/uploads/MG_2780.jpg[39m
+🔥 /uploads/kahi-ascii-art.png <- [90m/uploads/kahi-ascii-art.png[39m
+🔥 /uploads/Screenshot_20230519_003601.png <- [90m/uploads/Screenshot_20230519_003601.png[39m
+🔥 /uploads/PXL_20230414_023031656-768x1024.jpg <- [90m/uploads/PXL_20230414_023031656-768x1024.jpg[39m
+🔥 /uploads/XAUUSD_2023-02-20_12-19-03-1024x405.png <- [90m/uploads/XAUUSD_2023-02-20_12-19-03-1024x405.png[39m
+🔥 /uploads/jcvj74.jpg <- [90m/uploads/jcvj74.jpg[39m
+🔥 /uploads/aozora-1024x45.png <- [90m/uploads/aozora-1024x45.png[39m
+🔥 /uploads/pictures_768x512_VMpInxhiFO.jpeg <- [90m/uploads/pictures_768x512_VMpInxhiFO.jpeg[39m
+🔥 /uploads/MG_2781.jpg <- [90m/uploads/MG_2781.jpg[39m
+🔥 /uploads/3015_2023-05-26_10-30-25.png <- [90m/uploads/3015_2023-05-26_10-30-25.png[39m
+🔥 /uploads/voodoo.jpg <- [90m/uploads/voodoo.jpg[39m
+🔥 /uploads/Screenshot_20221220-172716-512x1024.png <- [90m/uploads/Screenshot_20221220-172716-512x1024.png[39m
+🔥 /uploads/20230223_191738.jpg <- [90m/uploads/20230223_191738.jpg[39m
+🔥 /uploads/00114-3951556197.jpg <- [90m/uploads/00114-3951556197.jpg[39m
+🔥 /uploads/MG_3378.jpg <- [90m/uploads/MG_3378.jpg[39m
+🔥 /uploads/20230124_062414.jpg <- [90m/uploads/20230124_062414.jpg[39m
+🔥 /uploads/MSFT_2023-05-06_18-38-10.png <- [90m/uploads/MSFT_2023-05-06_18-38-10.png[39m
+🔥 /uploads/PXL_20230505_143258786-scaled.jpg <- [90m/uploads/PXL_20230505_143258786-scaled.jpg[39m
+🔥 /uploads/mainheader3.jpg <- [90m/uploads/mainheader3.jpg[39m
+🔥 /uploads/MG_2258-scaled.jpg <- [90m/uploads/MG_2258-scaled.jpg[39m
+🔥 /uploads/Screenshot_20240620_011217.png <- [90m/uploads/Screenshot_20240620_011217.png[39m
+🔥 /uploads/fredgraph-1024x405.png <- [90m/uploads/fredgraph-1024x405.png[39m
+🔥 /uploads/unemployment.jpg <- [90m/uploads/unemployment.jpg[39m
+🔥 /uploads/twitter-1024x81.png <- [90m/uploads/twitter-1024x81.png[39m
+🔥 /uploads/20230314_215356-1024x751.png <- [90m/uploads/20230314_215356-1024x751.png[39m
+🔥 /uploads/PXL_20230811_121801748.jpg <- [90m/uploads/PXL_20230811_121801748.jpg[39m
+🔥 /uploads/pictures_768x512_jNdVhDUSgv.jpeg <- [90m/uploads/pictures_768x512_jNdVhDUSgv.jpeg[39m
+🔥 /uploads/line.png <- [90m/uploads/line.png[39m
+🔥 /uploads/Screenshot_20221231-234546-512x1024.png <- [90m/uploads/Screenshot_20221231-234546-512x1024.png[39m
+🔥 /uploads/キャプチャ.png <- [90m/uploads/キャプチャ.png[39m
+🔥 /uploads/kmpV19vg.png <- [90m/uploads/kmpV19vg.png[39m
+🔥 /uploads/NVDA_2023-05-26_10-11-49.png <- [90m/uploads/NVDA_2023-05-26_10-11-49.png[39m
+🔥 /uploads/MG_3386.jpg <- [90m/uploads/MG_3386.jpg[39m
+🔥 /uploads/usdjpy-1024x524.png <- [90m/uploads/usdjpy-1024x524.png[39m
+🔥 /uploads/PXL_20240108_141208832-768x1024.jpg <- [90m/uploads/PXL_20240108_141208832-768x1024.jpg[39m
+🔥 /uploads/ethhhh-1024x539.png <- [90m/uploads/ethhhh-1024x539.png[39m
+🔥 /uploads/1000017032-508x1024.png <- [90m/uploads/1000017032-508x1024.png[39m
+🔥 /uploads/sp5000-1024x620.png <- [90m/uploads/sp5000-1024x620.png[39m
+🔥 /uploads/GBU1v9gawAIH3Dt.jpeg <- [90m/uploads/GBU1v9gawAIH3Dt.jpeg[39m
+🔥 /uploads/VIX_2023-05-06_15-35-34.png <- [90m/uploads/VIX_2023-05-06_15-35-34.png[39m
+🔥 /uploads/btcccccc.png <- [90m/uploads/btcccccc.png[39m
+🔥 /uploads/e5109f54c6d59363.png <- [90m/uploads/e5109f54c6d59363.png[39m
+🔥 /uploads/oooo.png <- [90m/uploads/oooo.png[39m
+🔥 /uploads/sumitomo-1024x115.png <- [90m/uploads/sumitomo-1024x115.png[39m
+🔥 /uploads/PXL_20230407_154831073-768x1024.jpg <- [90m/uploads/PXL_20230407_154831073-768x1024.jpg[39m
+🔥 /uploads/us10-1024x529.png <- [90m/uploads/us10-1024x529.png[39m
+🔥 /uploads/PXL_20211024_004707588.jpg <- [90m/uploads/PXL_20211024_004707588.jpg[39m
+🔥 /uploads/Screenshot_20230429-103207.png <- [90m/uploads/Screenshot_20230429-103207.png[39m
+🔥 /uploads/PXL_20211024_004556466.jpg <- [90m/uploads/PXL_20211024_004556466.jpg[39m
+🔥 /uploads/mother.jpg <- [90m/uploads/mother.jpg[39m
+🔥 /uploads/BTCUSD_2023-02-20_12-18-41-1024x450.png <- [90m/uploads/BTCUSD_2023-02-20_12-18-41-1024x450.png[39m
+🔥 /uploads/Screenshot_20230121-015031.png <- [90m/uploads/Screenshot_20230121-015031.png[39m
+🔥 /uploads/4130b19da06b0b03-768x1024.jpg <- [90m/uploads/4130b19da06b0b03-768x1024.jpg[39m
+🔥 /uploads/vooodoooo.jpg <- [90m/uploads/vooodoooo.jpg[39m
+🔥 /uploads/1000017030.jpg <- [90m/uploads/1000017030.jpg[39m
+🔥 /uploads/PXL_20230505_143258786-768x1024.jpg <- [90m/uploads/PXL_20230505_143258786-768x1024.jpg[39m
+🔥 /uploads/PXL_20231118_183437736-768x1024.jpg <- [90m/uploads/PXL_20231118_183437736-768x1024.jpg[39m
+🔥 /uploads/faec0118b24b4bfd.png <- [90m/uploads/faec0118b24b4bfd.png[39m
+🔥 /uploads/173x26_get_green.png <- [90m/uploads/173x26_get_green.png[39m
+🔥 /uploads/200x32_best_purp.png <- [90m/uploads/200x32_best_purp.png[39m
+🔥 /uploads/PXL_20211024_004721953-768x1024.jpg <- [90m/uploads/PXL_20211024_004721953-768x1024.jpg[39m
+🔥 /uploads/bbqGiGeu-1024x512.png <- [90m/uploads/bbqGiGeu-1024x512.png[39m
+🔥 /uploads/20230124_062414-1024x455.jpg <- [90m/uploads/20230124_062414-1024x455.jpg[39m
+🔥 /uploads/ethreerr.png <- [90m/uploads/ethreerr.png[39m
+🔥 /uploads/PXL_20211024_004721953.jpg <- [90m/uploads/PXL_20211024_004721953.jpg[39m
+🔥 /uploads/PXL_20230612_152953836-768x1024.jpg <- [90m/uploads/PXL_20230612_152953836-768x1024.jpg[39m
+🔥 /uploads/PXL_20230428_124629608-scaled.jpg <- [90m/uploads/PXL_20230428_124629608-scaled.jpg[39m
+🔥 /uploads/PXL_20230407_154831073.jpg <- [90m/uploads/PXL_20230407_154831073.jpg[39m
+🔥 /uploads/ethrrrr.png <- [90m/uploads/ethrrrr.png[39m
+🔥 /uploads/oekaki.png <- [90m/uploads/oekaki.png[39m
+🔥 /uploads/kinyutho-1024x33.png <- [90m/uploads/kinyutho-1024x33.png[39m
+🔥 /uploads/PXL_20230513_2105362842-968x1024.jpg <- [90m/uploads/PXL_20230513_2105362842-968x1024.jpg[39m
+🔥 /uploads/Screenshot_20230205-024724.png <- [90m/uploads/Screenshot_20230205-024724.png[39m
+🔥 /uploads/mask-to-mask.png <- [90m/uploads/mask-to-mask.png[39m
+🔥 /uploads/bbqGiGeu-1.png <- [90m/uploads/bbqGiGeu-1.png[39m
+🔥 /uploads/1000016947.png <- [90m/uploads/1000016947.png[39m
+🔥 /uploads/207-ascii-art-1024x964.png <- [90m/uploads/207-ascii-art-1024x964.png[39m
+🔥 /uploads/matimmmm.png <- [90m/uploads/matimmmm.png[39m
+🔥 /uploads/output_001-ascii-art.png <- [90m/uploads/output_001-ascii-art.png[39m
+🔥 /uploads/miku-1024x1024.jpg <- [90m/uploads/miku-1024x1024.jpg[39m
+🔥 /uploads/markup_1000037715.jpg <- [90m/uploads/markup_1000037715.jpg[39m
+🔥 /uploads/jp10y.png <- [90m/uploads/jp10y.png[39m
+🔥 /uploads/img387-742x1024.jpg <- [90m/uploads/img387-742x1024.jpg[39m
+🔥 /uploads/PXL_20240121_092424261-768x1024.jpg <- [90m/uploads/PXL_20240121_092424261-768x1024.jpg[39m
+🔥 /uploads/PXL_20211028_232835027-768x1024.jpg <- [90m/uploads/PXL_20211028_232835027-768x1024.jpg[39m
+🔥 /uploads/MG_2774.jpg <- [90m/uploads/MG_2774.jpg[39m
+🔥 /uploads/3917f6d3eb68c0f7-1.png <- [90m/uploads/3917f6d3eb68c0f7-1.png[39m
+🔥 /uploads/paypayginko-1024x135.png <- [90m/uploads/paypayginko-1024x135.png[39m
+🔥 /uploads/PXL_20231014_082147078-768x1024.jpg <- [90m/uploads/PXL_20231014_082147078-768x1024.jpg[39m
+🔥 /uploads/Screenshot_20230603_053224.png <- [90m/uploads/Screenshot_20230603_053224.png[39m
+🔥 /uploads/FMlEXNZakAM1Dvp-849x1024.jpeg <- [90m/uploads/FMlEXNZakAM1Dvp-849x1024.jpeg[39m
+🔥 /uploads/PXL_20211024_004707588-768x1024.jpg <- [90m/uploads/PXL_20211024_004707588-768x1024.jpg[39m
+🔥 /uploads/Screenshot_20240620_010008.png <- [90m/uploads/Screenshot_20240620_010008.png[39m
+🔥 /uploads/Screenshot_20221220-172522.png <- [90m/uploads/Screenshot_20221220-172522.png[39m
+🔥 /uploads/Screenshot_20230207-054209-1024x1020.png <- [90m/uploads/Screenshot_20230207-054209-1024x1020.png[39m
+🔥 /uploads/MG_3570.jpg <- [90m/uploads/MG_3570.jpg[39m
+🔥 /uploads/images-2023-01-31T203156.090.jpeg <- [90m/uploads/images-2023-01-31T203156.090.jpeg[39m
+🔥 /uploads/Screenshot_20230516_141119.png <- [90m/uploads/Screenshot_20230516_141119.png[39m
+🔥 /uploads/doge-oi.png <- [90m/uploads/doge-oi.png[39m
+🔥 /uploads/MG_9972-1024x683.jpg <- [90m/uploads/MG_9972-1024x683.jpg[39m
+🔥 /uploads/Screenshot_20221220-172522-512x1024.png <- [90m/uploads/Screenshot_20221220-172522-512x1024.png[39m
+🔥 /uploads/db3e249d24dbdb6e.png <- [90m/uploads/db3e249d24dbdb6e.png[39m
+🔥 /uploads/oil-1024x620.png <- [90m/uploads/oil-1024x620.png[39m
+🔥 /uploads/doukutu.png <- [90m/uploads/doukutu.png[39m
+🔥 /uploads/torwiki-1024x540.png <- [90m/uploads/torwiki-1024x540.png[39m
+🔥 /uploads/120x240_green.png <- [90m/uploads/120x240_green.png[39m
+🔥 /uploads/PXL_20230504_112937040-768x1024.jpg <- [90m/uploads/PXL_20230504_112937040-768x1024.jpg[39m
+🔥 /uploads/us10y-1024x524.png <- [90m/uploads/us10y-1024x524.png[39m
+🔥 /uploads/PXL_20240108_142936334.jpg <- [90m/uploads/PXL_20240108_142936334.jpg[39m
+🔥 /uploads/SPX_2023-05-06_15-45-24-1024x427.png <- [90m/uploads/SPX_2023-05-06_15-45-24-1024x427.png[39m
+🔥 /uploads/Screenshot_20230516_141156.png <- [90m/uploads/Screenshot_20230516_141156.png[39m
+🔥 /uploads/Screenshot_20230125-190922.jpg <- [90m/uploads/Screenshot_20230125-190922.jpg[39m
+🔥 /uploads/Screenshot_20221228-153320.jpg <- [90m/uploads/Screenshot_20221228-153320.jpg[39m
+🔥 /uploads/XAUUSD_2023-02-20_12-34-46-1024x405.png <- [90m/uploads/XAUUSD_2023-02-20_12-34-46-1024x405.png[39m
+🔥 /uploads/173x26_get_orange.png <- [90m/uploads/173x26_get_orange.png[39m
+🔥 /uploads/00115-3951556198.jpg <- [90m/uploads/00115-3951556198.jpg[39m
+🔥 /uploads/cpippi.png <- [90m/uploads/cpippi.png[39m
+🔥 /uploads/PXL_20211028_232802343.jpg <- [90m/uploads/PXL_20211028_232802343.jpg[39m
+🔥 /uploads/alameda3.png <- [90m/uploads/alameda3.png[39m
+🔥 /uploads/cmeeeee.png <- [90m/uploads/cmeeeee.png[39m
+🔥 /uploads/moviedrama-2020-02-07_09-09-01_569126-1024x576.jpg <- [90m/uploads/moviedrama-2020-02-07_09-09-01_569126-1024x576.jpg[39m
+🔥 /uploads/PXL_20230811_121801748-768x1024.jpg <- [90m/uploads/PXL_20230811_121801748-768x1024.jpg[39m
+🔥 /uploads/enix-1024x96.png <- [90m/uploads/enix-1024x96.png[39m
+🔥 /uploads/title-1624670215150-1024x576.jpeg <- [90m/uploads/title-1624670215150-1024x576.jpeg[39m
+🔥 /uploads/conoha-2.png <- [90m/uploads/conoha-2.png[39m
+🔥 /uploads/Screenshot_20240620_003325.png <- [90m/uploads/Screenshot_20240620_003325.png[39m
+🔥 /uploads/PXL_20230612_152953836.jpg <- [90m/uploads/PXL_20230612_152953836.jpg[39m
+🔥 /uploads/407-749x1024.jpg <- [90m/uploads/407-749x1024.jpg[39m
+🔥 /uploads/sumitomo.png <- [90m/uploads/sumitomo.png[39m
+🔥 /uploads/Browser_Wars_en.svg_.png <- [90m/uploads/Browser_Wars_en.svg_.png[39m
+🔥 /uploads/images-(2)-(9).jpeg <- [90m/uploads/images-(2)-(9).jpeg[39m
+🔥 /uploads/US02Y_2023-03-16_20-30-30.png <- [90m/uploads/US02Y_2023-03-16_20-30-30.png[39m
+🔥 /uploads/Screenshot_20240427_201112.png <- [90m/uploads/Screenshot_20240427_201112.png[39m
+🔥 /uploads/4.png <- [90m/uploads/4.png[39m
+🔥 /uploads/MG_0044.jpg <- [90m/uploads/MG_0044.jpg[39m
+🔥 /uploads/Screenshot_20230429-103217-591x1024.png <- [90m/uploads/Screenshot_20230429-103217-591x1024.png[39m
+🔥 /uploads/20230314_215356.png <- [90m/uploads/20230314_215356.png[39m
+🔥 /uploads/DJI_2023-02-20_22-58-29.png <- [90m/uploads/DJI_2023-02-20_22-58-29.png[39m
+🔥 /uploads/81GSl4K17jL._AC_SL1500_-1024x880.jpg <- [90m/uploads/81GSl4K17jL._AC_SL1500_-1024x880.jpg[39m
+🔥 /uploads/MG_2777.jpg <- [90m/uploads/MG_2777.jpg[39m
+🔥 /uploads/PXL_20230612_151902419-768x1024.jpg <- [90m/uploads/PXL_20230612_151902419-768x1024.jpg[39m
+🔥 /uploads/PXL_20211028_232928030-768x1024.jpg <- [90m/uploads/PXL_20211028_232928030-768x1024.jpg[39m
+🔥 /uploads/MG_3374.jpg <- [90m/uploads/MG_3374.jpg[39m
+🔥 /uploads/PXL_20240421_115506279-768x1024.jpg <- [90m/uploads/PXL_20240421_115506279-768x1024.jpg[39m
+🔥 /uploads/PXL_20211024_004659903-768x1024.jpg <- [90m/uploads/PXL_20211024_004659903-768x1024.jpg[39m
+🔥 /uploads/29781.jpeg <- [90m/uploads/29781.jpeg[39m
+🔥 /uploads/dfsdfsf.png <- [90m/uploads/dfsdfsf.png[39m
+🔥 /uploads/gala.png <- [90m/uploads/gala.png[39m
+🔥 /uploads/Screenshot_20221228-153320-689x1024.jpg <- [90m/uploads/Screenshot_20221228-153320-689x1024.jpg[39m
+🔥 /uploads/PXL_20211024_004816755.jpg <- [90m/uploads/PXL_20211024_004816755.jpg[39m
+🔥 /uploads/search2-1.png <- [90m/uploads/search2-1.png[39m
+🔥 /uploads/PXL_20230812_150824789-1024x768.jpg <- [90m/uploads/PXL_20230812_150824789-1024x768.jpg[39m
+🔥 /uploads/PXL_20240421_120059261-768x1024.jpg <- [90m/uploads/PXL_20240421_120059261-768x1024.jpg[39m
+🔥 /uploads/d10908-422-06d51490e75dade6a535-0-1024x649.png <- [90m/uploads/d10908-422-06d51490e75dade6a535-0-1024x649.png[39m
+🔥 /uploads/110x32_best_orange.png <- [90m/uploads/110x32_best_orange.png[39m
+🔥 /uploads/img401.jpg <- [90m/uploads/img401.jpg[39m
+🔥 /uploads/ダウンロード-720x1024.jpg <- [90m/uploads/ダウンロード-720x1024.jpg[39m
+🔥 /uploads/Screenshot_20231119-034917.png <- [90m/uploads/Screenshot_20231119-034917.png[39m
+🔥 /uploads/maxresdefault.jpg <- [90m/uploads/maxresdefault.jpg[39m
+🔥 /uploads/85e7a20845cea06e.jpg <- [90m/uploads/85e7a20845cea06e.jpg[39m
+🔥 /uploads/1500x500-1024x341.jpeg <- [90m/uploads/1500x500-1024x341.jpeg[39m
+🔥 /uploads/1000017032.png <- [90m/uploads/1000017032.png[39m
+🔥 /uploads/erwfswfw.png <- [90m/uploads/erwfswfw.png[39m
+🔥 /uploads/DKIM.png <- [90m/uploads/DKIM.png[39m
+🔥 /uploads/ea79b3c1e5b3bf53.jpg <- [90m/uploads/ea79b3c1e5b3bf53.jpg[39m
+🔥 /uploads/thum.png <- [90m/uploads/thum.png[39m
+🔥 /uploads/貯蓄.png <- [90m/uploads/貯蓄.png[39m
+🔥 /uploads/Screenshot_20230512-202056.png <- [90m/uploads/Screenshot_20230512-202056.png[39m
+🔥 /uploads/Screenshot_20240204_033936.png <- [90m/uploads/Screenshot_20240204_033936.png[39m
+🔥 /uploads/93d197cfdf9b0071-1024x979.jpg <- [90m/uploads/93d197cfdf9b0071-1024x979.jpg[39m
+🔥 /uploads/GB9tCOuaEAAjZoz-ascii-art.jpg <- [90m/uploads/GB9tCOuaEAAjZoz-ascii-art.jpg[39m
+🔥 /uploads/1000017031-919x1024.png <- [90m/uploads/1000017031-919x1024.png[39m
+🔥 /uploads/PXL_20211028_232906842.jpg <- [90m/uploads/PXL_20211028_232906842.jpg[39m
+🔥 /uploads/PXL_20230612_152331436-768x1024.jpg <- [90m/uploads/PXL_20230612_152331436-768x1024.jpg[39m
+🔥 /uploads/GHF1_2023-05-26_10-27-07.png <- [90m/uploads/GHF1_2023-05-26_10-27-07.png[39m
+🔥 /uploads/btc-1024x479.png <- [90m/uploads/btc-1024x479.png[39m
+🔥 /uploads/Screenshot_20240128-123713.png <- [90m/uploads/Screenshot_20240128-123713.png[39m
+🔥 /uploads/Ry2EqtmW.jpeg <- [90m/uploads/Ry2EqtmW.jpeg[39m
+🔥 /uploads/Screenshot_20221220-170720-512x1024.png <- [90m/uploads/Screenshot_20221220-170720-512x1024.png[39m
+🔥 /uploads/Screenshot_20230314-214515.png <- [90m/uploads/Screenshot_20230314-214515.png[39m
+🔥 /uploads/MG_0054-2-scaled.jpg <- [90m/uploads/MG_0054-2-scaled.jpg[39m
+🔥 /uploads/7738fd62ef42f265.png <- [90m/uploads/7738fd62ef42f265.png[39m
+🔥 /uploads/PXL_20231019_073130180-768x1024.jpg <- [90m/uploads/PXL_20231019_073130180-768x1024.jpg[39m
+🔥 /uploads/00077-1022126355.jpg <- [90m/uploads/00077-1022126355.jpg[39m
+🔥 /uploads/MG_9984-1024x683.jpg <- [90m/uploads/MG_9984-1024x683.jpg[39m
+🔥 /uploads/RRP.png <- [90m/uploads/RRP.png[39m
+🔥 /uploads/dxy-1024x519.png <- [90m/uploads/dxy-1024x519.png[39m
+🔥 /uploads/xau.png <- [90m/uploads/xau.png[39m
+🔥 /uploads/2222-724x1024.jpg <- [90m/uploads/2222-724x1024.jpg[39m
+🔥 /uploads/MU_2023-05-26_10-23-15.png <- [90m/uploads/MU_2023-05-26_10-23-15.png[39m
+🔥 /uploads/MG_2278-rotated.jpg <- [90m/uploads/MG_2278-rotated.jpg[39m
+🔥 /uploads/rewards_promo.png <- [90m/uploads/rewards_promo.png[39m
+🔥 /uploads/Screenshot_20230130-210732.png <- [90m/uploads/Screenshot_20230130-210732.png[39m
+🔥 /uploads/dankeshon.jpg <- [90m/uploads/dankeshon.jpg[39m
+🔥 /uploads/1000017029-505x1024.jpg <- [90m/uploads/1000017029-505x1024.jpg[39m
+🔥 /uploads/110x32_best_blue.png <- [90m/uploads/110x32_best_blue.png[39m
+🔥 /uploads/5350e457-540x1024.jpg <- [90m/uploads/5350e457-540x1024.jpg[39m
+🔥 /uploads/85e7a20845cea06e-768x1024.jpg <- [90m/uploads/85e7a20845cea06e-768x1024.jpg[39m
+🔥 /uploads/MG_3379.jpg <- [90m/uploads/MG_3379.jpg[39m
+🔥 /uploads/Screenshot_20221220-170720.png <- [90m/uploads/Screenshot_20221220-170720.png[39m
+🔥 /uploads/00013-3636793958.jpg <- [90m/uploads/00013-3636793958.jpg[39m
+🔥 /uploads/ff-e1707311958782.png <- [90m/uploads/ff-e1707311958782.png[39m
+🔥 /uploads/Fyf19goaIAA797m-1024x689.jpeg <- [90m/uploads/Fyf19goaIAA797m-1024x689.jpeg[39m
+🔥 /uploads/Screenshot_20240427_200718.png <- [90m/uploads/Screenshot_20240427_200718.png[39m
+🔥 /uploads/MG_0054-3-1024x683.jpg <- [90m/uploads/MG_0054-3-1024x683.jpg[39m
+🔥 /uploads/Fo68-jXaAAEVSSY.jpg <- [90m/uploads/Fo68-jXaAAEVSSY.jpg[39m
+🔥 /uploads/MG_0024-1024x683.jpg <- [90m/uploads/MG_0024-1024x683.jpg[39m
+🔥 /uploads/posi-1.png <- [90m/uploads/posi-1.png[39m
+🔥 /uploads/tab-l.png <- [90m/uploads/tab-l.png[39m
+🔥 /uploads/00102-3208348943.jpg <- [90m/uploads/00102-3208348943.jpg[39m
+🔥 /uploads/80x15_orange.png <- [90m/uploads/80x15_orange.png[39m
+🔥 /uploads/xau-1024x597.png <- [90m/uploads/xau-1024x597.png[39m
+🔥 /uploads/bllllll-1024x547.png <- [90m/uploads/bllllll-1024x547.png[39m
+🔥 /uploads/BTCUSD_2023-02-20_12-34-34.png <- [90m/uploads/BTCUSD_2023-02-20_12-34-34.png[39m
+🔥 /uploads/SPX_2023-05-06_15-45-24.png <- [90m/uploads/SPX_2023-05-06_15-45-24.png[39m
+🔥 /uploads/german-fed.png <- [90m/uploads/german-fed.png[39m
+🔥 /uploads/rtttt.png <- [90m/uploads/rtttt.png[39m
+🔥 /uploads/doge-oi-1024x470.png <- [90m/uploads/doge-oi-1024x470.png[39m
+🔥 /uploads/fredgraph-2.png <- [90m/uploads/fredgraph-2.png[39m
+🔥 /uploads/Screenshot_20230213-172331.jpg <- [90m/uploads/Screenshot_20230213-172331.jpg[39m
+🔥 /uploads/Screenshot_20230314-214515-793x1024.png <- [90m/uploads/Screenshot_20230314-214515-793x1024.png[39m
+🔥 /uploads/th-2226400214.jpg <- [90m/uploads/th-2226400214.jpg[39m
+🔥 /uploads/PXL_20211024_004459486.jpg <- [90m/uploads/PXL_20211024_004459486.jpg[39m
+🔥 /uploads/Fus1iElaEAA0yIc.jpg <- [90m/uploads/Fus1iElaEAA0yIc.jpg[39m
+🔥 /uploads/4chancome.png <- [90m/uploads/4chancome.png[39m
+🔥 /uploads/us10y-1024x486.png <- [90m/uploads/us10y-1024x486.png[39m
+🔥 /uploads/PXL_20231118_183437736.jpg <- [90m/uploads/PXL_20231118_183437736.jpg[39m
+🔥 /uploads/110x32_best_green.png <- [90m/uploads/110x32_best_green.png[39m
+🔥 /uploads/MG_3567.jpg <- [90m/uploads/MG_3567.jpg[39m
+🔥 /uploads/PXL_20240421_120115620-768x1024.jpg <- [90m/uploads/PXL_20240421_120115620-768x1024.jpg[39m
+🔥 /uploads/imgrc0129407212-1024x1024.jpg <- [90m/uploads/imgrc0129407212-1024x1024.jpg[39m
+🔥 /uploads/btc-1024x530.png <- [90m/uploads/btc-1024x530.png[39m
+🔥 /uploads/MG_0030.jpg <- [90m/uploads/MG_0030.jpg[39m
+🔥 /uploads/eva.jpg <- [90m/uploads/eva.jpg[39m
+🔥 /uploads/fredgraph-1024x350.png <- [90m/uploads/fredgraph-1024x350.png[39m
+🔥 /uploads/AAPL_2023-05-06_18-16-33.png <- [90m/uploads/AAPL_2023-05-06_18-16-33.png[39m
+🔥 /uploads/MG_3569.jpg <- [90m/uploads/MG_3569.jpg[39m
+🔥 /uploads/PXL_20230513_2254184482-983x1024.jpg <- [90m/uploads/PXL_20230513_2254184482-983x1024.jpg[39m
+🔥 /uploads/chfjpy-1024x531.png <- [90m/uploads/chfjpy-1024x531.png[39m
+🔥 /uploads/INTC_2023-05-06_18-19-22-1024x427.png <- [90m/uploads/INTC_2023-05-06_18-19-22-1024x427.png[39m
+🔥 /uploads/mask-to-mask-1024x352.png <- [90m/uploads/mask-to-mask-1024x352.png[39m
+🔥 /uploads/161013-bob-dylan-sunglasses-1104a-ascii-art.png <- [90m/uploads/161013-bob-dylan-sunglasses-1104a-ascii-art.png[39m
+🔥 /uploads/4130b19da06b0b03.jpg <- [90m/uploads/4130b19da06b0b03.jpg[39m
+🔥 /uploads/RRp.png <- [90m/uploads/RRp.png[39m
+🔥 /uploads/aozora.png <- [90m/uploads/aozora.png[39m
+🔥 /uploads/1685462150450.jpg <- [90m/uploads/1685462150450.jpg[39m
+🔥 /uploads/FpPrtyzaMAIGfel.jpg <- [90m/uploads/FpPrtyzaMAIGfel.jpg[39m
+🔥 /uploads/PXL_20230612_153550802.jpg <- [90m/uploads/PXL_20230612_153550802.jpg[39m
+🔥 /uploads/img401-1024x729.jpg <- [90m/uploads/img401-1024x729.jpg[39m
+🔥 /uploads/1682731320996.png <- [90m/uploads/1682731320996.png[39m
+🔥 /uploads/miku.jpg <- [90m/uploads/miku.jpg[39m
+🔥 /uploads/PXL_20240108_142441482.jpg <- [90m/uploads/PXL_20240108_142441482.jpg[39m
+🔥 /uploads/Screenshot_20240620_003424.png <- [90m/uploads/Screenshot_20240620_003424.png[39m
+🔥 /uploads/amazonaa-1024x210.png <- [90m/uploads/amazonaa-1024x210.png[39m
+🔥 /uploads/images-2023-01-31T203208.410.jpeg <- [90m/uploads/images-2023-01-31T203208.410.jpeg[39m
+🔥 /uploads/PXL_20230811_182219697-768x1024.jpg <- [90m/uploads/PXL_20230811_182219697-768x1024.jpg[39m
+🔥 /uploads/1685462128174-e1685509674160.jpg <- [90m/uploads/1685462128174-e1685509674160.jpg[39m
+🔥 /uploads/devuan.png <- [90m/uploads/devuan.png[39m
+🔥 /uploads/eth-terapad.png <- [90m/uploads/eth-terapad.png[39m
+🔥 /uploads/juli-ascii-art.png <- [90m/uploads/juli-ascii-art.png[39m
+🔥 /uploads/20230131_202440.jpg <- [90m/uploads/20230131_202440.jpg[39m
+🔥 /uploads/MG_3368.jpg <- [90m/uploads/MG_3368.jpg[39m
+🔥 /uploads/Screenshot_20230121-015031-1024x680.png <- [90m/uploads/Screenshot_20230121-015031-1024x680.png[39m
+🔥 /uploads/148d04101ba7e462.png <- [90m/uploads/148d04101ba7e462.png[39m
+🔥 /uploads/BTCUSD_2023-02-20_12-34-34-1024x450.png <- [90m/uploads/BTCUSD_2023-02-20_12-34-34-1024x450.png[39m
+🔥 /uploads/2022-09-14-e1663121082436-1024x799.jpg <- [90m/uploads/2022-09-14-e1663121082436-1024x799.jpg[39m
+🔥 /uploads/PXL_20231014_023212791-768x1024.jpg <- [90m/uploads/PXL_20231014_023212791-768x1024.jpg[39m
+🔥 /uploads/sdfgdfg-1024x544.png <- [90m/uploads/sdfgdfg-1024x544.png[39m
+🔥 /uploads/PXL_20240108_082420543-768x1024.jpg <- [90m/uploads/PXL_20240108_082420543-768x1024.jpg[39m
+🔥 /uploads/doge-1024x346.png <- [90m/uploads/doge-1024x346.png[39m
+🔥 /uploads/80x15_square_blue.png <- [90m/uploads/80x15_square_blue.png[39m
+🔥 /uploads/DVHmFp0UMAEvHUG-1024x576.jpg <- [90m/uploads/DVHmFp0UMAEvHUG-1024x576.jpg[39m
+🔥 /uploads/xmrnode.png <- [90m/uploads/xmrnode.png[39m
+🔥 /uploads/FMlEXNZakAM1Dvp.jpeg <- [90m/uploads/FMlEXNZakAM1Dvp.jpeg[39m
+🔥 /uploads/MG_3566.jpg <- [90m/uploads/MG_3566.jpg[39m
+🔥 /uploads/500x500.jpg <- [90m/uploads/500x500.jpg[39m
+🔥 /uploads/Fyf19goaIAA797m.jpeg <- [90m/uploads/Fyf19goaIAA797m.jpeg[39m
+🔥 /uploads/ftxxx.png <- [90m/uploads/ftxxx.png[39m
+🔥 /uploads/us10y.png <- [90m/uploads/us10y.png[39m
+🔥 /uploads/1685464454619-1.jpg <- [90m/uploads/1685464454619-1.jpg[39m
+🔥 /uploads/teto-1024x1024.png <- [90m/uploads/teto-1024x1024.png[39m
+🔥 /uploads/ftx.png <- [90m/uploads/ftx.png[39m
+🔥 /uploads/PXL_20230613_080210666.jpg <- [90m/uploads/PXL_20230613_080210666.jpg[39m
+🔥 /uploads/Screenshot_20230205-024724-606x1024.png <- [90m/uploads/Screenshot_20230205-024724-606x1024.png[39m
+🔥 /uploads/SPX_2023-02-20_12-42-50.png <- [90m/uploads/SPX_2023-02-20_12-42-50.png[39m
+🔥 /uploads/XAUUSD_2023-02-20_12-34-46.png <- [90m/uploads/XAUUSD_2023-02-20_12-34-46.png[39m
+🔥 /uploads/2377_2023-05-26_10-28-52.png <- [90m/uploads/2377_2023-05-26_10-28-52.png[39m
+🔥 /uploads/keith-flint-the-prodigy-firestarter-MV-billboard-1548-ascii-art-1024x679.jpg <- [90m/uploads/keith-flint-the-prodigy-firestarter-MV-billboard-1548-ascii-art-1024x679.jpg[39m
+🔥 /uploads/alameda2.png <- [90m/uploads/alameda2.png[39m
+🔥 /uploads/faec0118b24b4bfd-1.png <- [90m/uploads/faec0118b24b4bfd-1.png[39m
+🔥 /uploads/wp-we74bun-2-2z.gif <- [90m/uploads/wp-we74bun-2-2z.gif[39m
+🔥 /uploads/00132-3951556215.jpg <- [90m/uploads/00132-3951556215.jpg[39m
+🔥 /uploads/error.png <- [90m/uploads/error.png[39m
+🔥 /uploads/PXL_20231118_173333965-768x1024.jpg <- [90m/uploads/PXL_20231118_173333965-768x1024.jpg[39m
+🔥 /uploads/8.png <- [90m/uploads/8.png[39m
+🔥 /uploads/ethhhhrrr.png <- [90m/uploads/ethhhhrrr.png[39m
+🔥 /uploads/xau-1024x479.png <- [90m/uploads/xau-1024x479.png[39m
+🔥 /uploads/cpu.png <- [90m/uploads/cpu.png[39m
+🔥 /uploads/PXL_20211024_004735508.jpg <- [90m/uploads/PXL_20211024_004735508.jpg[39m
+🔥 /uploads/PXL_20231014_020303614-768x1024.jpg <- [90m/uploads/PXL_20231014_020303614-768x1024.jpg[39m
+🔥 /uploads/conoha.png <- [90m/uploads/conoha.png[39m
+🔥 /uploads/xauuu.png <- [90m/uploads/xauuu.png[39m
+🔥 /uploads/images-2023-02-09T083724.448.jpeg <- [90m/uploads/images-2023-02-09T083724.448.jpeg[39m
+🔥 /uploads/Screens.png <- [90m/uploads/Screens.png[39m
+🔥 /uploads/764026.jpg <- [90m/uploads/764026.jpg[39m
+🔥 /uploads/51JXACRd9WL.jpg <- [90m/uploads/51JXACRd9WL.jpg[39m
+🔥 /uploads/DVHmFp0UMAEvHUG.jpg <- [90m/uploads/DVHmFp0UMAEvHUG.jpg[39m
+🔥 /uploads/PXL_20231117_1756315072-768x1024.jpg <- [90m/uploads/PXL_20231117_1756315072-768x1024.jpg[39m
+🔥 /uploads/29781-1024x1024.jpeg <- [90m/uploads/29781-1024x1024.jpeg[39m
+🔥 /uploads/sp500-1024x591.png <- [90m/uploads/sp500-1024x591.png[39m
+🔥 /uploads/F-4TwdeXgAAVu3r-ascii-art-1024x1024.png <- [90m/uploads/F-4TwdeXgAAVu3r-ascii-art-1024x1024.png[39m
+🔥 /uploads/PXL_20230505_160604182-scaled.jpg <- [90m/uploads/PXL_20230505_160604182-scaled.jpg[39m
+🔥 /uploads/I-Love-IBM-I.png <- [90m/uploads/I-Love-IBM-I.png[39m
+🔥 /uploads/qeixfb-623x1024.jpg <- [90m/uploads/qeixfb-623x1024.jpg[39m
+🔥 /uploads/93d197cfdf9b0071.jpg <- [90m/uploads/93d197cfdf9b0071.jpg[39m
+🔥 /uploads/MG_3366.jpg <- [90m/uploads/MG_3366.jpg[39m
+🔥 /uploads/sams-1024x54.png <- [90m/uploads/sams-1024x54.png[39m
+🔥 /uploads/cpippi-1024x431.png <- [90m/uploads/cpippi-1024x431.png[39m
+🔥 /uploads/1000016947-1024x561.png <- [90m/uploads/1000016947-1024x561.png[39m
+🔥 /uploads/PXL_20230613_033643814-768x1024.jpg <- [90m/uploads/PXL_20230613_033643814-768x1024.jpg[39m
+🔥 /uploads/faec0118b24b4bfd-1-1024x649.png <- [90m/uploads/faec0118b24b4bfd-1-1024x649.png[39m
+🔥 /uploads/tokyosta-1024x99.png <- [90m/uploads/tokyosta-1024x99.png[39m
+🔥 /uploads/PXL_20231019_073157300-768x1024.jpg <- [90m/uploads/PXL_20231019_073157300-768x1024.jpg[39m
+🔥 /uploads/7738fd62ef42f265-1.png <- [90m/uploads/7738fd62ef42f265-1.png[39m
+🔥 /uploads/us02-1024x527.png <- [90m/uploads/us02-1024x527.png[39m
+🔥 /uploads/Screenshot_20230102-211658.png <- [90m/uploads/Screenshot_20230102-211658.png[39m
+🔥 /uploads/oil.png <- [90m/uploads/oil.png[39m
+🔥 /uploads/picdamepo.jpg <- [90m/uploads/picdamepo.jpg[39m
+🔥 /uploads/PXL_20211024_004748856.jpg <- [90m/uploads/PXL_20211024_004748856.jpg[39m
+🔥 /uploads/Screenshot_20230219-121544.jpg <- [90m/uploads/Screenshot_20230219-121544.jpg[39m
+🔥 /uploads/image.png <- [90m/uploads/image.png[39m
+🔥 /uploads/Screenshot_20230416_105437.png <- [90m/uploads/Screenshot_20230416_105437.png[39m
+🔥 /uploads/img387-scaled.jpg <- [90m/uploads/img387-scaled.jpg[39m
+🔥 /uploads/MG_3364.jpg <- [90m/uploads/MG_3364.jpg[39m
+🔥 /uploads/貯蓄-1024x445.png <- [90m/uploads/貯蓄-1024x445.png[39m
+🔥 /uploads/PXL_20240108_142936334-768x1024.jpg <- [90m/uploads/PXL_20240108_142936334-768x1024.jpg[39m
+🔥 /uploads/Screenshot_20221231-234601-512x1024.png <- [90m/uploads/Screenshot_20221231-234601-512x1024.png[39m
+🔥 /uploads/00073-4168454763.jpg <- [90m/uploads/00073-4168454763.jpg[39m
+🔥 /uploads/PXL_20230428_124639326-scaled.jpg <- [90m/uploads/PXL_20230428_124639326-scaled.jpg[39m
+🔥 /uploads/Screenshot_20221220-170704.png <- [90m/uploads/Screenshot_20221220-170704.png[39m
+🔥 /uploads/qeixfb.jpg <- [90m/uploads/qeixfb.jpg[39m
+🔥 /uploads/logo.png <- [90m/uploads/logo.png[39m
+🔥 /uploads/index.md <- [90m/uploads/index.md[39m
+🔥 /uploads/PXL_20230811_130903438.jpg <- [90m/uploads/PXL_20230811_130903438.jpg[39m
+🔥 /uploads/XAUUSD_2023-04-22_15-21-30.png <- [90m/uploads/XAUUSD_2023-04-22_15-21-30.png[39m
+🔥 /uploads/9398826f4c1b3caf-768x1024.jpg <- [90m/uploads/9398826f4c1b3caf-768x1024.jpg[39m
+🔥 /uploads/qui.png <- [90m/uploads/qui.png[39m
+🔥 /uploads/1676766406822-745x1024.jpg <- [90m/uploads/1676766406822-745x1024.jpg[39m
+🔥 /uploads/96x31_pink.png <- [90m/uploads/96x31_pink.png[39m
+🔥 /uploads/PXL_20240108_1602293702.jpg <- [90m/uploads/PXL_20240108_1602293702.jpg[39m
+🔥 /uploads/US10Y_2023-04-22_15-37-04.png <- [90m/uploads/US10Y_2023-04-22_15-37-04.png[39m
+🔥 /uploads/200x32_best_orange.png <- [90m/uploads/200x32_best_orange.png[39m
+🔥 /uploads/fredgraph-2-1024x405.png <- [90m/uploads/fredgraph-2-1024x405.png[39m
+🔥 /uploads/SPX_2023-02-20_12-42-50-1024x405.png <- [90m/uploads/SPX_2023-02-20_12-42-50-1024x405.png[39m
+🔥 /uploads/Screenshot_20240427_193507.png <- [90m/uploads/Screenshot_20240427_193507.png[39m
+🔥 /uploads/Screenshot_20230516_140948.png <- [90m/uploads/Screenshot_20230516_140948.png[39m
+🔥 /uploads/Screenshot_20230516_141119-1024x300.png <- [90m/uploads/Screenshot_20230516_141119-1024x300.png[39m
+🔥 /uploads/MG_2258-1-scaled.jpg <- [90m/uploads/MG_2258-1-scaled.jpg[39m
+🔥 /uploads/sikinn.png <- [90m/uploads/sikinn.png[39m
+🔥 /uploads/Screenshot_20230429-103207-1024x268.png <- [90m/uploads/Screenshot_20230429-103207-1024x268.png[39m
+🔥 /uploads/PXL_20230612_154827248-768x1024.jpg <- [90m/uploads/PXL_20230612_154827248-768x1024.jpg[39m
+🔥 /uploads/rakuten.png <- [90m/uploads/rakuten.png[39m
+🔥 /uploads/PXL_20230612_152611278-768x1024.jpg <- [90m/uploads/PXL_20230612_152611278-768x1024.jpg[39m
+🔥 /uploads/fredgraph-1-1024x405.png <- [90m/uploads/fredgraph-1-1024x405.png[39m
+🔥 /uploads/fgthfghg.png <- [90m/uploads/fgthfghg.png[39m
+🔥 /uploads/images-1-1.jpeg <- [90m/uploads/images-1-1.jpeg[39m
+🔥 /uploads/Screenshot_20240128-122819-1024x580.png <- [90m/uploads/Screenshot_20240128-122819-1024x580.png[39m
+🔥 /uploads/n1101010.png <- [90m/uploads/n1101010.png[39m
+🔥 /uploads/n4201010.png <- [90m/uploads/n4201010.png[39m
+🔥 /uploads/dankeshon-724x1024.jpg <- [90m/uploads/dankeshon-724x1024.jpg[39m
+🔥 /uploads/PXL_20211024_004556466-1.jpg <- [90m/uploads/PXL_20211024_004556466-1.jpg[39m
+🔥 /uploads/20230223_191738-1024x878.jpg <- [90m/uploads/20230223_191738-1024x878.jpg[39m
+🔥 /uploads/MG_2775.jpg <- [90m/uploads/MG_2775.jpg[39m
+🔥 /uploads/bluerrrr.png <- [90m/uploads/bluerrrr.png[39m
+🔥 /uploads/PXL_20231117_215224146-768x1024.jpg <- [90m/uploads/PXL_20231117_215224146-768x1024.jpg[39m
+🔥 /uploads/5883763c515b1549.png <- [90m/uploads/5883763c515b1549.png[39m
+🔥 /uploads/apple.png <- [90m/uploads/apple.png[39m
+🔥 /uploads/hahah.png <- [90m/uploads/hahah.png[39m
+🔥 /uploads/MG_3382.jpg <- [90m/uploads/MG_3382.jpg[39m
+🔥 /uploads/PXL_20240505_175718638-768x1024.jpg <- [90m/uploads/PXL_20240505_175718638-768x1024.jpg[39m
+🔥 /uploads/alameda5-1.png <- [90m/uploads/alameda5-1.png[39m
+🔥 /uploads/posi.png <- [90m/uploads/posi.png[39m
+🔥 /uploads/usdept.png <- [90m/uploads/usdept.png[39m
+🔥 /uploads/80x15_purp.png <- [90m/uploads/80x15_purp.png[39m
+🔥 /uploads/Fr7p_thaIAU83_b.jpeg <- [90m/uploads/Fr7p_thaIAU83_b.jpeg[39m
+🔥 /uploads/PXL_20231028_135539057-768x1024.jpg <- [90m/uploads/PXL_20231028_135539057-768x1024.jpg[39m
+🔥 /uploads/matimmmm-1024x442.png <- [90m/uploads/matimmmm-1024x442.png[39m
+🔥 /uploads/PXL_20230811_182219697.jpg <- [90m/uploads/PXL_20230811_182219697.jpg[39m
+🔥 /uploads/6.png <- [90m/uploads/6.png[39m
+🔥 /uploads/F-ZtucQa4AAA8bf-ascii-art-997x1024.jpg <- [90m/uploads/F-ZtucQa4AAA8bf-ascii-art-997x1024.jpg[39m
+🔥 /uploads/PXL_20230613_080210666-768x1024.jpg <- [90m/uploads/PXL_20230613_080210666-768x1024.jpg[39m
+🔥 /uploads/when-you-cannot-15c5f48ca5.jpg <- [90m/uploads/when-you-cannot-15c5f48ca5.jpg[39m
+🔥 /uploads/us02y-1024x524.png <- [90m/uploads/us02y-1024x524.png[39m
+🔥 /uploads/aewfewfewfe.png <- [90m/uploads/aewfewfewfe.png[39m
+🔥 /uploads/Screenshot_20230204-627x1024.png <- [90m/uploads/Screenshot_20230204-627x1024.png[39m
+🔥 /uploads/PXL_20211028_232906842-768x1024.jpg <- [90m/uploads/PXL_20211028_232906842-768x1024.jpg[39m
+🔥 /uploads/PXL_20230811_123158476-768x1024.jpg <- [90m/uploads/PXL_20230811_123158476-768x1024.jpg[39m
+🔥 /uploads/MG_0054-scaled.jpg <- [90m/uploads/MG_0054-scaled.jpg[39m
+🔥 /uploads/maxresdefault-1.jpg <- [90m/uploads/maxresdefault-1.jpg[39m
+🔥 /uploads/PXL_20230428_124629608-768x1024.jpg <- [90m/uploads/PXL_20230428_124629608-768x1024.jpg[39m
+🔥 /uploads/PXL_20230612_152611278.jpg <- [90m/uploads/PXL_20230612_152611278.jpg[39m
+🔥 /uploads/MG_3377.jpg <- [90m/uploads/MG_3377.jpg[39m
+🔥 /uploads/PXL_20230612_151902419.jpg <- [90m/uploads/PXL_20230612_151902419.jpg[39m
+🔥 /uploads/Screenshot_20221231-234546.png <- [90m/uploads/Screenshot_20221231-234546.png[39m
+🔥 /uploads/MG_2783.jpg <- [90m/uploads/MG_2783.jpg[39m
+🔥 /uploads/ダウンロード.jpeg <- [90m/uploads/ダウンロード.jpeg[39m
+🔥 /uploads/PXL_20231028_135536184-768x1024.jpg <- [90m/uploads/PXL_20231028_135536184-768x1024.jpg[39m
+🔥 /uploads/gas.png <- [90m/uploads/gas.png[39m
+🔥 /uploads/000660_2023-05-26_11-18-12.png <- [90m/uploads/000660_2023-05-26_11-18-12.png[39m
+🔥 /uploads/MG_9997-scaled.jpg <- [90m/uploads/MG_9997-scaled.jpg[39m
+🔥 /uploads/80x15_green.png <- [90m/uploads/80x15_green.png[39m
+🔥 /uploads/paypayginko.png <- [90m/uploads/paypayginko.png[39m
+🔥 /uploads/sp-500-historical-chart-data-2018-04-22-macrotrends-lowerres.jpg <- [90m/uploads/sp-500-historical-chart-data-2018-04-22-macrotrends-lowerres.jpg[39m
+🔥 /uploads/mqdefault.jpg <- [90m/uploads/mqdefault.jpg[39m
+🔥 /uploads/unnamed-file-1024x549.png <- [90m/uploads/unnamed-file-1024x549.png[39m
+🔥 /uploads/btc.png <- [90m/uploads/btc.png[39m
+🔥 /uploads/Screenshot_20240427_192258.png <- [90m/uploads/Screenshot_20240427_192258.png[39m
+🔥 /uploads/Screenshot_20240104_151041.png <- [90m/uploads/Screenshot_20240104_151041.png[39m
+🔥 /uploads/usdjpy.png <- [90m/uploads/usdjpy.png[39m
+🔥 /uploads/amazonaa.png <- [90m/uploads/amazonaa.png[39m
+🔥 /uploads/apple-1024x116.png <- [90m/uploads/apple-1024x116.png[39m
+🔥 /uploads/blur.png <- [90m/uploads/blur.png[39m
+🔥 /uploads/ant.png <- [90m/uploads/ant.png[39m
+🔥 /uploads/2022-09-14-e1663121082436.jpg <- [90m/uploads/2022-09-14-e1663121082436.jpg[39m
+🔥 /uploads/Screenshot_20230213-172331-706x1024.jpg <- [90m/uploads/Screenshot_20230213-172331-706x1024.jpg[39m
+🔥 /uploads/PXL_20230514_131205886.jpg <- [90m/uploads/PXL_20230514_131205886.jpg[39m
+🔥 /uploads/search.png <- [90m/uploads/search.png[39m
+🔥 /uploads/ant-1024x56.png <- [90m/uploads/ant-1024x56.png[39m
+🔥 /uploads/202110021.jpg <- [90m/uploads/202110021.jpg[39m
+🔥 /uploads/VIX_2023-05-06_15-35-34-1024x478.png <- [90m/uploads/VIX_2023-05-06_15-35-34-1024x478.png[39m
+🔥 /uploads/1000017029.jpg <- [90m/uploads/1000017029.jpg[39m
+🔥 /uploads/Amd-ryzen-5-2400g-r5-2400g-3-6-ghz-quad-core-oito-thread-65w-processador-central.jpg_Q90.jpg_.jpeg <- [90m/uploads/Amd-ryzen-5-2400g-r5-2400g-3-6-ghz-quad-core-oito-thread-65w-processador-central.jpg_Q90.jpg_.jpeg[39m
+🔥 /uploads/soulminingtest.png <- [90m/uploads/soulminingtest.png[39m
+🔥 /uploads/PXL_20231105_101946851-768x1024.jpg <- [90m/uploads/PXL_20231105_101946851-768x1024.jpg[39m
+🔥 /uploads/NI225_2023-02-20_22-58-25.png <- [90m/uploads/NI225_2023-02-20_22-58-25.png[39m
+🔥 /uploads/PXL_20230811_121409178-768x1024.jpg <- [90m/uploads/PXL_20230811_121409178-768x1024.jpg[39m
+🔥 /uploads/FzwZOZbaQAAEGS3.jpeg <- [90m/uploads/FzwZOZbaQAAEGS3.jpeg[39m
+🔥 /uploads/PXL_20211028_232928030.jpg <- [90m/uploads/PXL_20211028_232928030.jpg[39m
+🔥 /uploads/PXL_20230811_130903438-768x1024.jpg <- [90m/uploads/PXL_20230811_130903438-768x1024.jpg[39m
+🔥 /uploads/l_yu_orb.jpg <- [90m/uploads/l_yu_orb.jpg[39m
+🔥 /uploads/MG_3565.jpg <- [90m/uploads/MG_3565.jpg[39m
+🔥 /uploads/2.png <- [90m/uploads/2.png[39m
+🔥 /uploads/eva2-724x1024.jpg <- [90m/uploads/eva2-724x1024.jpg[39m
+🔥 /favicon.png <- [90m/favicon.png[39m
+🔥 /uploads/PXL_20230612_153555459.jpg <- [90m/uploads/PXL_20230612_153555459.jpg[39m
+🔥 /uploads/PXL_20230811_202136033-768x1024.jpg <- [90m/uploads/PXL_20230811_202136033-768x1024.jpg[39m
+🔥 /uploads/images/pic_hall_visitor_areamap01.jpg <- [90m/uploads/images/pic_hall_visitor_areamap01.jpg[39m
+🔥 /uploads/images/PXL_20230514_131205886.jpg <- [90m/uploads/images/PXL_20230514_131205886.jpg[39m
+🔥 /js/main.js <- [90m/js/main.js[39m
+🔥 /js/comments.js <- [90mhttps://unpkg.com/@oom/mastodon-comments@0.2.1/src/comments.js[39m
+  CMS server started at:
+  [92mhttp://localhost:3000/admin[39m (local)
+  [92mhttp://192.168.10.118:3000/admin[39m (network)

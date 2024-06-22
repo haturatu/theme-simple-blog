@@ -2,7 +2,9 @@
   "imports": {
     "lume/": "https://deno.land/x/lume@v2.2.2/",
     "blog/": "https://deno.land/x/lume_theme_simple_blog@v0.15.4/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.5.2/"
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.5.2/",
+    "gray-matter": "npm:gray-matter@4.0.3",
+    "walk/": "https://deno.land/std@0.108.0/fs/"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",

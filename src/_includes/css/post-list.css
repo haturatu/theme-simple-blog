@@ -18,7 +18,6 @@
   }
 
   & .post-title {
-    font: var(--font-title);
     letter-spacing: var(--font-title-spacing);
     display: block;
 
@@ -27,3 +26,37 @@
     }
   }
 }
+
+
+/* PC用のフォントサイズ */
+@media (min-width: 481px) {
+  .post-title{
+    font-size: 2.5em;
+  }
+
+  .post-body.body {
+    font-size: 2em;
+  }
+
+  .post-body.body {
+    font-size: 1.2em;
+  }
+
+  .body img {
+    max-width: 80%;
+  }
+
+}
+
+/* スマートフォン用のフォントサイズ */
+@media (max-width: 480px) {
+
+  .post-body.body {
+    font-size: 1em;
+  }
+
+  .post-body.body {
+    font-size: 0.8em;
+  }
+}
+

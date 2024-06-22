@@ -6,8 +6,9 @@
   font: var(--font-display);
   letter-spacing: var(--font-display-spacing);
   margin: 0 0 0.2em;
-  text-wrap: balance;
+  text-wrap: wrap;
   color: var(--color-base);
+  font-size: 1.1em;
 }
 
 .post-details {
@@ -18,24 +19,24 @@
   align-items: center;
   font: var(--font-small);
   color: var(--color-dim);
+}
 
-  & p {
-    margin: 0;
-  }
+.post-details p {
+  margin: 0;
+}
 
-  & p:nth-child(-n+2)::after {
-    content: "•";
-    padding-left: .5em;
-    align-self: stretch;
-  }
+.post-details p:nth-child(-n+2)::after {
+  content: "•";
+  padding-left: .5em;
+  align-self: stretch;
+}
 
-  & p:last-of-type {
-    margin-right: .5em;
-  }
+.post-details p:last-of-type {
+  margin-right: .5em;
+}
 
-  & a {
-    color: inherit;
-  }
+.post-details a {
+  color: inherit;
 }
 
 .post-tags {
@@ -48,3 +49,41 @@
 .post-link {
   display: inline-block;
 }
+
+/* PC用のフォントサイズ */
+@media (min-width: 481px) {
+  .post-title{
+    font-size: 1.5em;
+  }
+
+  .post-body.body {
+    font-size: 2em;
+  }
+
+  .post-body.body {
+    font-size: 1.2em;
+  }
+
+   .body img {
+    max-width: 80%;
+  }
+
+}
+
+/* スマートフォン用のフォントサイズ */
+@media (max-width: 480px) {
+
+  .body .header-anchor{
+    font-size: 0.5em;
+
+  }
+
+  .post-body.body {
+    font-size: 1em;
+  }
+
+  .post-body.body {
+    font-size: 0.8em;
+  }
+}
+

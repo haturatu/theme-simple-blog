@@ -1,5 +1,6 @@
 posts/*.md
 src/uploads
+src/posts
 _site
 _bin
 deno.lock

@@ -28,9 +28,9 @@ title: Home
         } }}
     </header>
 
-    <div class="post-excerpt body">
-      {{ post.excerpt |> md }}
-    </div>
+  <div class="post-excerpt body">
+{{ post.excerpt |> slice(0, 100) |> md }}
+  </div>
 
     <a href="{{ post.url }}" class="post-link">
       {{ i18n.nav.continue_reading }}
@@ -42,3 +42,4 @@ title: Home
 <hr>
 
 <p>{{ i18n.nav.archive }}</p>
+

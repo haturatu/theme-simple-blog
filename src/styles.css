@@ -29,3 +29,64 @@ main {
 .search {
   margin-top: var(--row-gap-xsmall);
 }
+
+.post {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 5px solid #ccc;
+  margin: 5px;
+  border-radius: 15px; /* 角の丸みを調整 */
+  width: 100%; /* 幅を広げる */
+}
+
+/* PC用のフォントサイズ */
+@media (min-width: 481px) {
+  .post-title{
+    font-size: 1.45em;
+  }
+
+  .post-excerpt.body {
+    font-size: 2em;
+  }
+
+  .post-excerpt.body {
+    font-size: 1.2em;
+  }
+
+  .body img {
+    max-width: 80%;
+  }
+
+  .postList {
+    & .post-title {
+      & a {
+        font-size: 0.8em;
+      }
+    }
+  }
+}
+
+/* スマートフォン用のフォントサイズ */
+@media (max-width: 480px) {
+
+  .post-title {
+    font-size: 1.5em;
+  }
+
+  .post-header {
+    line-height: 0.5em;
+
+  }
+
+  .post-excerpt.body {
+    font-size: 0.8em;
+  }
+
+  .post-body.body {
+    font-size: 0.8em;
+  }
+
+  .header-anchor {
+    font-size: 0.7em;
+  }
+}

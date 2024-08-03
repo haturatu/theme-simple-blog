@@ -34,7 +34,6 @@ main {
   box-sizing: border-box;
   padding: 10px;
   border: 5px solid #ccc;
-  margin: 5px;
   border-radius: 15px; /* 角の丸みを調整 */
   width: 100%; /* 幅を広げる */
 }
